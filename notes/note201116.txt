@@ -1,0 +1,2 @@
+todo.try to configure with no specific lookup files like misspelling names (crpt-data.py model) (SAME PROBLEM)
+todo.divide classes into models as agreed on the meeting
