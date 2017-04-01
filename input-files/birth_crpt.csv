@@ -1,0 +1,1301 @@
+rec-id,FirstName,Gender,LastName,FatherLastName,DateofBirth,FatherFirstName,FatherOccupation,MotherLastName,MotherFirstName,MotherOccupation,Occupation
+rec-0-org,George,M,ALCORN,ALCORN,1712-08-21,Hugh,carpenter,ELLIOT,Mary,weaver,school teacher
+rec-1-org,Peter,M,RICH,RICH,1713-10-22,James,time keeper (civil engineering),FAGAN,Isabella,teacher,gasfitter
+rec-10-org,Anne,F,ALCORN,ALCORN,1728-03-13,Hugh,carpenter,ELLIOT,Mary,weaver,farmer
+rec-100-org,John,M,BENN,BENN,1727-05-23,Charles,domestic servant,HOWARTH,Jane,farm labourer,farmer
+rec-101-dup-0,Hellqn,F,RICH,RICH,1732-02-26,James,time keeper (civil engineering),FAGAN,Isabella,teacher,plasterer
+rec-101-org,Hellen,F,RICH,RICH,1732-02-26,James,time keeper (civil engineering),FAGAN,Isabella,teacher,plasterer
+rec-102-org,Mary,F,DANNILS,DANNILS,1729-07-24,Robert,warehouseman,LOCK,Marion,foreman mechanic,blacksmith
+rec-103-org,Jane,F,SWANSON,SWANSON,1731-09-20,John,sawyer,RYAN,Joan,blacksmith,farmer
+rec-104-org,William,M,REAKES,REAKES,1734-06-03,Willi,labourer,SCHULEN,Elizabeth,fitter at steelplant,miner
+rec-105-dup-0,Wiliat,M,SMITH,SMITH,1732-08-29,Hugh,potter,SPRAGG,Isabella,engine driver (british rail),labourer
+rec-105-org,Wiliam,M,SMITH,SMITH,1732-08-29,Hugh,potter,SPRAGG,Isabella,engine driver (british rail),labourer
+rec-106-dup-0,ksabella,F,DAVIES,DAVIES,1731-07-07,James,meal miller,RAY,Jessie,welder,carpenter
+rec-106-dup-1,Isanella,F,DAVIES,DAVIES,1731-07-07,James,meal miller,RAY,Jessie,welder,carpenter
+rec-106-org,Isabella,F,DAVIES,DAVIES,1731-07-07,James,meal miller,RAY,Jessie,welder,carpenter
+rec-107-org,Agnes,F,FRITH,FRITH,1737-01-11,Malcolm,butcher,GRAHAM,Margaret,pawn broker,lab
+rec-108-dup-0,Alexancler,M,RICHARDSON,RICHARDSON,1728-09-01,Alexander,servant,CULL,Margaret,mechanic,watchmaker
+rec-108-dup-1,Aelxander,M,RICHARDSON,RICHARDSON,1728-09-01,Alexander,servant,CULL,Margaret,mechanic,watchmaker
+rec-108-org,Alexander,M,RICHARDSON,RICHARDSON,1728-09-01,Alexander,servant,CULL,Margaret,mechanic,watchmaker
+rec-109-org,Janet,F,HAWKEN,HAWKEN,1730-11-07,Alexander,domestic servant (parlourmaid),BENNETT,Catharine,colliery engineer,motorman
+rec-11-org,Jas,M,WHATTON,WHATTON,1721-10-22,John,carpenter,STEPHENSON,Elisabeth,mariner,council gardener
+rec-110-dup-0,Willism,M,BUCK,BUCK,1730-10-20,Archibald,munitions factory worker,REES,Margaret,senior contract engineer,lab
+rec-110-dup-1,Wlliam,M,BUCK,BUCK,1730-10-20,Archibald,munitions factory worker,REES,Margaret,senior contract engineer,lab
+rec-110-org,William,M,BUCK,BUCK,1730-10-20,Archibald,munitions factory worker,REES,Margaret,senior contract engineer,lab
+rec-111-org,Duncan,M,HERNE,HERNE,1730-12-13,John,farmer,JONES,Elizabeth,tanner,woollen draper
+rec-112-org,Jane,F,LIFTON,LIFTON,1727-08-05,James,gilder,HOLLIWELL,Margaret,carpenter,fisherman
+rec-113-org,Ellen,F,LYONS,LYONS,1731-12-24,Edward,chemist and druggist,NOTT,Susanah,builder,builder
+rec-114-dup-0,Maru,F,SNOOK,SNOOK,1730-10-26,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,labourer in iron factory
+rec-114-org,Mary,F,SNOOK,SNOOK,1730-10-26,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,labourer in iron factory
+rec-115-dup-0,Jang,F,TUCKER,TUCKER,1726-01-28,James,blacksmith,MOUNTFORD,Margret,master mariner,carpenter
+rec-115-dup-1,Jame,F,TUCKER,TUCKER,1726-01-28,James,blacksmith,MOUNTFORD,Margret,master mariner,carpenter
+rec-115-org,Jane,F,TUCKER,TUCKER,1726-01-28,James,blacksmith,MOUNTFORD,Margret,master mariner,carpenter
+rec-116-org,Jane,F,OFFLER,OFFLER,1728-06-01,Charles,labourer,WELLS,Mary,miner,sugar boiler
+rec-117-org,Agnes,F,BOWMAN,BOWMAN,1728-06-02,Hugh,draper,TREDWIN,Jane,clerk,mason
+rec-118-org,Helen,F,PAINE,PAINE,1734-06-17,Edward,ag lab,LOWSON,Ellen,seamstress,assistant foreman
+rec-119-org,George,M,RIEVERTS,RIEVERTS,1736-03-23,Harvey,servant,COOKMAN,Annie,farmer,ropemaker
+rec-12-org,Mark,M,TONGE,TONGE,1721-05-30,John,parish clerk,ROBINSON,Sophia,locksmith,army officer
+rec-120-dup-0,aJs,M,FULKER,FULKER,1729-02-10,James,farmer,BARBER,Mary,coachman,public transport omnibus driver
+rec-120-dup-1,as,M,FULKER,FULKER,1729-02-10,James,farmer,BARBER,Mary,coachman,public transport omnibus driver
+rec-120-org,Jas,M,FULKER,FULKER,1729-02-10,James,farmer,BARBER,Mary,coachman,public transport omnibus driver
+rec-121-dup-0,Sam8el,M,HALL,HALL,1735-10-31,John,greengrocer,ALLCOCK,Jane,analytical chemist,architect
+rec-121-dup-1,Samue1,M,HALL,HALL,1735-10-31,John,greengrocer,ALLCOCK,Jane,analytical chemist,architect
+rec-121-dup-2,Sgmuel,M,HALL,HALL,1735-10-31,John,greengrocer,ALLCOCK,Jane,analytical chemist,architect
+rec-121-org,Samuel,M,HALL,HALL,1735-10-31,John,greengrocer,ALLCOCK,Jane,analytical chemist,architect
+rec-122-dup-0,Marj,F,CLARKE,CLARKE,1731-08-25,Willia,relief stamper,HARRIS,Maggie,farm manager,groom
+rec-122-dup-1,Marv,F,CLARKE,CLARKE,1731-08-25,Willia,relief stamper,HARRIS,Maggie,farm manager,groom
+rec-122-dup-2,tMary,F,CLARKE,CLARKE,1731-08-25,Willia,relief stamper,HARRIS,Maggie,farm manager,groom
+rec-122-org,Mary,F,CLARKE,CLARKE,1731-08-25,Willia,relief stamper,HARRIS,Maggie,farm manager,groom
+rec-123-org,David,M,ROGERS,ROGERS,1729-10-27,James,servant,ELDRED,Mary,manager, tile factory,coachman
+rec-124-org,Thomas,M,MORRIS,MORRIS,1731-03-02,John,farmer,MILLER,Margaret,school attendance officer,farmer
+rec-125-dup-0,E1spet,F,SHAW,SHAW,1730-06-06,Henry,engineer,DOUR,Elizabeth,boatman,carpenter
+rec-125-org,Elspet,F,SHAW,SHAW,1730-06-06,Henry,engineer,DOUR,Elizabeth,boatman,carpenter
+rec-126-org,Christina,F,CROOKS,CROOKS,1739-08-21,Thomas,farmer,LAXTON,Agnes,gardener,school mistress
+rec-127-org,Jeanie,F,STEPHENS,STEPHENS,1728-06-18,Wm,riding master,KNOW,Janet,secretary,mariner
+rec-128-org,Grace,F,DOWN,DOWN,1732-12-08,George,printer,SHOOTER,Mary,tanner,gentlemans coachman
+rec-129-org,Duncan,M,MANNING,MANNING,1730-03-05,James,quarryman,TYNE,Mary,farmer,tailor
+rec-13-dup-0,Johri,M,HUNTLEY,HUNTLEY,1723-01-10,Samuel,shepherd,BAKER,Jane,coal miner,basket maker
+rec-13-dup-1,Jojn,M,HUNTLEY,HUNTLEY,1723-01-10,Samuel,shepherd,BAKER,Jane,coal miner,basket maker
+rec-13-org,John,M,HUNTLEY,HUNTLEY,1723-01-10,Samuel,shepherd,BAKER,Jane,coal miner,basket maker
+rec-130-org,George,M,BACKHOUSE,BACKHOUSE,1730-09-15,Thomas,ag lab,DAVIDSON,Jane,assistant secretary, museum,gardener
+rec-131-dup-0,Ro1>ert,M,FOSTER,FOSTER,1735-08-24,Hugh,labourer,TROOP,Eliz,oriform machinist,labourer
+rec-131-dup-1,Ronert,M,FOSTER,FOSTER,1735-08-24,Hugh,labourer,TROOP,Eliz,oriform machinist,labourer
+rec-131-org,Robert,M,FOSTER,FOSTER,1735-08-24,Hugh,labourer,TROOP,Eliz,oriform machinist,labourer
+rec-132-org,David,M,HARD,HARD,1740-02-18,George,mason,HUTTON,Annie,blacksmith,blacksmith
+rec-133-org,Margaret,F,MILLER,MILLER,1731-07-01,James,jack frame tenter (cotton mill),PHILLIPS,C,domestic servant,corporal & shorthand typist in legal branch of arm
+rec-134-org,Donald,M,EVANS,EVANS,1748-05-10,Archibald,farmer,BRAY,Catherine,labourer,sailor
+rec-135-org,James,M,HODGSON,HODGSON,1734-02-21,Robert,labourer,MCCALLUM,Jessie,cigarette maker,drover
+rec-136-org,George,M,FAIR,FAIR,1733-03-03,James,thatcher,NORSK,Mary,crane driver,farmer
+rec-137-org,Mary,F,BARKER,BARKER,1729-12-27,Samuel,grocer,STEWART,Christina,warehouseman,personal assistant to dept manager
+rec-138-org,Eliza,F,ROBERTS,ROBERTS,1735-11-18,Samuel,domestic cleaner,FORRESTER,Christiana,jeweller,shipwright
+rec-139-org,Agnes,F,GILMOUR,GILMOUR,1734-02-28,William,scrap labourer,ALLEN,Isabella,railway clerk,farm bailiff
+rec-14-org,William,M,RICH,RICH,1724-02-27,James,time keeper (civil engineering),FAGAN,Isabella,teacher,plumber
+rec-140-org,Jessie,F,BODEN,BODEN,1739-07-03,James,servant,GARDENER,Elspet,school master,coal miner
+rec-141-dup-0,Lukinda,F,FOURACRE,FOURACRE,1731-06-18,John,shopkeeper,MALPAS,Margaret,weaver,weaver
+rec-141-dup-1,Ljcinda,F,FOURACRE,FOURACRE,1731-06-18,John,shopkeeper,MALPAS,Margaret,weaver,weaver
+rec-141-org,Lucinda,F,FOURACRE,FOURACRE,1731-06-18,John,shopkeeper,MALPAS,Margaret,weaver,weaver
+rec-142-org,Mary,F,CHESTERTON,CHESTERTON,1733-11-06,John,dockyard policeman,MUSTY,Marjory,stonemason,commercial traveller (dec'd)
+rec-143-org,Annie,F,JONE,JONE,1735-06-30,Duncan,saddler,PARDOE,Jane,gardener,shop assistant
+rec-144-org,Ann,F,JONE,JONE,1735-06-30,Duncan,saddler,PARDOE,Jane,gardener,general labourer
+rec-145-dup-0,Alexaner,M,CALVERT,CALVERT,1729-11-25,Alexr,shoemaker,HENDELL,Janet,waterman,electrician
+rec-145-org,Alexander,M,CALVERT,CALVERT,1729-11-25,Alexr,shoemaker,HENDELL,Janet,waterman,electrician
+rec-146-org,Jessie,F,WALLER,WALLER,1731-01-28,Robert,hawker,SMITH,Caloline,farmer,mason
+rec-147-org,Annie,F,VICKERS,VICKERS,1729-11-22,Wm,glassmaker,WHITTLE,Mary,blacksmith,engineer
+rec-148-org,Will,M,LONDON,LONDON,1734-01-06,John,farmer,PASSMORE,Ann,map and print colourer,headmaster
+rec-149-org,John,M,STURGESS,STURGESS,1741-01-26,Patrick,shoe finisher,FORRESTER,Annie,steel erector,accountant
+rec-15-dup-0,Catherinel,F,FOSTER,FOSTER,1725-11-13,Hugh,labourer,TROOP,Eliz,oriform machinist,boat builder
+rec-15-dup-1,Caherine,F,FOSTER,FOSTER,1725-11-13,Hugh,labourer,TROOP,Eliz,oriform machinist,boat builder
+rec-15-org,Catherine,F,FOSTER,FOSTER,1725-11-13,Hugh,labourer,TROOP,Eliz,oriform machinist,boat builder
+rec-150-org,Annie,F,RAMSDEN,RAMSDEN,1735-06-04,Will,railway guard,WEBESTER,Elen,master butcher,clerk in holy orders
+rec-151-org,Euphema,F,THOMAS,THOMAS,1731-06-11,Samuel,landowner,GREENAWAY,Christina,nurseryman,clerk
+rec-152-org,Mary,F,PHILLIPS,PHILLIPS,1734-11-30,John,textile worker,SHINN,Ellen,mariner,farmer
+rec-153-org,Colin,M,WILLIAMS,WILLIAMS,1734-03-27,David,cab proprietor,RAE,Elizabeth,cheesemonger,solicitor
+rec-154-org,Mary,F,MORAN,MORAN,1735-09-26,Thomas,ships carpenter,BARSBY,Elizabeth,bricklayer,paper mill worker
+rec-155-org,John,M,DAVIES,DAVIES,1736-09-19,William,shop owner,PAWSEY,Mary,iron merchant,compositor
+rec-156-org,Jessie,F,THOMAS,THOMAS,1734-01-26,Matthew,farmer,GILL,Margaret,domestic servant,dressmaker
+rec-157-org,Robert,M,QUARLE,QUARLE,1736-03-27,James,farm labourer,BARRETT,Mary,laundress,sea captain
+rec-158-org,Jessie,F,DICKENSON,DICKENSON,1735-02-04,James,yeoman  farmer,RISPIN,Martha,box tenter, woollen mill,gardener
+rec-159-org,Catherine,F,BELL,BELL,1739-06-02,John,lab,HARDCASTLE,Helen,carpenter,lacemaker
+rec-16-dup-0,Marv,F,CARTER,CARTER,1724-01-10,Robert,servant,SELKIRK,Emma,fisherman,pub worker
+rec-16-dup-1,May,F,CARTER,CARTER,1724-01-10,Robert,servant,SELKIRK,Emma,fisherman,pub worker
+rec-16-org,Mary,F,CARTER,CARTER,1724-01-10,Robert,servant,SELKIRK,Emma,fisherman,pub worker
+rec-160-org,Robert,M,TAYLOR,TAYLOR,1730-11-11,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),servant
+rec-161-org,Charles,M,SAUNDERSON,SAUNDERSON,1731-11-15,William,mariner,WETHERELL,Mary,farm labourer,coal miner
+rec-162-org,Jane,F,PETERS,PETERS,1732-03-28,Caldwell,farmer,NORTH,Maggie,boiler maker,gardener
+rec-163-org,Willia,M,BENN,BENN,1733-03-05,Charles,domestic servant,HOWARTH,Jane,farm labourer,draper
+rec-164-org,Georgina,F,LOCH,LOCH,1733-12-04,Alfred,steam roller driver,MCMILLAN,Annie,miller,cotton mill dresser
+rec-165-org,Catherine,F,CHAPLIN,CHAPLIN,1738-07-06,William,weaver,BROWNLIE,Ann,policeman,master tailor
+rec-166-org,Janet,F,LIFTON,LIFTON,1729-11-26,James,gilder,HOLLIWELL,Margaret,carpenter,farmer
+rec-167-org,Elizbeth,F,EDWARD,EDWARD,1732-05-13,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),ag lab
+rec-168-org,Robt,M,DAVIES,DAVIES,1733-12-28,Mark,transport rider,SPRINGETT,Elizabeth,cabinet maker,granite polisher
+rec-169-org,Alexander,M,DAVIES,DAVIES,1733-12-28,Mark,transport rider,SPRINGETT,Elizabeth,cabinet maker,farmer
+rec-17-org,Isabella,F,THOMAS,THOMAS,1718-10-31,Matthew,farmer,PHILLIPS,C,domestic servant,managing director (rolling stock firm)
+rec-170-org,William,M,DAVIES,DAVIES,1733-12-28,Mark,transport rider,SPRINGETT,Elizabeth,cabinet maker,labourer
+rec-171-org,Malm,M,DAVIES,DAVIES,1733-12-28,Mark,transport rider,SPRINGETT,Elizabeth,cabinet maker,domestic servant
+rec-172-dup-0,Jamaes,M,HEATLEY,HEATLEY,1732-09-01,Archbald,head brewer,SUTCLIFFE,Harriet,commercial traveller,chief boatswain (coastguard)
+rec-172-org,James,M,HEATLEY,HEATLEY,1732-09-01,Archbald,head brewer,SUTCLIFFE,Harriet,commercial traveller,chief boatswain (coastguard)
+rec-173-dup-0,uMaggie,F,DYER,DYER,1733-04-05,David,painter,ANDERSON,Alice,vinegar merchant,miller
+rec-173-org,Maggie,F,DYER,DYER,1733-04-05,David,painter,ANDERSON,Alice,vinegar merchant,miller
+rec-174-org,Marion,F,DAUKES,DAUKES,1730-03-02,James,carter,REDFORDS,Anne,gardener,sailor
+rec-175-org,Robert,M,PERRY,PERRY,1740-08-07,John,coal miner,BINGHAM,Jane,house parlour maid,miner
+rec-176-org,George,M,MORRISON,MORRISON,1739-03-06,William,miller,HARRISON,Jessie,painter,boilermaker
+rec-177-org,Mary,F,SIMON,SIMON,1734-08-16,George,soldier,BROWN,Jessie,thatcher,tailoress
+rec-178-org,Rob,M,HALL,HALL,1733-07-08,Daniel,forgeman,LATINDIE,Jane,gentleman,tenant farmer
+rec-179-org,Margaret,F,TONGE,TONGE,1736-03-04,John,parish clerk,ROBINSON,Sophia,locksmith,weaver
+rec-18-org,John,M,THOMAS,THOMAS,1718-10-31,Matthew,farmer,PHILLIPS,C,domestic servant,cottager
+rec-180-org,Ruth,F,MORTIMER,MORTIMER,1732-04-27,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,coal miner
+rec-181-dup-0,ghos,M,CHADWICH,CHADWICH,1732-01-11,Charles,engineer,JONES,Maggie,cabinet maker,lab
+rec-181-org,Thos,M,CHADWICH,CHADWICH,1732-01-11,Charles,engineer,JONES,Maggie,cabinet maker,lab
+rec-182-org,Helen,F,CHADWICH,CHADWICH,1732-01-11,Charles,engineer,JONES,Maggie,cabinet maker,stone mason
+rec-183-org,Maggie,F,GARDNER,GARDNER,1737-05-24,William,house carpenter,HANOLD,Elizabeth,house agent,printer
+rec-184-org,Sarah,F,HOLLAND,HOLLAND,1732-10-10,Willia,lt rn,MAGRATH,Agnes,stone cutter,labourer
+rec-185-org,Jane,F,MUNDELL,MUNDELL,1734-06-30,John,labourer,REAKES,Margaret,farmer,cordwainer
+rec-186-org,Margaret,F,ANDERSON,ANDERSON,1732-09-28,Patrick,farmer,MOON,Ann,police constable,tailor
+rec-187-org,James,M,ROBERTS,ROBERTS,1745-06-01,Robert,farmer,RODGERS,Mary,labourer,clerk in holy orders
+rec-188-org,George,M,BOYLE,BOYLE,1736-03-12,Hector,iron works manager,WATON,Agnes,labourer,mechanical dentist
+rec-189-org,Agnes,F,FLETCHER,FLETCHER,1734-09-26,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,sanitary inspector
+rec-19-org,Jane,F,BELL,BELL,1727-01-13,John,lab,HARDCASTLE,Helen,carpenter,farmer
+rec-190-dup-0,Isa1>ella,F,TODD,TODD,1745-11-27,James,timber merchant,ELLIS,Ann,farm labourer,school teacher
+rec-190-org,Isabella,F,TODD,TODD,1745-11-27,James,timber merchant,ELLIS,Ann,farm labourer,school teacher
+rec-191-org,Alexander,M,STIVEY,STIVEY,1735-07-19,Edmund,butcher,LAWSON,Jane,gas works labourer,quarryman
+rec-192-org,Agnes,F,OVENDEN,OVENDEN,1736-01-11,David,grazier,CRICK,Jane,butcher,warehouseman
+rec-193-org,Catherine,F,BURNETT,BURNETT,1736-12-14,John,collier,JACKSON,Amelia,fireman,,painter
+rec-194-org,Jessie,F,OFFLER,OFFLER,1735-07-27,Charles,labourer,WELLS,Mary,miner,teacher
+rec-195-org,Marion,F,BOWMAN,BOWMAN,1733-03-07,Hugh,draper,TREDWIN,Jane,clerk,civil servant, post office
+rec-196-org,Mary,F,KENNETT,KENNETT,1732-06-05,Robert,foreman fire service,SHAW,Janet,lab,painter
+rec-197-org,Thomas,M,STEPHENS,STEPHENS,1731-02-18,Wm,riding master,KNOW,Janet,secretary,fisherman
+rec-198-org,Isabella,F,FLINT,FLINT,1735-06-10,Robert,farmer,MORISON,Jane,grocer,domestic servant
+rec-199-dup-0,Wizliamina,F,SPIRES,SPIRES,1732-08-29,John,tailor,GRINDROD,Joann,labourer,bank clerk
+rec-199-org,Williamina,F,SPIRES,SPIRES,1732-08-29,John,tailor,GRINDROD,Joann,labourer,bank clerk
+rec-2-org,George,M,MARCH,MARCH,1719-06-06,Andrew,bricklayer,MITCHELL,Margaret,domestic servant,cork hawker
+rec-20-org,William,M,JONE,JONE,1726-05-14,Duncan,saddler,PARDOE,Jane,gardener,bricklayer
+rec-200-org,John,M,BROWN,BROWN,1734-04-08,John,lab,LEES,Mary,horsekeeper,builder
+rec-201-dup-0,Anniw,F,RICHARDSON,RICHARDSON,1733-04-08,Alexander,servant,CULL,Margaret,mechanic,cotton broker
+rec-201-dup-1,Anie,F,RICHARDSON,RICHARDSON,1733-04-08,Alexander,servant,CULL,Margaret,mechanic,cotton broker
+rec-201-org,Annie,F,RICHARDSON,RICHARDSON,1733-04-08,Alexander,servant,CULL,Margaret,mechanic,cotton broker
+rec-202-org,Donald,M,BURT,BURT,1732-11-27,John,currier,HUNTER,Georgina,file cutter,carpenter
+rec-203-org,John,M,CHANNAR,CHANNAR,1740-01-02,Duncan,carpenter,SMITH,Helen,smith,miner (face)
+rec-204-org,Ann,F,THOMPSON,THOMPSON,1733-10-31,Jas,butcher,HISCOCKS,Elizabeth,shear striker,cordwainer
+rec-205-org,Mary,F,BOLAND,BOLAND,1733-11-09,James,blacksmith,LEES,Agnes,master mariner,maltster
+rec-206-org,Jessie,F,WALLER,WALLER,1737-12-27,John,farmer,KERR,Mary,gardener,coach painter
+rec-207-org,Terrace,M,MOORE,MOORE,1732-05-19,Thomas,tailor,MANN,Ketty,tanner,butcher
+rec-208-dup-0,Donqld,M,JENNINGS,JENNINGS,1738-10-29,Duncan,coastguard,GREASELEY,Janet,mariner,labourer
+rec-208-dup-1,Donajd,M,JENNINGS,JENNINGS,1738-10-29,Duncan,coastguard,GREASELEY,Janet,mariner,labourer
+rec-208-dup-2,Donal,M,JENNINGS,JENNINGS,1738-10-29,Duncan,coastguard,GREASELEY,Janet,mariner,labourer
+rec-208-org,Donald,M,JENNINGS,JENNINGS,1738-10-29,Duncan,coastguard,GREASELEY,Janet,mariner,labourer
+rec-209-org,Dugald,F,FULKER,FULKER,1738-09-01,James,farmer,BARBER,Mary,coachman,central heating & plumber engineer
+rec-21-org,Isabella,F,DANNILS,DANNILS,1724-03-14,Robert,warehouseman,LOCK,Marion,foreman mechanic,carpenter
+rec-210-org,Hugh,M,BROWN,BROWN,1731-08-07,James,bricklayer,TILLE,Matilda,labourer,warehouse man
+rec-211-org,Mary,F,WOOTTON,WOOTTON,1735-01-29,George,secretary,ELWORTHY,Jane,stonemason,waterman
+rec-212-org,John,M,MCCRAE,MCCRAE,1736-04-17,Henry,servant,WALTERS,Jane,gardener,lace maker
+rec-213-org,John,M,LEE,LEE,1752-07-29,Thomas,puddler (at iron works),VOYER,Janet,seaman,domestic servant
+rec-214-org,Mary,F,ADAMSON,ADAMSON,1736-04-16,Andrew,weaver,GIBSON,Isabella,fitter and turner,table knife hafter
+rec-215-org,Margaret,F,NIMMO,NIMMO,1738-03-20,John,farmer,ROBERTS,Mary,bottlemaker,builders labourer
+rec-216-org,William,M,CLEMO,CLEMO,1735-04-28,Charles,ag lab,BROWN,Sarah,grocer,farmer
+rec-217-org,Robert,M,MINTO,MINTO,1740-05-30,John,ag lab,HOBERTON,Elizabeth,straw plaiter,lab
+rec-218-org,Elizabeth,F,CLARK,CLARK,1733-08-01,Patrick,farmer,SLITH,Elizabeth,clerk, railway works,miner
+rec-219-org,John,M,HARRIS,HARRIS,1737-04-22,John,file cutter,MITCHELL,Margret,labourer,railwayman
+rec-22-org,Willia,M,MAHAFFEY,MAHAFFEY,1720-01-11,Hugh,curate,FARBROTHER,Matilda,servant,weaver
+rec-220-org,Alexander,M,DANNILS,DANNILS,1734-12-27,Robert,warehouseman,LOCK,Marion,foreman mechanic,ag lab
+rec-221-dup-0,Alexe,M,ODEY,ODEY,1736-03-28,Peter,cafe proprietor,FARBROTHER,Matilda,servant,sergeant, royal marines
+rec-221-dup-1,A1exr,M,ODEY,ODEY,1736-03-28,Peter,cafe proprietor,FARBROTHER,Matilda,servant,sergeant, royal marines
+rec-221-dup-2,Alezr,M,ODEY,ODEY,1736-03-28,Peter,cafe proprietor,FARBROTHER,Matilda,servant,sergeant, royal marines
+rec-221-org,Alexr,M,ODEY,ODEY,1736-03-28,Peter,cafe proprietor,FARBROTHER,Matilda,servant,sergeant, royal marines
+rec-222-org,William,M,STRUIGER,STRUIGER,1736-11-07,Hugh,miner,CROSSIAN,Margaret,typist,iron works employee
+rec-223-org,Hugh,M,FOX,FOX,1743-09-15,William,mariner,REYNOLDS,Jane,jailor,general lab
+rec-224-org,Hannah,F,MCDONALD,MCDONALD,1732-11-11,Andrew,labourer,HAYES,Janet,grocer's assist.,shoemaker
+rec-225-org,James,M,WHATTON,WHATTON,1736-03-29,John,carpenter,STEPHENSON,Elisabeth,mariner,farmer
+rec-226-org,Jane,F,CORBY,CORBY,1737-11-05,Daniel,labourer,ASPREAL,Janet,joiner,saddler
+rec-227-org,Jean,F,TEASDALE,TEASDALE,1746-01-16,James,labourer,SLATARD,Elspeth,farmer,clerk
+rec-228-dup-0,Janes,M,ROGERS,ROGERS,1734-09-25,James,servant,ELDRED,Mary,manager, tile factory,gardener
+rec-228-dup-1,Jamew,M,ROGERS,ROGERS,1734-09-25,James,servant,ELDRED,Mary,manager, tile factory,gardener
+rec-228-dup-2,Jajmes,M,ROGERS,ROGERS,1734-09-25,James,servant,ELDRED,Mary,manager, tile factory,gardener
+rec-228-org,James,M,ROGERS,ROGERS,1734-09-25,James,servant,ELDRED,Mary,manager, tile factory,gardener
+rec-229-org,Peter,M,HAMPTON,HAMPTON,1737-06-13,Alexander,labourer,DAVIES,Rebecca,manager of newsagent/tobacconist,corresponding clerk
+rec-23-org,Margaret,F,WILKIE,WILKIE,1731-01-20,Henry,bricklayer,BOTT,Isabella,orchestra attendant,cabinet maker
+rec-230-org,Will,M,TAYLOR,TAYLOR,1736-02-09,John,mason,MASLIN,Sarah,clerk,enamel leather worker
+rec-231-org,Samuel,M,VICKERS,VICKERS,1734-09-01,Wm,glassmaker,WHITTLE,Mary,blacksmith,blacksmith
+rec-232-org,Malcom,M,CALVERT,CALVERT,1734-07-21,Alexr,shoemaker,HENDELL,Janet,waterman,engineering contractor
+rec-233-org,Elizabeth,F,LIFTON,LIFTON,1734-05-04,James,gilder,HOLLIWELL,Margaret,carpenter,dental surgeon
+rec-234-org,David,M,JONES,JONES,1744-07-24,Alexanda,blacksmith,NICHOLLS,Mary,twister,coal miner
+rec-235-org,Margaret,F,MARCH,MARCH,1739-05-08,Andrew,bricklayer,MITCHELL,Margaret,domestic servant,ship wright
+rec-236-org,Samuel,M,BARKER,BARKER,1735-02-28,Samuel,grocer,STEWART,Christina,warehouseman,labourer
+rec-237-org,Stewart,M,GREEN,GREEN,1738-02-09,James,smith,WILLIAMS,Jane,brickmaker,gardener
+rec-238-org,James,M,DAUKES,DAUKES,1736-02-16,James,carter,REDFORDS,Anne,gardener,butcher
+rec-239-org,Thomas,M,MANNING,MANNING,1739-08-15,James,quarryman,TYNE,Mary,farmer,ironmonger
+rec-24-org,Ernest,M,TAYLOR,TAYLOR,1720-04-08,John,mason,PICKTON,Elizabeth,farmer,farmer
+rec-240-org,Eliza,F,GRETTON,GRETTON,1734-04-11,Andrew,shepherd,FERDINAND,Helen,blacksmith,laundress
+rec-241-org,Agnes,F,WEDLOCK,WEDLOCK,1736-02-14,John,clay tobacco pipe maker,DUDLEY,Agnes,labourer,ag lab
+rec-242-org,Jane,F,HORSNALL,HORSNALL,1739-10-17,Joseph,shoe shop manageress,BRADDISH,Thos,hotel keeper,blacksmith
+rec-243-dup-0,Jarie,F,ANDREWS,ANDREWS,1733-10-30,David,railway inspector,FORMAN,Agnes,pattern maker,gardener
+rec-243-org,Jane,F,ANDREWS,ANDREWS,1733-10-30,David,railway inspector,FORMAN,Agnes,pattern maker,gardener
+rec-244-org,Grace,F,SMITH,SMITH,1752-07-27,James,ladies companion,DAVIDGE,Jane,farmer,perpetual curate
+rec-245-dup-0,Janes,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-245-dup-1,Jamex,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-245-dup-2,Jmaes,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-245-org,James,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-246-dup-0,Wiiliam,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-246-dup-1,Williqm,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-246-dup-2,Will8am,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-246-org,William,M,COLES,COLES,1736-06-22,Robert,watchmaker,EVANS,Margaret,gentleman,labourer
+rec-247-org,Mary,F,ROWAN,ROWAN,1739-07-25,Christopher,reeler,LONG,Maria,clerk,tobacconist
+rec-248-org,Alexander,M,SUMMERS,SUMMERS,1735-12-07,Dugald,labourer,DUFF,Mary,lab,spinner
+rec-249-org,John,M,ENGLISH,ENGLISH,1739-11-18,Robert,tailor,CHALMERS,Margaret,carriage works tinsmith,farmer
+rec-25-org,Eliza,F,HARD,HARD,1725-11-27,George,mason,HUTTON,Annie,blacksmith,labourer
+rec-250-org,Edward,M,FINLAY,FINLAY,1735-02-24,James,clothier,WESTERN,Marion,printers machine ruler,furnace tenter
+rec-251-org,Thomas,M,HONES,HONES,1737-07-26,Alexander,butcher,CONNELL,Therese,shop assistant,woollen twister
+rec-252-org,Lillias,F,HUGHES,HUGHES,1740-10-23,James,cottager,SAMBROOK,Agnes,boot and shoe maker,jeweller and watchmaker
+rec-253-org,James,M,JEPSON,JEPSON,1739-07-17,Samuel,carter,ADDIS,Janet,miner,electrician
+rec-254-dup-0,Alexanfer,M,BERRY,BERRY,1732-12-05,Alexander,farm labourer,HAHICK,Gorgenia,stone mason,store keeper, south indian railway
+rec-254-org,Alexander,M,BERRY,BERRY,1732-12-05,Alexander,farm labourer,HAHICK,Gorgenia,stone mason,store keeper, south indian railway
+rec-255-org,Donald,M,GREEN,GREEN,1745-06-29,William,fustian cutter,BELL,Marion,cafe proprietor,lab
+rec-256-org,Robert,M,BACKHOUSE,BACKHOUSE,1735-11-19,Thomas,ag lab,DAVIDSON,Jane,assistant secretary, museum,coal miner
+rec-257-org,Eliza,F,GRAY,GRAY,1734-09-17,William,colliery checkweighman,SHANKS,Jane,servant,furniture removal man
+rec-258-org,William,M,GREIG,GREIG,1741-05-09,Thomas,whitefisher,SMITH,Sohia,lab,engineer
+rec-259-org,Margaret,F,SNOOK,SNOOK,1732-03-10,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,building contractor
+rec-26-org,Thomas,M,WHARTON,WHARTON,1733-08-28,Ronald,merchant,OLIVER,Mary,royal marines, private,shoemaker
+rec-260-org,Cather,F,DERBY,DERBY,1746-05-08,Hugh,stonemason,BALDWIN,Isabella,dressmaker,servant
+rec-261-org,Peter,M,ASHFORD,ASHFORD,1736-05-28,Allan,refreshment contractor,PIERCE,Maggie,labourer,clerk (board of trade )
+rec-262-org,Christian,F,HAWKEN,HAWKEN,1735-09-09,Alexander,domestic servant (parlourmaid),BENNETT,Catharine,colliery engineer,mason
+rec-263-org,Martha,F,TAYLOR,TAYLOR,1733-09-23,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),lab
+rec-264-org,Cathrine,F,ASTILE,ASTILE,1738-06-28,Daniel,labourer,WEST,Agnes,carpenter,railway labourer
+rec-265-org,Isabella,F,HERNE,HERNE,1734-07-25,John,farmer,JONES,Elizabeth,tanner,labourer
+rec-266-org,George,M,LANGLEY,LANGLEY,1736-09-02,James,stonecutter,CRACKRICH,Jemima,customs officer,limestone miner
+rec-267-dup-0,Georte,M,WALLER,WALLER,1736-04-13,Robert,hawker,SMITH,Caloline,farmer,ag lab
+rec-267-org,George,M,WALLER,WALLER,1736-04-13,Robert,hawker,SMITH,Caloline,farmer,ag lab
+rec-268-org,Wm,M,SKEAD,SKEAD,1735-08-04,Alexander,tailor,PEPPERELL,Helen,broker,labourer
+rec-269-org,John,M,STEPHENS,STEPHENS,1735-10-15,Wm,riding master,KNOW,Janet,secretary,wheelwright
+rec-27-dup-0,Mkary,F,LAWSLEY,LAWSLEY,1729-12-20,James,poulterer,MCNAB,Margaret,bus conductor,chase keeper
+rec-27-dup-1,Mayr,F,LAWSLEY,LAWSLEY,1729-12-20,James,poulterer,MCNAB,Margaret,bus conductor,chase keeper
+rec-27-org,Mary,F,LAWSLEY,LAWSLEY,1729-12-20,James,poulterer,MCNAB,Margaret,bus conductor,chase keeper
+rec-270-org,Jane,F,SPENCE,SPENCE,1736-09-13,David,provision dealer,MANNING,Margaret,bootmaker,servant
+rec-271-org,Agnes,F,SPENCE,SPENCE,1736-09-13,David,provision dealer,MANNING,Margaret,bootmaker,shoemaker
+rec-272-org,John,M,MCDERMID,MCDERMID,1736-06-10,James,dentists assistant,SMITH,Janet,husbandman,labourer
+rec-273-org,James,M,MORRIS,MORRIS,1736-05-23,John,farmer,MILLER,Margaret,school attendance officer,pub owner
+rec-274-org,Elizabeth,F,WINTERBOTTOM,WINTERBOTTOM,1740-01-10,John,chairmaker,GRIFFIN,Jean,coach proprietor,gamekeeper
+rec-275-org,John,M,MAKEPIECE,MAKEPIECE,1738-12-10,George,dressmaker,HUMBLE,Eliza,bricklayer,carpenter
+rec-276-org,Margaret,F,MAHER,MAHER,1737-07-09,William,ironmonger,BAXENDALL,Marion,machine maker,domestic coachman
+rec-277-dup-0,Maru,F,MAHER,MAHER,1737-07-09,William,ironmonger,BAXENDALL,Marion,machine maker,hawker of pottery
+rec-277-dup-1,Mnry,F,MAHER,MAHER,1737-07-09,William,ironmonger,BAXENDALL,Marion,machine maker,hawker of pottery
+rec-277-dup-2,Marv,F,MAHER,MAHER,1737-07-09,William,ironmonger,BAXENDALL,Marion,machine maker,hawker of pottery
+rec-277-org,Mary,F,MAHER,MAHER,1737-07-09,William,ironmonger,BAXENDALL,Marion,machine maker,hawker of pottery
+rec-278-org,Mary,F,LORD,LORD,1737-01-07,George,photographer,BAKER,Susan,manufacturer,musician, coldstream guards
+rec-279-dup-0,Catherinc,F,CORNER,CORNER,1742-03-08,Donald,chargehand/foreman,SCHOLES,Marion,bootmaker,coachman
+rec-279-dup-1,Catherinw,F,CORNER,CORNER,1742-03-08,Donald,chargehand/foreman,SCHOLES,Marion,bootmaker,coachman
+rec-279-org,Catherine,F,CORNER,CORNER,1742-03-08,Donald,chargehand/foreman,SCHOLES,Marion,bootmaker,coachman
+rec-28-org,Donald,M,GREEN,GREEN,1722-11-07,James,smith,WILLIAMS,Jane,brickmaker,carpenter
+rec-280-org,Annie,F,THOMAS,THOMAS,1734-10-08,Samuel,landowner,GREENAWAY,Christina,nurseryman,joiner
+rec-281-org,James,M,MCNEILL,MCNEILL,1741-05-04,Robert,farmer,DOWLING,Catherine,carpenter,licensed victualler
+rec-282-org,Isabella,F,FOURACRE,FOURACRE,1738-01-08,John,shopkeeper,MALPAS,Margaret,weaver,printers compositor
+rec-283-org,Isabella,F,BAKER,BAKER,1738-12-16,William,cordwainer,HALL,Elizebath,ag lab,brickmaker
+rec-284-org,Mary,F,DAVIES,DAVIES,1736-03-26,James,meal miller,RAY,Jessie,welder,slate merchant
+rec-285-org,Bella,F,HILL,HILL,1741-10-16,John,chainmaker,HOWEL,Mary,boilermaker,iron moulder
+rec-286-org,Murray,M,EKINS,EKINS,1735-12-16,Robert,mason,WALKER,Hannah,farmer,domestic servant
+rec-287-dup-0,Jonh,M,EKINS,EKINS,1735-12-16,Robert,mason,WALKER,Hannah,farmer,brickmaker
+rec-287-dup-1,Jojhn,M,EKINS,EKINS,1735-12-16,Robert,mason,WALKER,Hannah,farmer,brickmaker
+rec-287-dup-2,Jobn,M,EKINS,EKINS,1735-12-16,Robert,mason,WALKER,Hannah,farmer,brickmaker
+rec-287-org,John,M,EKINS,EKINS,1735-12-16,Robert,mason,WALKER,Hannah,farmer,brickmaker
+rec-288-org,Sarah,F,HARRIS,HARRIS,1737-10-27,John,accountant,MUDD,Elisabeth,printer,army musician,
+rec-289-org,Agnes,F,BOND,BOND,1738-05-23,Alexander,clerk of cheque of ordnance,HOLDSWORTH,Margaret,basket maker,carpenter
+rec-29-org,Charlotte,F,TUCKER,TUCKER,1721-06-29,James,blacksmith,MOUNTFORD,Margret,master mariner,contractor
+rec-290-org,William,M,HICKS,HICKS,1739-01-03,George,gardener,COCK,Lousia,servant,bootmaker
+rec-291-org,Elizabeth,F,BROWN,BROWN,1735-06-04,James,bricklayer,TILLE,Matilda,labourer,gardener
+rec-292-org,George,M,JENNINGS,JENNINGS,1735-11-25,James,engineer,BOND,Catherine,ships officer,farmer
+rec-293-dup-0,Alwxander,M,LINESLEY,LINESLEY,1749-02-26,Alexander,engineer,SIMPKIN,Mary,farmer,servant
+rec-293-org,Alexander,M,LINESLEY,LINESLEY,1749-02-26,Alexander,engineer,SIMPKIN,Mary,farmer,servant
+rec-294-dup-0,Geo5ge,M,CLARKE,CLARKE,1737-07-15,Willia,relief stamper,HARRIS,Maggie,farm manager,operative chemist
+rec-294-org,George,M,CLARKE,CLARKE,1737-07-15,Willia,relief stamper,HARRIS,Maggie,farm manager,operative chemist
+rec-295-dup-0,Alexahder,M,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,ag lab
+rec-295-dup-1,Alexamder,M,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,ag lab
+rec-295-dup-2,llexander,M,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,ag lab
+rec-295-org,Alexander,M,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,ag lab
+rec-296-dup-0,Margare,F,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,gardener
+rec-296-dup-1,Margaeet,F,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,gardener
+rec-296-org,Margaret,F,THYME,THYME,1745-12-09,James,millwright,BIRD,Agnes,mechanical engineer,gardener
+rec-297-org,Eliza,F,SUNDERLAND,SUNDERLAND,1736-02-16,Alexander,farm lab,FRESHWATER,Margaret,brass moulder,caulker
+rec-298-org,Alexander,M,PALMER,PALMER,1743-08-24,William,ag lab,MCKECHNIE,Barbara,yeoman,secretary, electricity board office
+rec-299-dup-0,Patrivk,M,CRIMER,CRIMER,1735-03-28,Robt,carpet weaver,COOPER,Jane,labourer,undertaker
+rec-299-org,Patrick,M,CRIMER,CRIMER,1735-03-28,Robt,carpet weaver,COOPER,Jane,labourer,undertaker
+rec-3-org,James,M,MAHAFFEY,MAHAFFEY,1714-09-21,Hugh,curate,FARBROTHER,Matilda,servant,labourer
+rec-30-org,Joseph,M,FOX,FOX,1729-09-17,William,mariner,REYNOLDS,Jane,jailor,baker
+rec-300-org,Alexander,M,JONES,JONES,1735-04-01,John,labourer,MACHRAY,Jane,printer,baker
+rec-301-org,Daniel,M,ROBINSON,ROBINSON,1742-03-01,James,shoemaker,STONE,Annie,coal miner,officer, swiss army
+rec-302-org,Elizabeth,F,HAZELDINE,HAZELDINE,1745-11-16,Robert,woollen manufacturer,HALFPENNY,Bridget,farmer and grazier,farm labourer
+rec-303-org,Charles,M,ELLIS,ELLIS,1735-07-20,Willm,butcher,WHITEHOUSE,Edith,carter,weaver
+rec-304-org,Mary,F,SAUNDERSON,SAUNDERSON,1736-03-21,William,mariner,WETHERELL,Mary,farm labourer,blacksmith
+rec-305-org,George,M,PEARCE,PEARCE,1737-10-20,Anthony,paper merchant,CURD,Isabella,silk dyer,sheriffs officer
+rec-306-org,Alexr,M,LYONS,LYONS,1739-05-29,Edward,chemist and druggist,NOTT,Susanah,builder,steel foundry moulder
+rec-307-org,Thomas,M,CHADWICH,CHADWICH,1737-01-25,Charles,engineer,JONES,Maggie,cabinet maker,refreshment contractor
+rec-308-org,Robert,M,CHADWICH,CHADWICH,1737-01-25,Charles,engineer,JONES,Maggie,cabinet maker,cattle spice manufacturer
+rec-309-org,Jane,F,BIRD,BIRD,1736-03-29,William,ag lab,BATH,Julia,poultry man,clerk
+rec-31-dup-0,Jkssie,F,DERBY,DERBY,1726-01-31,Hugh,stonemason,CURD,Isabella,silk dyer,cement works foreman
+rec-31-org,Jessie,F,DERBY,DERBY,1726-01-31,Hugh,stonemason,CURD,Isabella,silk dyer,cement works foreman
+rec-310-org,William,M,BEWSHER,BEWSHER,1740-05-11,Robert,lab,BARRY,Mary,gardener,farmer
+rec-311-dup-0,Chritina,F,STEDMAN,STEDMAN,1738-01-03,David,coal miner,HART,Helen,cutter,clerk with soft drinks firm
+rec-311-dup-1,Chrintina,F,STEDMAN,STEDMAN,1738-01-03,David,coal miner,HART,Helen,cutter,clerk with soft drinks firm
+rec-311-dup-2,Christna,F,STEDMAN,STEDMAN,1738-01-03,David,coal miner,HART,Helen,cutter,clerk with soft drinks firm
+rec-311-org,Christina,F,STEDMAN,STEDMAN,1738-01-03,David,coal miner,HART,Helen,cutter,clerk with soft drinks firm
+rec-312-org,Margaret,F,BROWN,BROWN,1741-07-21,James,clerk  (biscuit works ),GOODMAN,Mary,school master,boot maker
+rec-313-org,Mary,F,KEARSLEY,KEARSLEY,1738-11-20,Archibald,grocer,DOW,Ann,labourer,shepherd
+rec-314-org,Margret,F,SNOOK,SNOOK,1737-09-29,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,cordwainer
+rec-315-org,Daniel,M,COULSON,COULSON,1739-08-01,David,labourer,GRUNDY,Agnes,salvation army officer,builders clerk
+rec-316-dup-0,Rogert,M,WILSON,WILSON,1736-07-03,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,launderer
+rec-316-dup-1,Roberr,M,WILSON,WILSON,1736-07-03,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,launderer
+rec-316-org,Robert,M,WILSON,WILSON,1736-07-03,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,launderer
+rec-317-dup-0,tred,M,CROSSGROVE,CROSSGROVE,1737-02-26,Robert,general store keeper,WATSON,Margaret,farm lab,carriage examiner
+rec-317-dup-1,Fr4d,M,CROSSGROVE,CROSSGROVE,1737-02-26,Robert,general store keeper,WATSON,Margaret,farm lab,carriage examiner
+rec-317-org,Fred,M,CROSSGROVE,CROSSGROVE,1737-02-26,Robert,general store keeper,WATSON,Margaret,farm lab,carriage examiner
+rec-318-org,Jean,F,PETERS,PETERS,1738-10-28,Caldwell,farmer,NORTH,Maggie,boiler maker,farm bailiff
+rec-319-org,Thomas,M,BAMSEY,BAMSEY,1737-06-22,John,labourer,LARKIN,Catherine,carpenter,chainmaker
+rec-32-org,Nellie,F,ENGLISH,ENGLISH,1722-06-19,Robert,tailor,CHALMERS,Margaret,carriage works tinsmith,coal merchant
+rec-320-dup-0,Bet5y,F,MORTIMER,MORTIMER,1736-11-20,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,miller
+rec-320-org,Betsy,F,MORTIMER,MORTIMER,1736-11-20,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,miller
+rec-321-org,Andrew,M,LAMB,LAMB,1738-06-23,Thomas,wool mill worker,GULLY,Margaret,servant,cowman
+rec-322-org,Mary,F,GIBB,GIBB,1739-10-21,Francis,tailoress,SINCLAIR,Margaret,bookbinder,lab
+rec-323-org,Isabella,F,EDWARD,EDWARD,1735-12-27,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),typist for solicitor
+rec-324-org,James,M,EDWARD,EDWARD,1735-12-27,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),smith
+rec-325-org,William,M,MOORE,MOORE,1736-04-22,Thomas,tailor,MANN,Ketty,tanner,housekeeper
+rec-326-org,Christina,F,KENNETT,KENNETT,1737-05-30,Robert,foreman fire service,SHAW,Janet,lab,bread baker
+rec-327-org,John,M,HOLLINGDALE,HOLLINGDALE,1737-05-09,George,farmer,PEARTON,Mary,coal merchant,clerk in holy orders
+rec-328-dup-0,Roebrt,M,RALPH,RALPH,1738-11-22,David,postboy,ALLISON,Elizabeth,tailor,waterman
+rec-328-org,Robert,M,RALPH,RALPH,1738-11-22,David,postboy,ALLISON,Elizabeth,tailor,waterman
+rec-329-org,Frank,M,KIDNEY,KIDNEY,1741-11-03,Peter,builder,ADAMS,Marion,labourer,blacksmith
+rec-33-org,Elizabeth,F,BOLAND,BOLAND,1723-11-12,James,blacksmith,LEES,Agnes,master mariner,shoemaker
+rec-330-org,John,M,DUNN,DUNN,1737-11-01,William,miller,BROWN,Betsy,engineer,skinner & tanner
+rec-331-org,Wm,M,TUSTIN,TUSTIN,1738-07-08,Robert,ag lab,DUPLOCK,Martha,farrier,policeman
+rec-332-org,Isabella,F,SPIRES,SPIRES,1736-05-26,John,tailor,GRINDROD,Joann,labourer,stonemason
+rec-333-org,Elizabeth,F,HEATLEY,HEATLEY,1738-03-28,Archbald,head brewer,SUTCLIFFE,Harriet,commercial traveller,butcher
+rec-334-dup-0,Charle5,M,CARTWRIGHT,CARTWRIGHT,1736-11-15,William,carpet weaver,RAE,Elizabeth,cheesemonger,gardener
+rec-334-dup-1,Charies,M,CARTWRIGHT,CARTWRIGHT,1736-11-15,William,carpet weaver,RAE,Elizabeth,cheesemonger,gardener
+rec-334-dup-2,Char|es,M,CARTWRIGHT,CARTWRIGHT,1736-11-15,William,carpet weaver,RAE,Elizabeth,cheesemonger,gardener
+rec-334-org,Charles,M,CARTWRIGHT,CARTWRIGHT,1736-11-15,William,carpet weaver,RAE,Elizabeth,cheesemonger,gardener
+rec-335-org,Andrew,M,BROWNE,BROWNE,1739-11-26,Charles,farmer,RILEY,Catherine,bookbinder,shop assistant
+rec-336-org,Jane,F,SERGEANT,SERGEANT,1737-03-03,Charles,ag lab,LLOYD,Jeanie,carpenter,engineer
+rec-337-org,Elizabeth,F,JOHNSTON,JOHNSTON,1736-02-09,Alexander,civil engineer,WOOD,Mary,mariner,miner
+rec-338-org,Thomas,M,CURTIS,CURTIS,1740-11-03,Peter,carter,FORBES,Mary,mechanic,grocer
+rec-339-org,William,M,WRIGHT,WRIGHT,1741-11-28,Andrew,blacksmith,MARLES,Janet,engineer,farmer
+rec-34-org,William,M,LYONS,LYONS,1724-08-01,Edward,chemist and druggist,NOTT,Susanah,builder,farmer
+rec-340-org,Joanna,F,HOPGOOD,HOPGOOD,1739-04-26,George,timber dealer,BUCK,Catherine,medical practitioner,maltmakers lab
+rec-341-org,Jane,F,DAVIDSON,DAVIDSON,1736-06-21,John,farmer,TODD,Adaline,butcher,weaver
+rec-342-org,Robert,M,ANDERSON,ANDERSON,1738-10-21,Patrick,farmer,MOON,Ann,police constable,master mason
+rec-343-org,Ellen,F,BRIDDON,BRIDDON,1737-06-06,William,tailor,BARKER,Elizabeth,civil engineer,winder
+rec-344-dup-0,Thoma5,M,HOLLAND,HOLLAND,1738-08-02,Willia,lt rn,MAGRATH,Agnes,stone cutter,farmer
+rec-344-dup-1,Thomais,M,HOLLAND,HOLLAND,1738-08-02,Willia,lt rn,MAGRATH,Agnes,stone cutter,farmer
+rec-344-dup-2,Th0mas,M,HOLLAND,HOLLAND,1738-08-02,Willia,lt rn,MAGRATH,Agnes,stone cutter,farmer
+rec-344-org,Thomas,M,HOLLAND,HOLLAND,1738-08-02,Willia,lt rn,MAGRATH,Agnes,stone cutter,farmer
+rec-345-org,Mary,F,HOLLAND,HOLLAND,1738-08-02,Willia,lt rn,MAGRATH,Agnes,stone cutter,farmer
+rec-346-dup-0,Maragret,F,STONE,STONE,1734-09-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,pattern maker
+rec-346-dup-1,Margarst,F,STONE,STONE,1734-09-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,pattern maker
+rec-346-org,Margaret,F,STONE,STONE,1734-09-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,pattern maker
+rec-347-org,John,M,CAMERON,CAMERON,1738-01-17,Charles,coachman,TAYLOR,Sarah,tailor,delver
+rec-348-org,Alexander,M,LINNELL,LINNELL,1741-03-13,Angus,navel officer,ROBERTS,Margaret,fish curer,auctioneer's clerk
+rec-349-org,Margaret,F,LINNELL,LINNELL,1741-03-13,Angus,navel officer,ROBERTS,Margaret,fish curer,company director
+rec-35-org,James,M,BOND,BOND,1736-01-14,James,delver,CRAUFORD,Margt,joiner,station master
+rec-350-org,John,M,WOODHOUSE,WOODHOUSE,1735-10-06,James,woollen draper,MORRISON,Margaret,smith,paymaster of royal artillery
+rec-351-org,Agnes,F,GOUNDRY,GOUNDRY,1736-12-13,Willia,fireman,RUSBY,Margaret,needlemaker,stonecutter
+rec-352-org,John,M,BURT,BURT,1737-01-16,John,currier,HUNTER,Georgina,file cutter,draughstman
+rec-353-org,Euphemia,F,BERRY,BERRY,1739-06-28,Alexander,farm labourer,HAHICK,Gorgenia,stone mason,tobacconist
+rec-354-dup-0,Rosannta,F,DOWN,DOWN,1741-11-07,George,printer,SHOOTER,Mary,tanner,farm bailiff
+rec-354-org,Rosanna,F,DOWN,DOWN,1741-11-07,George,printer,SHOOTER,Mary,tanner,farm bailiff
+rec-355-org,David,M,HONEYWELL,HONEYWELL,1736-11-09,William,miller (postmill),STREMBELS,Jessie,engineer,farmer
+rec-356-dup-0,Marv,F,BENN,BENN,1737-07-23,Charles,domestic servant,HOWARTH,Jane,farm labourer,cabinet maker
+rec-356-org,Mary,F,BENN,BENN,1737-07-23,Charles,domestic servant,HOWARTH,Jane,farm labourer,cabinet maker
+rec-357-org,James,M,BOWMAN,BOWMAN,1735-06-05,Hugh,draper,TREDWIN,Jane,clerk,labourer
+rec-358-org,Thomas,M,DYER,DYER,1738-04-09,David,painter,ANDERSON,Alice,vinegar merchant,farmer
+rec-359-org,John,M,RICHARDSON,RICHARDSON,1736-10-16,Alexander,servant,CULL,Margaret,mechanic,station master
+rec-36-org,Catherine,F,ROGERS,ROGERS,1722-01-09,James,servant,ELDRED,Mary,manager, tile factory,shop assistant, jewellers
+rec-360-org,Jane,F,WALMSLEY,WALMSLEY,1738-06-05,John,research chemist,LOOD,Margt,mason,coal merchant
+rec-361-org,George,M,READ,READ,1737-11-25,George,washerwoman,AYERS,Janet,musician,worsted spinner (master)
+rec-362-org,Elizabeth,F,RICH,RICH,1743-06-28,Peter,gasfitter,MOWAT,Jane,gun maker,farmer
+rec-363-org,Samuel,M,HILL,HILL,1739-04-02,James,superintendant, port of london authority,SPRINGETT,Maggie,labourer,coal miner
+rec-364-org,Margaret,F,MILWERT,MILWERT,1736-06-27,James,labourer,WATT,Jane,hatter,joiner
+rec-365-org,Isabella,F,HARDY,HARDY,1739-04-04,William,lab,WHEELDON,Isabella,baker,wool packer
+rec-366-org,Eliza,F,STUBBING,STUBBING,1744-05-05,John,model maker,WRIGHT,Elizabeth,woollen mill worker,gamekeeper
+rec-367-dup-0,Maty,F,WARREN,WARREN,1738-03-15,John,bailiff,MCPHERSON,Margaret,lab,farmer
+rec-367-org,Mary,F,WARREN,WARREN,1738-03-15,John,bailiff,MCPHERSON,Margaret,lab,farmer
+rec-368-org,John,M,CLARK,CLARK,1736-04-08,Patrick,farmer,SLITH,Elizabeth,clerk, railway works,plasterer
+rec-369-org,John,M,NICHOLAS,NICHOLAS,1735-03-12,John,cabinet maker,LEVINAY,Elizabeth,teacher,fisherman
+rec-37-org,Isabella,F,HILL,HILL,1731-07-15,John,chainmaker,HOWEL,Mary,boilermaker,servant
+rec-370-org,Isobel,F,NICHOLAS,NICHOLAS,1735-03-12,John,cabinet maker,LEVINAY,Elizabeth,teacher,collier
+rec-371-org,Jenny,F,YATES,YATES,1739-09-21,William,chairmaker,ENNEFER,Christina,carpenter,veterinary surgeon
+rec-372-org,William,M,DUNCAN,DUNCAN,1742-04-13,Andrew,weaver,THOM,Janet,tailoress,thatcher
+rec-373-org,Alister,M,WATSON,WATSON,1740-03-04,Alfred,farmer,PRIMROSE,Margret,coal dealer,lab
+rec-374-org,Mary,F,TAYLOR,TAYLOR,1736-08-22,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),weaver
+rec-375-org,Hellen,F,ANDREWS,ANDREWS,1737-04-27,David,railway inspector,FORMAN,Agnes,pattern maker,labourer
+rec-376-org,Donald,M,THOMPSON,THOMPSON,1737-05-30,Jas,butcher,HISCOCKS,Elizabeth,shear striker,shipowner
+rec-377-org,Margaret,F,JOHNSON,JOHNSON,1740-10-26,John,wool broker,FURRELL,Margaret,electrical engineer in the royal signals,butcher
+rec-378-org,Robert,M,BOLAND,BOLAND,1739-05-02,James,blacksmith,LEES,Agnes,master mariner,farmer
+rec-379-org,James,M,MAWSON,MAWSON,1741-04-21,James,cotton operative,CAMERON,Janet,lab,domestic servant
+rec-38-org,Betsy,F,MARCH,MARCH,1729-12-18,Andrew,bricklayer,MITCHELL,Margaret,domestic servant,farmer
+rec-380-org,Margaret,F,LOCH,LOCH,1737-12-13,Alfred,steam roller driver,MCMILLAN,Annie,miller,watchmaker
+rec-381-dup-0,Satmuel,M,SHAW,SHAW,1742-08-15,Henry,engineer,MCKITTON,Margaret,medical practitioner,baker & grocer
+rec-381-org,Samuel,M,SHAW,SHAW,1742-08-15,Henry,engineer,MCKITTON,Margaret,medical practitioner,baker & grocer
+rec-382-org,Alexander,M,LONDON,LONDON,1740-11-21,John,farmer,PASSMORE,Ann,map and print colourer,lab
+rec-383-org,David,M,RACKHAM,RACKHAM,1742-05-07,Alexander,shoemaker,WALLACE,Janet,plasterer,gardener
+rec-384-org,Janet,F,RACKHAM,RACKHAM,1742-05-07,Alexander,shoemaker,WALLACE,Janet,plasterer,domestic servant
+rec-385-org,Helen,F,THOMAS,THOMAS,1737-10-11,Matthew,farmer,GILL,Margaret,domestic servant,servant
+rec-386-org,Alexander,M,HODGSON,HODGSON,1746-06-19,Robert,labourer,MCCALLUM,Jessie,cigarette maker,school master
+rec-387-org,Elizabeth,F,GILMOUR,GILMOUR,1741-03-22,William,scrap labourer,ALLEN,Isabella,railway clerk,wheelwright
+rec-388-org,John,M,GILMOUR,GILMOUR,1741-03-22,William,scrap labourer,ALLEN,Isabella,railway clerk,builder
+rec-389-org,Donald,M,SIMPSON,SIMPSON,1741-10-17,James,musician,GRIFFIN,Marion,boatman,milliner
+rec-39-org,Alexr,M,BURNETT,BURNETT,1728-05-09,John,collier,JACKSON,Amelia,fireman,,innkeeper
+rec-390-org,Mary,F,SHARPE,SHARPE,1737-06-13,James,baker,HANEND,Margt,co-op manager,bank clerk
+rec-391-org,Jane,F,DARVILL,DARVILL,1744-12-26,William,baker,LINELY,Jessie,potter,stillroom maid
+rec-392-org,Dougall,M,PLATT,PLATT,1742-12-09,Alexander,house servant,RANSON,Ann,stitcher,farmer
+rec-393-org,James,M,POTTER,POTTER,1742-10-07,Robert,paper maker,WALLS,Mary,spinner,furnaceman
+rec-394-dup-0,Elkzabeth,F,BOLLANY,BOLLANY,1741-11-14,Arthur,lamplighter,CARESWELL,Sarah,potter,farmer
+rec-394-org,Elizabeth,F,BOLLANY,BOLLANY,1741-11-14,Arthur,lamplighter,CARESWELL,Sarah,potter,farmer
+rec-395-org,John,M,BROWN,BROWN,1745-04-04,John,lab,LEES,Mary,horsekeeper,labourer
+rec-396-org,Charles,M,GRETTON,GRETTON,1740-08-22,Andrew,shepherd,FERDINAND,Helen,blacksmith,master mariner
+rec-397-org,Alfred,M,GRIMSHAW,GRIMSHAW,1745-10-15,James,blacksmith,LIVINGSTON,Janet,shoemaker,labourer
+rec-398-org,George,M,LIFTON,LIFTON,1736-08-19,James,gilder,HOLLIWELL,Margaret,carpenter,butcher
+rec-399-org,William,M,JANE,JANE,1738-06-26,Thomas,gas fitter,PEPPER,Janet,farmer,school mistress
+rec-4-org,Thos,M,CAMPBELL,CAMPBELL,1727-02-17,Robt,bookseller,CONWAY,Janet,domestic servant,marine stores dealer
+rec-40-org,Agnes,F,TAYLOR,TAYLOR,1722-05-15,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),railway fireman
+rec-400-dup-0,Jabe,F,DISCOMBE,DISCOMBE,1739-08-13,Colin,water filter manufacturer,HILL,Agnes,truck farmer,domestic servant
+rec-400-dup-1,Jarie,F,DISCOMBE,DISCOMBE,1739-08-13,Colin,water filter manufacturer,HILL,Agnes,truck farmer,domestic servant
+rec-400-dup-2,Jaen,F,DISCOMBE,DISCOMBE,1739-08-13,Colin,water filter manufacturer,HILL,Agnes,truck farmer,domestic servant
+rec-400-org,Jane,F,DISCOMBE,DISCOMBE,1739-08-13,Colin,water filter manufacturer,HILL,Agnes,truck farmer,domestic servant
+rec-401-org,Jessie,F,VAIL,VAIL,1740-10-30,Andrew,dockyard worker,JONES,Mary,shoe binder,farmer (smallholder)
+rec-402-dup-0,Japmes,M,FRASER,FRASER,1739-10-26,Duncan,bootmaker,STANDLEY,Isabella,worsted power loom weaver,admiralty packer
+rec-402-dup-1,Jame5,M,FRASER,FRASER,1739-10-26,Duncan,bootmaker,STANDLEY,Isabella,worsted power loom weaver,admiralty packer
+rec-402-org,James,M,FRASER,FRASER,1739-10-26,Duncan,bootmaker,STANDLEY,Isabella,worsted power loom weaver,admiralty packer
+rec-403-org,Williammina,F,HARPER,HARPER,1737-09-22,John,farm lab,SAGE,Mary,farmer,cabinet maker
+rec-404-org,Mary,F,GOODWIN,GOODWIN,1743-01-13,John,pattern dyer,MEADS,Mary,warp dresser,asbestos spinner
+rec-405-org,Catherine,F,PAINE,PAINE,1739-03-12,Edward,ag lab,LOWSON,Ellen,seamstress,paymaster of royal artillery
+rec-406-org,James,M,PAINE,PAINE,1739-03-12,Edward,ag lab,LOWSON,Ellen,seamstress,labourer
+rec-407-org,Margaret,F,LARCOMBE,LARCOMBE,1736-11-18,Alex,master merchant mariner,ROSS,Margaret,farm bailiff,gamekeeper
+rec-408-org,William,M,MUNDELL,MUNDELL,1739-11-03,John,labourer,REAKES,Margaret,farmer,master printer
+rec-409-org,Robert,M,CALVERT,CALVERT,1738-04-25,Alexr,shoemaker,HENDELL,Janet,waterman,asst parish overseer
+rec-41-org,James,M,DAVIES,DAVIES,1727-09-01,Mark,transport rider,SPRINGETT,Elizabeth,cabinet maker,carpenter
+rec-410-org,Janet,F,HERNE,HERNE,1740-04-28,John,farmer,JONES,Elizabeth,tanner,ecclesiastical carver
+rec-411-org,Kate,F,DAFT,DAFT,1744-04-28,William,railway ganger,LUSCOMBE,Margaret,thatcher,mariner
+rec-412-org,Henry,M,LYNN,LYNN,1742-01-21,Hugh,cabinet maker,LISLE,Isabella,pork butcher,labourer
+rec-413-org,Margaret,F,BROCKLEHURST,BROCKLEHURST,1745-08-22,David,collier,WARNER,Jane,coal miner,bootmaker
+rec-414-org,Elizabeth,F,DOCKER,DOCKER,1750-01-09,William,spinner,BYFORD,Jessie,joiner,able seaman - royal navy
+rec-415-org,Mary,F,BRADLY,BRADLY,1742-03-13,John,tailor,FERGUSON,Elizabeth,secretary,shoemaker
+rec-416-org,James,M,HANSON,HANSON,1744-09-25,George,grocer,WEDGBURY,Eliza,artificial limb maker,dressmaker
+rec-417-org,Mary,F,SIMON,SIMON,1738-01-07,George,soldier,BROWN,Jessie,thatcher,gardener
+rec-418-dup-0,Johh,M,WILL,WILL,1745-07-03,George,packer (in textile factory ),BROWN,Jessie,waitress,turner
+rec-418-org,John,M,WILL,WILL,1745-07-03,George,packer (in textile factory ),BROWN,Jessie,waitress,turner
+rec-419-dup-0,Catberine,F,STONE,STONE,1738-12-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,labourer
+rec-419-org,Catherine,F,STONE,STONE,1738-12-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,labourer
+rec-42-org,Sarah,F,BACKHOUSE,BACKHOUSE,1725-10-14,Thomas,ag lab,DAVIDSON,Jane,assistant secretary, museum,tailor
+rec-420-dup-0,Christ:na,F,GRAY,GRAY,1739-12-28,William,colliery checkweighman,SHANKS,Jane,servant,railwayman - stationmaster
+rec-420-org,Christina,F,GRAY,GRAY,1739-12-28,William,colliery checkweighman,SHANKS,Jane,servant,railwayman - stationmaster
+rec-421-org,Janet,F,RICHARDS,RICHARDS,1744-07-29,James,ag lab,LITTLE,Charlotte,baker,paper mill worker
+rec-422-org,Elizabeth,F,ROGERS,ROGERS,1738-11-09,James,servant,ELDRED,Mary,manager, tile factory,carpenter
+rec-423-org,Mary,F,FLETCHER,FLETCHER,1740-02-13,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,plasterer
+rec-424-org,William,M,PARKER,PARKER,1742-12-10,John,plumber,WILLIAM,Isabella,inspector of munitions,ropemaker
+rec-425-org,James,M,PARR,PARR,1739-07-28,Donald,tailor,ATKINSON,Agnes,farmer,cotton spinner
+rec-426-org,John,M,MILLER,MILLER,1741-06-10,George,labourer,YOUATT,Susan,lab,coachmaker
+rec-427-org,John,M,BEESE,BEESE,1748-11-18,Douglas,pioneer,WALKER,Mary,cordwainer,grocers shop assistant
+rec-428-org,Duncan,M,CHALLACOMBE,CHALLACOMBE,1739-06-12,Charles,labourer,ROUND,Margaret,teacher,farmer
+rec-429-org,Mary,F,GEORGE,GEORGE,1741-01-29,Charles,tenant farmer,CLOUGH,Eliza,shirt factory worker,labourer
+rec-43-org,Alice,F,SMITH,SMITH,1724-04-23,Hugh,potter,SPRAGG,Isabella,engine driver (british rail),gold cutter
+rec-430-org,Agnes,F,PHILLIPS,PHILLIPS,1744-09-08,John,textile worker,SHINN,Ellen,mariner,stoker
+rec-431-org,William,M,HOLDEN,HOLDEN,1741-09-26,Edward,sawyer,JONES,Maggie,spirit dealer,housekeeper
+rec-432-org,Donald,M,TUMIGAN,TUMIGAN,1741-03-15,James,land agent,CHESHIRE,Alice,lab,baker
+rec-433-org,Elizabeth,F,MORLEY,MORLEY,1737-01-01,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,labourer
+rec-434-org,Elizabeth,F,MARSHALL,MARSHALL,1745-11-22,Campbell,domestic servant,BROWN,Ellen,rector,tailor
+rec-435-org,John,M,ROBINSON,ROBINSON,1738-11-22,Andrew,coalminer,GATLIFF,Susan,farmer,farmer
+rec-436-org,Ellen,F,GRANT,GRANT,1739-10-26,John,fisherman,PENNY,Betsy,glassmaker,jeweller
+rec-437-dup-0,Ajex,M,DICKENSON,DICKENSON,1748-07-03,James,yeoman  farmer,RISPIN,Martha,box tenter, woollen mill,yeoman
+rec-437-dup-1,Aled,M,DICKENSON,DICKENSON,1748-07-03,James,yeoman  farmer,RISPIN,Martha,box tenter, woollen mill,yeoman
+rec-437-dup-2,Aiex,M,DICKENSON,DICKENSON,1748-07-03,James,yeoman  farmer,RISPIN,Martha,box tenter, woollen mill,yeoman
+rec-437-org,Alex,M,DICKENSON,DICKENSON,1748-07-03,James,yeoman  farmer,RISPIN,Martha,box tenter, woollen mill,yeoman
+rec-438-org,Stephen,M,OXLEE,OXLEE,1745-06-23,Robert,farmer and land owner,DYSON,Rebecca,lab,post office sorter
+rec-439-org,Janet,F,BARKER,BARKER,1738-12-13,Samuel,grocer,STEWART,Christina,warehouseman,shepherd
+rec-44-org,Helen,F,SMITH,SMITH,1724-04-23,Hugh,potter,SPRAGG,Isabella,engine driver (british rail),bank partner
+rec-440-dup-0,Jame5,M,NICHOLAS,NICHOLAS,1738-10-25,John,cabinet maker,LEVINAY,Elizabeth,teacher,stonemason
+rec-440-org,James,M,NICHOLAS,NICHOLAS,1738-10-25,John,cabinet maker,LEVINAY,Elizabeth,teacher,stonemason
+rec-441-org,William,M,MILNE,MILNE,1744-06-10,John,ag lab,STACEY,Jane,boot and shoe maker,engine fitter
+rec-442-org,Elizabeth,F,CRIMER,CRIMER,1747-01-16,Robt,carpet weaver,COOPER,Jane,labourer,tailoress
+rec-443-dup-0,Marths,F,JONES,JONES,1737-05-25,John,labourer,MACHRAY,Jane,printer,free church minister
+rec-443-org,Martha,F,JONES,JONES,1737-05-25,John,labourer,MACHRAY,Jane,printer,free church minister
+rec-444-dup-0,Jamds,M,SCOTT,SCOTT,1741-12-27,Alex,lab,RAYNER,Isabella,lab,housekeeper
+rec-444-dup-1,Jamew,M,SCOTT,SCOTT,1741-12-27,Alex,lab,RAYNER,Isabella,lab,housekeeper
+rec-444-org,James,M,SCOTT,SCOTT,1741-12-27,Alex,lab,RAYNER,Isabella,lab,housekeeper
+rec-445-org,Jas,M,HOWATHS,HOWATHS,1743-05-26,Ed,cook,SATCHWELL,Maggie,drapery salesman,groom
+rec-446-org,Eliza,M,HAWKES,HAWKES,1744-01-31,William,surgeon - royal army medical corp,BELL,Margaret,toll bar keeper,mill worker
+rec-447-dup-0,Jnaet,F,HARTLEY,HARTLEY,1745-07-03,William,labourer,YARLEY,Jane,labourer,farmer
+rec-447-org,Janet,F,HARTLEY,HARTLEY,1745-07-03,William,labourer,YARLEY,Jane,labourer,farmer
+rec-448-org,Agnes,F,CLEMO,CLEMO,1741-02-14,Charles,ag lab,BROWN,Sarah,grocer,soldier
+rec-449-org,Isabella,F,WILLSON,WILLSON,1739-10-10,James,turner,BENNIE,Cathrine,miller,labourer
+rec-45-org,Jessie,F,PERRY,PERRY,1727-11-16,John,coal miner,BINGHAM,Jane,house parlour maid,glassmaker
+rec-450-org,Jane,F,BROWN,BROWN,1739-12-19,James,bricklayer,TILLE,Matilda,labourer,cooper
+rec-451-org,Thomas,M,RAMSDEN,RAMSDEN,1739-06-01,Will,railway guard,WEBESTER,Elen,master butcher,engineer
+rec-452-org,Ann,F,BOWMAN,BOWMAN,1737-09-30,Hugh,draper,TREDWIN,Jane,clerk,wagoner
+rec-453-org,William,M,MARCH,MARCH,1745-07-11,George,cork hawker,CARPENTER,Hannah,farmer,miller
+rec-454-org,Isabell,F,HALL,HALL,1746-05-12,Daniel,forgeman,WOOD,Jane,army officer,boatman
+rec-455-org,Eliza,F,STIVEY,STIVEY,1741-07-16,Edmund,butcher,LAWSON,Jane,gas works labourer,gardener
+rec-456-org,Robert,M,ELLIS,ELLIS,1739-09-01,Willm,butcher,WHITEHOUSE,Edith,carter,brushmaker
+rec-457-org,Agnes,F,OFFLER,OFFLER,1745-07-03,Charles,labourer,WELLS,Mary,miner,fisherman
+rec-458-dup-0,Jakes,M,SKEAD,SKEAD,1738-08-27,Alexander,tailor,PEPPERELL,Helen,broker,tallow chandler
+rec-458-org,James,M,SKEAD,SKEAD,1738-08-27,Alexander,tailor,PEPPERELL,Helen,broker,tallow chandler
+rec-459-dup-0,Roberg,M,ORMISTON,ORMISTON,1742-06-29,Jas,seaman,EATCOAL,Jane,lorry driver,forrest steward
+rec-459-org,Robert,M,ORMISTON,ORMISTON,1742-06-29,Jas,seaman,EATCOAL,Jane,lorry driver,forrest steward
+rec-46-org,Elizabeth,F,TAYLOR,TAYLOR,1725-06-11,John,mason,PICKTON,Elizabeth,farmer,police constable
+rec-460-org,Jas,M,KING,KING,1745-01-17,John,clothiers asst,FRANKHAM,Mary,blacksmith,gent
+rec-461-org,Duncan,M,CHRISTOPHERS,CHRISTOPHERS,1739-04-28,John,sailor,PILGRIM,Betsy,lab,mariner
+rec-462-org,Adam,M,WOODHOUSE,WOODHOUSE,1739-04-17,James,woollen draper,MORRISON,Margaret,smith,chairmaker
+rec-463-org,Robert,M,LAW,LAW,1742-03-13,Andrew,machinist in saw mill,WHEELER,Mary,farmer,cook
+rec-464-org,Thomas,M,WILLCOX,WILLCOX,1741-08-24,William,farmer,MASTERS,Semena,papermill worker,cab man
+rec-465-org,Elizabeth,F,STOUT,STOUT,1741-04-25,Robert,labourer,JONES,Ellen,gardener,iron forgeman
+rec-466-org,John,M,WEST,WEST,1739-03-17,John,brickmaker,MARCH,Mary,farmer,colliery underlooker
+rec-467-org,Francis,M,TAYLOR,TAYLOR,1748-03-08,Matthew,frame work knitter,DEWEY,Lizzie,coal merchant,oven builder
+rec-468-org,Robert,M,STEPHENS,STEPHENS,1740-11-13,Wm,riding master,KNOW,Janet,secretary,cycle (shop) manager
+rec-469-org,Jane,F,HARRISON,HARRISON,1739-08-05,Delilah,coal miner,GLEAVE,Catharine,farm bailiff,domestic servant
+rec-47-org,Annie,F,CALVERT,CALVERT,1723-10-26,Alexr,shoemaker,HENDELL,Janet,waterman,harness maker
+rec-470-org,Margaret,F,MORAN,MORAN,1743-07-11,Thomas,ships carpenter,MCINNES,Isabella,husbandman,ag lab
+rec-471-org,Mary,F,HALL,HALL,1743-05-17,John,greengrocer,ALLCOCK,Jane,analytical chemist,embosser
+rec-472-org,Maggie,F,ROBERTS,ROBERTS,1740-10-06,Samuel,domestic cleaner,FORRESTER,Christiana,jeweller,carrier
+rec-473-org,John,M,CHILD,CHILD,1761-09-27,Donald,parish clerk,PURDY,Mary,milliner,motor mechanic
+rec-474-org,Elizabeth,F,BOYCE,BOYCE,1742-12-22,James,policeman,MOUNTFORD,Margret,master mariner,civil servant - ministry of employment
+rec-475-org,Margaret,F,JENKINS,JENKINS,1744-06-09,David,labourer,WINDLE,Catherine,market gardener,servant
+rec-476-org,Janet,F,JENNINGS,JENNINGS,1741-06-08,James,engineer,BOND,Catherine,ships officer,basket maker
+rec-477-dup-0,gAness,F,MCALLISTER,MCALLISTER,1749-07-02,Adam,stonemason,ATKIN,Mary,cook and housekeeper,servant
+rec-477-dup-1,Agnss,F,MCALLISTER,MCALLISTER,1749-07-02,Adam,stonemason,ATKIN,Mary,cook and housekeeper,servant
+rec-477-org,Agness,F,MCALLISTER,MCALLISTER,1749-07-02,Adam,stonemason,ATKIN,Mary,cook and housekeeper,servant
+rec-478-org,Jane,F,SUMMERS,SUMMERS,1740-10-20,Dugald,labourer,DUFF,Mary,lab,labourer
+rec-479-org,Jessie,F,EKINS,EKINS,1741-04-16,Robert,mason,WALKER,Hannah,farmer,market gardener
+rec-48-org,Ann,F,BENN,BENN,1724-02-25,Charles,domestic servant,HOWARTH,Jane,farm labourer,labourer
+rec-480-org,Ellen,F,EDWARD,EDWARD,1738-07-28,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),joiner
+rec-481-org,George,M,VINCETT,VINCETT,1750-10-30,Peter,r.n.,WRIGHT,Janet,carpenter,carpenter
+rec-482-org,Eliza,F,HAWORTH,HAWORTH,1744-05-30,Morris,office worker,PHEAR,Elsie,farmer,bootmaker
+rec-483-dup-0,Hnery,M,OVENDEN,OVENDEN,1747-07-19,David,grazier,CRICK,Jane,butcher,labourer
+rec-483-org,Henry,M,OVENDEN,OVENDEN,1747-07-19,David,grazier,CRICK,Jane,butcher,labourer
+rec-484-org,John,M,TRUEMAN,TRUEMAN,1743-08-27,Henry,ag lab,NEWTON,Mary,copper kettle maker,engineer
+rec-485-org,Josiah,M,TAYLOR,TAYLOR,1744-04-04,John,mason,MASLIN,Sarah,clerk,locksmith
+rec-486-org,Mark,M,JOHNSTON,JOHNSTON,1738-10-31,Alexander,civil engineer,WOOD,Mary,mariner,farm servant
+rec-487-org,Fortuna,F,WEDLOCK,WEDLOCK,1746-02-09,John,clay tobacco pipe maker,DUDLEY,Agnes,labourer,man servant
+rec-488-org,Sarah,F,DAUKES,DAUKES,1741-04-05,James,carter,REDFORDS,Anne,gardener,fisherman
+rec-489-org,Mary,F,SUNDERLAND,SUNDERLAND,1743-01-21,Alexander,farm lab,FRESHWATER,Margaret,brass moulder,grazier
+rec-49-org,James,M,WILLIAMS,WILLIAMS,1726-11-08,David,cab proprietor,RAE,Elizabeth,cheesemonger,gardener
+rec-490-org,Jessie,F,BRADFORD,BRADFORD,1740-07-21,John,sub post master,REEVE,Ann,dock foreman,joiner
+rec-491-dup-0,Euhpemia,F,HADLEY,HADLEY,1745-12-27,Hugh,joiner,OLDEN,Margaret,linen drapers assistant,labourer
+rec-491-dup-1,Eupheumia,F,HADLEY,HADLEY,1745-12-27,Hugh,joiner,OLDEN,Margaret,linen drapers assistant,labourer
+rec-491-org,Euphemia,F,HADLEY,HADLEY,1745-12-27,Hugh,joiner,OLDEN,Margaret,linen drapers assistant,labourer
+rec-492-org,Mary,F,SAUNDERS,SAUNDERS,1746-04-22,George,shoemaker,SHERATON,Ann,butcher,dressmaker
+rec-493-org,Elizabeth,F,WALLER,WALLER,1745-10-01,Robert,hawker,WHITTAKER,Mary,miner,engineman
+rec-494-org,May,F,PINNELL,PINNELL,1743-04-25,George,labourer,HIGHAM,Helen,builder,farm lab
+rec-495-org,Pat,M,BOYLE,BOYLE,1744-04-21,Hector,iron works manager,WATON,Agnes,labourer,builder
+rec-496-org,Yergen,M,SAUNDERSON,SAUNDERSON,1739-10-08,William,mariner,WETHERELL,Mary,farm labourer,weaver
+rec-497-org,Janet,F,RIEVERTS,RIEVERTS,1747-06-03,Harvey,servant,COOKMAN,Annie,farmer,french polisher
+rec-498-org,John,M,QUARLE,QUARLE,1746-09-08,James,farm labourer,BARRETT,Mary,laundress,coal miner, supervisor
+rec-499-org,George,M,HAWES,HAWES,1747-02-06,Jas,cork hawker,SUTHERLAND,Jessie,blacksmith,diamond setter
+rec-5-org,Luis,F,REAKES,REAKES,1724-03-31,Willi,labourer,SCHULEN,Elizabeth,fitter at steelplant,mill hand
+rec-50-org,Jessie,F,MORRISON,MORRISON,1727-11-27,William,miller,HARRISON,Jessie,painter,farmer
+rec-500-dup-0,Ahn,F,BIRD,BIRD,1741-04-24,William,ag lab,BATH,Julia,poultry man,foreman of wholesale stationer
+rec-500-org,Ann,F,BIRD,BIRD,1741-04-24,William,ag lab,BATH,Julia,poultry man,foreman of wholesale stationer
+rec-501-org,Ellen,F,WHATTON,WHATTON,1742-11-09,John,carpenter,STEPHENSON,Elisabeth,mariner,marine store dealer
+rec-502-dup-0,Helwn,F,CLARK,CLARK,1739-10-24,Patrick,farmer,SLITH,Elizabeth,clerk, railway works,servant
+rec-502-org,Helen,F,CLARK,CLARK,1739-10-24,Patrick,farmer,SLITH,Elizabeth,clerk, railway works,servant
+rec-503-org,Janet,F,ADAMSON,ADAMSON,1740-10-03,Andrew,weaver,GIBSON,Isabella,fitter and turner,timber salesman
+rec-504-dup-0,nn,F,ADAMSON,ADAMSON,1740-10-03,Andrew,weaver,GIBSON,Isabella,fitter and turner,cotton spinner
+rec-504-dup-1,Anri,F,ADAMSON,ADAMSON,1740-10-03,Andrew,weaver,GIBSON,Isabella,fitter and turner,cotton spinner
+rec-504-org,Ann,F,ADAMSON,ADAMSON,1740-10-03,Andrew,weaver,GIBSON,Isabella,fitter and turner,cotton spinner
+rec-505-dup-0,Jhon,M,MARTLAND,MARTLAND,1754-06-12,Willia,market gardener,WAINWRIGHT,May,silk weaver,gardener
+rec-505-org,John,M,MARTLAND,MARTLAND,1754-06-12,Willia,market gardener,WAINWRIGHT,May,silk weaver,gardener
+rec-506-dup-0,Maru,F,BURNLEY,BURNLEY,1740-09-30,Robert,secretary,OLDERSHAW,Mary,tenant farmer,labourer
+rec-506-dup-1,Msry,F,BURNLEY,BURNLEY,1740-09-30,Robert,secretary,OLDERSHAW,Mary,tenant farmer,labourer
+rec-506-org,Mary,F,BURNLEY,BURNLEY,1740-09-30,Robert,secretary,OLDERSHAW,Mary,tenant farmer,labourer
+rec-507-org,James,M,HILL,HILL,1741-08-12,James,g.p.o. telephonist,STOTT,Helen,chemist,mariner
+rec-508-org,Robert,M,MORRIS,MORRIS,1741-04-19,John,farmer,MILLER,Margaret,school attendance officer,shoemaker
+rec-509-org,Margaret,F,SPIRES,SPIRES,1741-11-16,John,tailor,GRINDROD,Joann,labourer,ag lab
+rec-51-dup-0,Andrwe,M,DAUKES,DAUKES,1727-10-30,James,carter,REDFORDS,Anne,gardener,hawker
+rec-51-dup-1,Andrrw,M,DAUKES,DAUKES,1727-10-30,James,carter,REDFORDS,Anne,gardener,hawker
+rec-51-dup-2,Andrevv,M,DAUKES,DAUKES,1727-10-30,James,carter,REDFORDS,Anne,gardener,hawker
+rec-51-org,Andrew,M,DAUKES,DAUKES,1727-10-30,James,carter,REDFORDS,Anne,gardener,hawker
+rec-510-org,James,M,VEITCH,VEITCH,1744-08-02,Robert,glazier,YARD,Elizabeth,grocer,mill owner (corn)
+rec-511-dup-0,Isab3lla,F,EVANS,EVANS,1742-01-13,Peter,road labourer,LEATT,Angelina,engine fitter,publican
+rec-511-org,Isabella,F,EVANS,EVANS,1742-01-13,Peter,road labourer,LEATT,Angelina,engine fitter,publican
+rec-512-org,Margaret,F,ASHFORD,ASHFORD,1739-09-19,Allan,refreshment contractor,PIERCE,Maggie,labourer,horse dealer
+rec-513-org,Donald,M,MCDERMID,MCDERMID,1742-05-09,James,dentists assistant,SMITH,Janet,husbandman,saddler and harness maker
+rec-514-org,Isabell,F,ROWE,ROWE,1741-11-05,Charles,gardener,ANNISON,Jane,farmer,family cook
+rec-515-org,Margaret,F,RAVEN,RAVEN,1746-02-07,Charles,glass blower,MOLYNEUX,Annie,shoemaker,shoemaker
+rec-516-org,James,M,DAVIDSON,DAVIDSON,1742-07-02,John,farmer,TODD,Adaline,butcher,tallow chandler
+rec-517-org,Grace,F,COLES,COLES,1743-07-20,Robert,watchmaker,EVANS,Margaret,gentleman,tailor
+rec-518-org,James,M,MILWERT,MILWERT,1740-06-07,James,labourer,WATT,Jane,hatter,farmer
+rec-519-dup-0,Brudget,F,WILSON,WILSON,1740-03-26,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,brewer
+rec-519-dup-1,Brisget,F,WILSON,WILSON,1740-03-26,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,brewer
+rec-519-dup-2,Bridet,F,WILSON,WILSON,1740-03-26,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,brewer
+rec-519-org,Bridget,F,WILSON,WILSON,1740-03-26,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,brewer
+rec-52-org,Annie,F,THOMAS,THOMAS,1726-08-06,Samuel,landowner,GREENAWAY,Christina,nurseryman,framework knitter
+rec-520-dup-0,Caaroline,F,LIFTON,LIFTON,1740-01-25,James,gilder,HOLLIWELL,Margaret,carpenter,wood turner
+rec-520-org,Caroline,F,LIFTON,LIFTON,1740-01-25,James,gilder,HOLLIWELL,Margaret,carpenter,wood turner
+rec-521-org,Ann,F,TAYLOR,TAYLOR,1740-10-09,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),mariner
+rec-522-org,Ann,F,LANGLEY,LANGLEY,1741-11-30,James,stonecutter,CRACKRICH,Jemima,customs officer,university professor
+rec-523-org,Ann,F,SPENCE,SPENCE,1743-04-28,David,provision dealer,MANNING,Margaret,bootmaker,brick yard owner
+rec-524-org,Terrence,M,DAVIES,DAVIES,1749-01-01,William,shop owner,PAWSEY,Mary,iron merchant,delver
+rec-525-org,John,M,RICHARDSON,RICHARDSON,1741-05-30,Alexander,servant,CULL,Margaret,mechanic,labourer
+rec-526-org,James,M,STRUIGER,STRUIGER,1745-01-01,Hugh,miner,CROSSIAN,Margaret,typist,domestic servant
+rec-527-org,Glenny,F,HONEYWELL,HONEYWELL,1741-11-12,William,miller (postmill),STREMBELS,Jessie,engineer,accounts clerk
+rec-528-org,Beatrice,F,HENDERSON,HENDERSON,1746-12-02,James,mariner,ROBERTSON,Margaret,farmer,raiser
+rec-529-dup-0,Alexandfer,M,HOWES,HOWES,1743-06-14,Gavin,labourer,HOLROYD,Jane,labourer,butcher
+rec-529-dup-1,Alefander,M,HOWES,HOWES,1743-06-14,Gavin,labourer,HOLROYD,Jane,labourer,butcher
+rec-529-dup-2,Alexandwr,M,HOWES,HOWES,1743-06-14,Gavin,labourer,HOLROYD,Jane,labourer,butcher
+rec-529-org,Alexander,M,HOWES,HOWES,1743-06-14,Gavin,labourer,HOLROYD,Jane,labourer,butcher
+rec-53-org,Jane,F,STEPHENS,STEPHENS,1725-09-05,Wm,riding master,KNOW,Janet,secretary,nailer
+rec-530-org,Henry,M,QUICK,QUICK,1740-06-19,William,teacher,ORTON,Helen,farmer,miner
+rec-531-org,Hellen,F,HOLLIDAY,HOLLIDAY,1742-05-18,Willia,weaver,JENKINS,Elizabeth,gasfitters storekeeper,commercial traveller
+rec-532-org,John,M,BOULTON,BOULTON,1746-07-18,William,miller,HENSHALL,Ann,toy maker,baker
+rec-533-org,Hellen,F,MACKAY,MACKAY,1742-07-21,Willia,victualler,HOOPER,Lilian,currier,dressmaker
+rec-534-org,Robert,M,CARTWRIGHT,CARTWRIGHT,1742-01-04,William,carpet weaver,RAE,Elizabeth,cheesemonger,wages Clerk
+rec-535-dup-0,pAnnie,F,LARCOMBE,LARCOMBE,1743-03-13,Alex,master merchant mariner,ROSS,Margaret,farm bailiff,cheesemonger
+rec-535-dup-1,Abnie,F,LARCOMBE,LARCOMBE,1743-03-13,Alex,master merchant mariner,ROSS,Margaret,farm bailiff,cheesemonger
+rec-535-org,Annie,F,LARCOMBE,LARCOMBE,1743-03-13,Alex,master merchant mariner,ROSS,Margaret,farm bailiff,cheesemonger
+rec-536-org,Jane,F,MORTIMER,MORTIMER,1742-04-10,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,blacksmith
+rec-537-org,William,M,HOOKHAM,HOOKHAM,1739-12-27,James,fisherman,DEARDEN,Georgina,chemist,spinner
+rec-538-org,Mary,F,BRUNALL,BRUNALL,1747-07-29,Robert,compositor,ADAMSON,Joan,ag lab,collier
+rec-539-org,Phillip,M,GOUNDRY,GOUNDRY,1740-09-11,Willia,fireman,RUSBY,Margaret,needlemaker,labourer
+rec-54-org,Rachael,F,STEPHENS,STEPHENS,1725-09-05,Wm,riding master,KNOW,Janet,secretary,barrister
+rec-540-dup-0,Georbe,M,BURNETT,BURNETT,1743-09-22,John,collier,JACKSON,Amelia,fireman,,woodman
+rec-540-org,George,M,BURNETT,BURNETT,1743-09-22,John,collier,JACKSON,Amelia,fireman,,woodman
+rec-541-org,Elizabeth,F,MACKIE,MACKIE,1743-12-20,Josias,lab,OTLEY,Helen,joiner,baker
+rec-542-org,Jane,F,MORLEY,MORLEY,1741-11-02,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,servant
+rec-543-org,John,M,LORD,LORD,1742-11-26,George,photographer,BAKER,Susan,manufacturer,wetter (printing)
+rec-544-dup-0,Alexancer,M,BURT,BURT,1744-09-24,John,currier,HUNTER,Georgina,file cutter,boatman
+rec-544-org,Alexander,M,BURT,BURT,1744-09-24,John,currier,HUNTER,Georgina,file cutter,boatman
+rec-545-dup-0,ane,F,CHADWICH,CHADWICH,1740-05-28,Charles,engineer,JONES,Maggie,cabinet maker,tweed and flannel manufacturer
+rec-545-dup-1,Jabe,F,CHADWICH,CHADWICH,1740-05-28,Charles,engineer,JONES,Maggie,cabinet maker,tweed and flannel manufacturer
+rec-545-dup-2,Janw,F,CHADWICH,CHADWICH,1740-05-28,Charles,engineer,JONES,Maggie,cabinet maker,tweed and flannel manufacturer
+rec-545-org,Jane,F,CHADWICH,CHADWICH,1740-05-28,Charles,engineer,JONES,Maggie,cabinet maker,tweed and flannel manufacturer
+rec-546-org,Ann,F,CROSSGROVE,CROSSGROVE,1740-11-08,Robert,general store keeper,WATSON,Margaret,farm lab,coachman
+rec-547-org,Rachel,F,KEALY,KEALY,1739-09-27,William,fisherman,GRAY,Florina,baker,paper bag maker
+rec-548-org,Agnes,F,GROVES,GROVES,1751-02-02,Daniel,parquet layer,BURLEIGH,Bessie,cab proprietor,waiter
+rec-549-org,Agnes,F,SERGEANT,SERGEANT,1739-01-01,Charles,ag lab,LLOYD,Jeanie,carpenter,fancy box maker
+rec-55-org,Ann,F,TONGE,TONGE,1728-01-09,John,parish clerk,ROBINSON,Sophia,locksmith,framework knitter
+rec-550-org,Robert,M,HOLLAND,HOLLAND,1743-02-02,Robt,resident maid,ATKINS,Margaret,ironmonger,wooden box maker
+rec-551-org,Charles,M,ORAN,ORAN,1746-06-08,George,engineer rn,WHIPP,Mary,principle, polytechnic,miner
+rec-552-dup-0,Agnws,F,OATES,OATES,1744-02-03,James,farmer,WILLIAMS,Margaret,shop assistant,moulder
+rec-552-dup-1,Agnew,F,OATES,OATES,1744-02-03,James,farmer,WILLIAMS,Margaret,shop assistant,moulder
+rec-552-dup-2,A9nes,F,OATES,OATES,1744-02-03,James,farmer,WILLIAMS,Margaret,shop assistant,moulder
+rec-552-org,Agnes,F,OATES,OATES,1744-02-03,James,farmer,WILLIAMS,Margaret,shop assistant,moulder
+rec-553-org,Isabella,F,HARRIS,HARRIS,1743-11-14,John,file cutter,MITCHELL,Margret,labourer,coal mine hewer
+rec-554-dup-0,Elizbeth,F,ANDREWS,ANDREWS,1740-02-05,David,railway inspector,FORMAN,Agnes,pattern maker,coal miner
+rec-554-dup-1,Elizbaeth,F,ANDREWS,ANDREWS,1740-02-05,David,railway inspector,FORMAN,Agnes,pattern maker,coal miner
+rec-554-org,Elizabeth,F,ANDREWS,ANDREWS,1740-02-05,David,railway inspector,FORMAN,Agnes,pattern maker,coal miner
+rec-555-dup-0,Jown,M,HOLLINGDALE,HOLLINGDALE,1743-05-17,George,farmer,PEARTON,Mary,coal merchant,farmers daughter
+rec-555-dup-1,Jogn,M,HOLLINGDALE,HOLLINGDALE,1743-05-17,George,farmer,PEARTON,Mary,coal merchant,farmers daughter
+rec-555-org,John,M,HOLLINGDALE,HOLLINGDALE,1743-05-17,George,farmer,PEARTON,Mary,coal merchant,farmers daughter
+rec-556-org,Janet,F,WARWICK,WARWICK,1751-02-22,William,lab,BRYCE,Jane,painter,farmer
+rec-557-org,Nellie,F,OATES,OATES,1741-07-28,William,dressmaker,LEYARD ,Christina,silk weaver,hind
+rec-558-org,Alexander,M,FOX,FOX,1750-05-22,James,servant,HUNTER,Mary,stone mason,domestic servant
+rec-559-org,Margaret,F,GARDNER,GARDNER,1742-08-01,William,house carpenter,HANOLD,Elizabeth,house agent,clerk
+rec-56-org,Ella,F,TUCKER,TUCKER,1724-11-15,James,blacksmith,MOUNTFORD,Margret,master mariner,farmer
+rec-560-dup-0,Anges,F,JONES,JONES,1741-08-31,John,labourer,MACHRAY,Jane,printer,coal miner
+rec-560-org,Agnes,F,JONES,JONES,1741-08-31,John,labourer,MACHRAY,Jane,printer,coal miner
+rec-561-org,Isabella,F,KENNETT,KENNETT,1742-10-03,Robert,foreman fire service,SHAW,Janet,lab,cloth dresser
+rec-562-dup-0,Johm,M,THOMPSON,THOMPSON,1741-08-28,Jas,butcher,HISCOCKS,Elizabeth,shear striker,lab
+rec-562-org,John,M,THOMPSON,THOMPSON,1741-08-28,Jas,butcher,HISCOCKS,Elizabeth,shear striker,lab
+rec-563-org,Agnes,F,BRIDDON,BRIDDON,1741-12-29,William,tailor,BARKER,Elizabeth,civil engineer,book keeper
+rec-564-org,James,M,BROAD,BROAD,1741-04-08,Charles,miner,WAKS,Mary,gardener (private),district nurse
+rec-565-org,Alfred,M,WATSON,WATSON,1748-01-10,John,school mistress,LANCELY,Celia,corn dealer,joiner
+rec-566-org,Hugh,M,HUSGROVE,HUSGROVE,1742-06-01,James,general labourer,LEE,Agness,general surgeon,engine fitter
+rec-567-org,Ann,F,HAMPTON,HAMPTON,1745-01-20,Alexander,labourer,DAVIES,Rebecca,manager of newsagent/tobacconist,sailor
+rec-568-org,Louisa,F,SHARPE,SHARPE,1744-03-25,James,baker,HANEND,Margt,co-op manager,lab
+rec-569-org,Catherine,F,BAMSEY,BAMSEY,1741-08-07,John,labourer,LARKIN,Catherine,carpenter,ledger clerk (raf)
+rec-57-org,David,M,FLINT,FLINT,1728-07-22,Robert,farmer,MORISON,Jane,grocer,mechanical engineer
+rec-570-org,John,M,LLOYD,LLOYD,1740-11-17,David,designer,HARLE,Susina,fisherman,french polisher
+rec-571-org,Jane,F,MAHER,MAHER,1746-04-09,William,ironmonger,BAXENDALL,Marion,machine maker,lab
+rec-572-org,Jane,F,MAHER,MAHER,1746-04-09,William,ironmonger,BAXENDALL,Marion,machine maker,farmer
+rec-573-org,Will,M,PHILIPS,PHILIPS,1742-04-10,Andrew,farmer,HAWGOOD,Mary,smith,warehouseman railway
+rec-574-org,Jane,F,BENN,BENN,1743-09-30,Charles,domestic servant,HOWARTH,Jane,farm labourer,coal miner
+rec-575-dup-0,Jaiiies,M,HONES,HONES,1741-04-06,Alexander,butcher,CONNELL,Therese,shop assistant,weaver
+rec-575-org,James,M,HONES,HONES,1741-04-06,Alexander,butcher,CONNELL,Therese,shop assistant,weaver
+rec-576-dup-0,Thomws,M,BIRKETT,BIRKETT,1742-03-28,Donald,blacksmith,ROLFE,Mary,miller,house carpenter
+rec-576-org,Thomas,M,BIRKETT,BIRKETT,1742-03-28,Donald,blacksmith,ROLFE,Mary,miller,house carpenter
+rec-577-dup-0,Marh,F,GRANT,GRANT,1741-01-18,James,mariner,MORSE,Margaret,labourer,master mariner
+rec-577-dup-1,Mahy,F,GRANT,GRANT,1741-01-18,James,mariner,MORSE,Margaret,labourer,master mariner
+rec-577-org,Mary,F,GRANT,GRANT,1741-01-18,James,mariner,MORSE,Margaret,labourer,master mariner
+rec-578-dup-0,Sarab,F,TAYLOR,TAYLOR,1750-05-20,William,bricklayer,INNESS,Annie,labourer,carpenter
+rec-578-org,Sarah,F,TAYLOR,TAYLOR,1750-05-20,William,bricklayer,INNESS,Annie,labourer,carpenter
+rec-579-org,Jane,F,TIMOTHY,TIMOTHY,1747-04-17,William,confectioner,SUMNER,Joann,grocer,tailoress
+rec-58-org,Betsy,F,BOWMAN,BOWMAN,1724-12-14,Hugh,draper,TREDWIN,Jane,clerk,lab
+rec-580-org,Helen,F,SHEARER,SHEARER,1741-10-07,William,dressmaker,TRESIDDER,Margaret,machine operator,furnaceman
+rec-581-dup-0,Mar9aret,F,CHAMBERS,CHAMBERS,1745-03-30,George,whitesmith,BURTON,Annie,actor,carpenter
+rec-581-org,Margaret,F,CHAMBERS,CHAMBERS,1745-03-30,George,whitesmith,BURTON,Annie,actor,carpenter
+rec-582-org,William,M,STEWART,STEWART,1751-12-07,John,mariner,MARIS,Janet,smith/forgeman,frame work knitter
+rec-583-org,Chas,M,PENSON,PENSON,1750-10-24,Hugh,railway porter,CARTRIGHT,Sarah,navy,grocer
+rec-584-dup-0,Willism,M,RICHARDSON,RICHARDSON,1741-02-20,John,private soldier,NOBLE,Catherine,bootmaker,master blacksmith
+rec-584-dup-1,Wiljiam,M,RICHARDSON,RICHARDSON,1741-02-20,John,private soldier,NOBLE,Catherine,bootmaker,master blacksmith
+rec-584-dup-2,Wilkiam,M,RICHARDSON,RICHARDSON,1741-02-20,John,private soldier,NOBLE,Catherine,bootmaker,master blacksmith
+rec-584-org,William,M,RICHARDSON,RICHARDSON,1741-02-20,John,private soldier,NOBLE,Catherine,bootmaker,master blacksmith
+rec-585-org,Alex,M,HARPER,HARPER,1743-06-06,John,farm lab,SAGE,Mary,farmer,factory worker - foreman
+rec-586-org,Catherine,F,WALTON,WALTON,1739-08-28,Thos,brassfounder,TREDWELL,Elizabeth,farm labourer,farmer
+rec-587-org,Jane,F,WALTON,WALTON,1739-08-28,Thos,brassfounder,TREDWELL,Elizabeth,farm labourer,building surveyor
+rec-588-dup-0,Donals,M,SNOOK,SNOOK,1741-05-13,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,cashier at colliery
+rec-588-org,Donald,M,SNOOK,SNOOK,1741-05-13,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,cashier at colliery
+rec-589-org,Thomas,M,BOWMAN,BOWMAN,1741-09-02,Hugh,draper,TREDWIN,Jane,clerk,miner
+rec-59-org,Mary,F,CORNER,CORNER,1731-05-30,Donald,chargehand/foreman,SCHOLES,Marion,bootmaker,river water mariner
+rec-590-org,Mary,F,THOMAS,THOMAS,1745-01-27,Matthew,farmer,GILL,Margaret,domestic servant,warehouseman
+rec-591-dup-0,Maggoe,F,PEARCE,PEARCE,1738-09-04,Anthony,paper merchant,CURD,Isabella,silk dyer,royal navy, engineer
+rec-591-dup-1,Maggi,F,PEARCE,PEARCE,1738-09-04,Anthony,paper merchant,CURD,Isabella,silk dyer,royal navy, engineer
+rec-591-org,Maggie,F,PEARCE,PEARCE,1738-09-04,Anthony,paper merchant,CURD,Isabella,silk dyer,royal navy, engineer
+rec-592-org,John,M,HARRIS,HARRIS,1742-11-15,John,accountant,MUDD,Elisabeth,printer,grocer
+rec-593-dup-0,Margzret,F,DUNN,DUNN,1744-08-06,William,miller,BROWN,Betsy,engineer,farmer
+rec-593-org,Margaret,F,DUNN,DUNN,1744-08-06,William,miller,BROWN,Betsy,engineer,farmer
+rec-594-org,Patrick,M,CORBY,CORBY,1747-11-24,Daniel,labourer,ASPREAL,Janet,joiner,coal miner (underground)
+rec-595-org,Marion,F,SWANSON,SWANSON,1743-01-06,John,sawyer,JONES,Elisabeth,gamekeeper,decorator
+rec-596-org,Geo,M,WOOTTON,WOOTTON,1746-01-05,George,secretary,COLLISON,Elizabeth,coachman,driller
+rec-597-dup-0,Janpe,F,DURROCK,DURROCK,1744-01-30,John,labourer,WHITTINGTON,Isabella,husbandman,bootmaker
+rec-597-dup-1,Jaen,F,DURROCK,DURROCK,1744-01-30,John,labourer,WHITTINGTON,Isabella,husbandman,bootmaker
+rec-597-dup-2,Jame,F,DURROCK,DURROCK,1744-01-30,John,labourer,WHITTINGTON,Isabella,husbandman,bootmaker
+rec-597-org,Jane,F,DURROCK,DURROCK,1744-01-30,John,labourer,WHITTINGTON,Isabella,husbandman,bootmaker
+rec-598-org,Duncan,M,HOOP,HOOP,1743-09-27,Andrew,tailoress,MILLER,Catherine,publican,ag lab
+rec-599-org,Sarah,F,READ,READ,1740-12-07,George,washerwoman,AYERS,Janet,musician,domestic servant
+rec-6-org,Martha,F,GRIFFITHS,GRIFFITHS,1735-06-28,Leslie,indian army engineer,HARDY,Euphemia,brewery labourer,blacksmith
+rec-60-org,Sarah,F,WALLER,WALLER,1726-06-06,Robert,hawker,SMITH,Caloline,farmer,shipwright (hm dockyard)
+rec-600-org,Margaret,F,LOCH,LOCH,1743-05-12,Alfred,steam roller driver,MCMILLAN,Annie,miller,brass tube manufacturer
+rec-601-dup-0,Wifree,F,KING,KING,1742-05-30,William,leather dresser,BARKER,Isabella,farmer,licensed victualler
+rec-601-org,Winfree,F,KING,KING,1742-05-30,William,leather dresser,BARKER,Isabella,farmer,licensed victualler
+rec-602-org,Betsy,F,LENNON,LENNON,1741-07-15,James,blacksmith,GREENHALGH,Isabella,fisherman,navy
+rec-603-org,Sarah,F,WOOLCOCK,WOOLCOCK,1747-07-19,Murdo,dressmaker,KEIR,Jane,fisherman,hosier
+rec-604-dup-0,Jariet,F,OWEN,OWEN,1745-07-29,Donald,brickmaker,HUSTHWAITE,Margaret,glovecutter,servant
+rec-604-dup-1,Jamet,F,OWEN,OWEN,1745-07-29,Donald,brickmaker,HUSTHWAITE,Margaret,glovecutter,servant
+rec-604-dup-2,Jaet,F,OWEN,OWEN,1745-07-29,Donald,brickmaker,HUSTHWAITE,Margaret,glovecutter,servant
+rec-604-org,Janet,F,OWEN,OWEN,1745-07-29,Donald,brickmaker,HUSTHWAITE,Margaret,glovecutter,servant
+rec-605-org,Neil,M,BODGE,BODGE,1746-05-20,Thomas,weaver,JOHNSTON,Mary,farmer,miller
+rec-606-dup-0,hlizabeth,F,WALLER,WALLER,1745-04-30,John,farmer,KERR,Mary,gardener,farmer
+rec-606-dup-1,El:zabeth,F,WALLER,WALLER,1745-04-30,John,farmer,KERR,Mary,gardener,farmer
+rec-606-dup-2,Elizabeh,F,WALLER,WALLER,1745-04-30,John,farmer,KERR,Mary,gardener,farmer
+rec-606-org,Elizabeth,F,WALLER,WALLER,1745-04-30,John,farmer,KERR,Mary,gardener,farmer
+rec-607-org,John,M,STEDMAN,STEDMAN,1745-03-26,David,coal miner,HART,Helen,cutter,horse dealer
+rec-608-org,Willia,M,ROBERTS,ROBERTS,1742-02-09,James,porter master,SKEELS,Mary,bookseller,domestic servant
+rec-609-org,Jane,F,FOURACRE,FOURACRE,1741-04-09,John,shopkeeper,MALPAS,Margaret,weaver,clerk colliery
+rec-61-org,Louisa,F,ROBINSON,ROBINSON,1731-10-21,James,shoemaker,STONE,Annie,coal miner,weaver
+rec-610-org,James,M,CAMERON,CAMERON,1749-05-31,Charles,coachman,TAYLOR,Sarah,tailor,stone mason
+rec-611-org,John,M,WARREN,WARREN,1744-11-11,John,bailiff,MCPHERSON,Margaret,lab,ag lab
+rec-612-org,Thomas,M,HAYWOOD,HAYWOOD,1742-09-11,John,labourer,ROUSE,Janet,draper,ag lab
+rec-613-org,Maria,F,FAULCONER,FAULCONER,1743-02-15,Hugh,blacksmith,WOOD,Agnes,rsm soldier,ag lab
+rec-614-org,Mary,F,HAIGH,HAIGH,1744-04-15,John,shoemaker,LANGELAAN,Mary,cabinet maker,fitter
+rec-615-org,Willia,M,FOOZS,FOOZS,1756-01-11,George,railway fireman,REID,Jane,brick manufacturer and contractor,solicitors clerk
+rec-616-org,James,M,HIGGINS,HIGGINS,1743-08-29,James,vicar,ILSCOMBE,Annie,station master,draper
+rec-617-org,Robert,M,WYBROW,WYBROW,1744-02-08,Alexander,seamer,EVANS,Marion,plasterer,shop assistant
+rec-618-org,Flora,F,EDWARDS,EDWARDS,1752-06-03,Roderick,surveyor,LAWLOR,Margaret,domestic servant,copper miner
+rec-619-org,John,M,DYER,DYER,1744-06-09,David,painter,ANDERSON,Alice,vinegar merchant,menswear retailer
+rec-62-org,David,M,PHILLIPS,PHILLIPS,1726-11-01,John,textile worker,SHINN,Ellen,mariner,ag lab
+rec-620-org,John,M,CALVERT,CALVERT,1742-02-04,Alexr,shoemaker,HENDELL,Janet,waterman,farmer
+rec-621-org,Peter,M,BEEWELL,BEEWELL,1742-11-07,Wm,brass founder,GULLFORD,Margaret,market gardener,nutritionist
+rec-622-org,James,M,SOUTHWORTH,SOUTHWORTH,1741-04-20,John,mill manager,PAYNE,Jane,farm servant,colour sgt r.m.
+rec-623-org,Charles,M,POWELL,POWELL,1742-11-08,William,farmer,OWEN,Agnes,lab,labourer
+rec-624-org,Duncan,M,BOND,BOND,1744-06-05,Alexander,clerk of cheque of ordnance,HOLDSWORTH,Margaret,basket maker,mariner
+rec-625-org,James,M,WALMSLEY,WALMSLEY,1744-07-01,John,research chemist,LOOD,Margt,mason,labourer
+rec-626-dup-0,Jhon,M,BUCK,BUCK,1747-01-28,Archibald,munitions factory worker,LEWIS,Jane,power station fitter/engineer,chemical works labourer
+rec-626-dup-1,Johri,M,BUCK,BUCK,1747-01-28,Archibald,munitions factory worker,LEWIS,Jane,power station fitter/engineer,chemical works labourer
+rec-626-dup-2,Johm,M,BUCK,BUCK,1747-01-28,Archibald,munitions factory worker,LEWIS,Jane,power station fitter/engineer,chemical works labourer
+rec-626-org,John,M,BUCK,BUCK,1747-01-28,Archibald,munitions factory worker,LEWIS,Jane,power station fitter/engineer,chemical works labourer
+rec-627-org,Leslie,M,MILLS,MILLS,1758-11-10,James,postmistress,KNOTT,Catherine,surgical instrument maker cutler,grocer
+rec-628-org,Thomas,M,TIPLING,TIPLING,1743-09-03,John,drapers asst,WOODFORD,Esther,ag lab,ag lab
+rec-629-dup-0,Jessiev,F,LAMB,LAMB,1742-08-27,Thomas,wool mill worker,GULLY,Margaret,servant,servant
+rec-629-org,Jessie,F,LAMB,LAMB,1742-08-27,Thomas,wool mill worker,GULLY,Margaret,servant,servant
+rec-63-org,John,M,WHATTON,WHATTON,1729-10-02,John,carpenter,STEPHENSON,Elisabeth,mariner,turner
+rec-630-org,Annie,F,ARCHARDS,ARCHARDS,1745-12-20,Thomas,smith's labourer,TOMKINSON,Margt,registered nurse,iron turner
+rec-631-org,Isabella,F,JANE,JANE,1742-10-06,Thomas,gas fitter,PEPPER,Janet,farmer,painter and decorator
+rec-632-org,Agnes,F,ASTILE,ASTILE,1747-05-05,Daniel,labourer,WEST,Agnes,carpenter,printer
+rec-633-dup-0,Mggie,F,CHAPLIN,CHAPLIN,1748-04-08,William,weaver,BROWNLIE,Ann,policeman,miner
+rec-633-dup-1,Maggi4,F,CHAPLIN,CHAPLIN,1748-04-08,William,weaver,BROWNLIE,Ann,policeman,miner
+rec-633-org,Maggie,F,CHAPLIN,CHAPLIN,1748-04-08,William,weaver,BROWNLIE,Ann,policeman,miner
+rec-634-org,Mary,F,TUSTIN,TUSTIN,1745-06-19,Robert,ag lab,DUPLOCK,Martha,farrier,farmer
+rec-635-org,Thomas,M,EDWARD,EDWARD,1742-02-11,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),bricklayer
+rec-636-org,Ann,F,HARDING,HARDING,1751-06-17,Charles,farm labourer,BROWN,Barbara,butcher,coffee house proprietor
+rec-637-dup-0,Andeew,M,ROBSON,ROBSON,1752-04-03,Andrew,fisherman,SCRAGG,Grace,domestic servant,farmer
+rec-637-org,Andrew,M,ROBSON,ROBSON,1752-04-03,Andrew,fisherman,SCRAGG,Grace,domestic servant,farmer
+rec-638-org,John,M,DAVIES,DAVIES,1755-01-20,Walter,shoemaker,BEARD,Janet,loco engine driver,master mariner
+rec-639-org,John,M,JONES,JONES,1755-04-02,Robert,butcher,KIDD,Elizabeth,farmer,shoemaker
+rec-64-org,Thomas,M,BAKER,BAKER,1731-06-24,William,cordwainer,HALL,Elizebath,ag lab,miner
+rec-640-org,Mary,F,FULKER,FULKER,1744-08-01,James,farmer,BARBER,Mary,coachman,weaver
+rec-641-org,James,M,WATSON,WATSON,1741-12-31,Alexander,farmer,HAYES,Janet,grocer's assist.,farmer
+rec-642-org,William,M,DAVIS,DAVIS,1749-09-21,Charles,royal navy able seaman,BARTLE,Elizabeth,farmer,tenant farmer
+rec-643-org,John,M,CRAGGS,CRAGGS,1744-01-13,William,coal miner,LOVELL,Catharine,ag lab,servant
+rec-644-org,Martha,F,PEARCE,PEARCE,1742-01-20,Anthony,paper merchant,CURD,Isabella,silk dyer,solicitor
+rec-645-org,Alexr,M,NOLAN,NOLAN,1748-12-31,Patrick,carpenter,BELLINGHAM,Elizabeth,boot and shoe closer,labourer
+rec-646-org,John,M,NOLAN,NOLAN,1748-12-31,Patrick,carpenter,BELLINGHAM,Elizabeth,boot and shoe closer,lab
+rec-647-dup-0,Margcret,F,NOLAN,NOLAN,1748-12-31,Patrick,carpenter,BELLINGHAM,Elizabeth,boot and shoe closer,domestic service
+rec-647-org,Margaret,F,NOLAN,NOLAN,1748-12-31,Patrick,carpenter,BELLINGHAM,Elizabeth,boot and shoe closer,domestic service
+rec-648-org,Helen,F,THOMAS,THOMAS,1749-10-22,Samuel,landowner,STEWART,Catherine,labourer,farmer
+rec-649-org,Margaret,F,ANDERSON,ANDERSON,1741-10-25,Patrick,farmer,MOON,Ann,police constable,milliner
+rec-65-org,George,M,HOLLAND,HOLLAND,1728-03-05,Willia,lt rn,MAGRATH,Agnes,stone cutter,cloth dresser
+rec-650-dup-0,Rezbecca,F,MASON,MASON,1748-04-29,William,bus driver,GILL,Margaret,carpenter,captain of militia
+rec-650-dup-1,Rebefca,F,MASON,MASON,1748-04-29,William,bus driver,GILL,Margaret,carpenter,captain of militia
+rec-650-org,Rebecca,F,MASON,MASON,1748-04-29,William,bus driver,GILL,Margaret,carpenter,captain of militia
+rec-651-org,Agnes,F,SIDNEY,SIDNEY,1746-07-26,John,sub contractor, canal construction,ADSHEAD,Margrate,jute spinner,engine cleaner (railway)
+rec-652-dup-0,Aleb,M,STEWART,STEWART,1742-07-09,David,coal miner,DAVIES,Jessie,farmer,sailor
+rec-652-dup-1,lAex,M,STEWART,STEWART,1742-07-09,David,coal miner,DAVIES,Jessie,farmer,sailor
+rec-652-org,Alex,M,STEWART,STEWART,1742-07-09,David,coal miner,DAVIES,Jessie,farmer,sailor
+rec-653-dup-0,Georg3,M,NICHOLAS,NICHOLAS,1741-11-21,John,cabinet maker,LEVINAY,Elizabeth,teacher,farmer
+rec-653-org,George,M,NICHOLAS,NICHOLAS,1741-11-21,John,cabinet maker,LEVINAY,Elizabeth,teacher,farmer
+rec-654-org,Maggie,F,PETERS,PETERS,1748-09-11,Caldwell,farmer,NORTH,Maggie,boiler maker,delver
+rec-655-org,James,M,JENNINGS,JENNINGS,1745-03-08,Duncan,coastguard,GREASELEY,Janet,mariner,spring knife cutler
+rec-656-org,John,M,JOHNSTON,JOHNSTON,1742-09-02,Alexander,civil engineer,WOOD,Mary,mariner,ships carpenter
+rec-657-dup-0,Willoam,M,ROGERS,ROGERS,1743-04-08,James,servant,ELDRED,Mary,manager, tile factory,police constable
+rec-657-dup-1,Williarn,M,ROGERS,ROGERS,1743-04-08,James,servant,ELDRED,Mary,manager, tile factory,police constable
+rec-657-dup-2,Williarn,M,ROGERS,ROGERS,1743-04-08,James,servant,ELDRED,Mary,manager, tile factory,police constable
+rec-657-org,William,M,ROGERS,ROGERS,1743-04-08,James,servant,ELDRED,Mary,manager, tile factory,police constable
+rec-658-org,Joseph,M,KEARSLEY,KEARSLEY,1747-08-01,Archibald,grocer,DOW,Ann,labourer,seaman
+rec-659-dup-0,Mqary,F,RALPH,RALPH,1745-07-22,David,postboy,ALLISON,Elizabeth,tailor,labourer
+rec-659-org,Mary,F,RALPH,RALPH,1745-07-22,David,postboy,ALLISON,Elizabeth,tailor,labourer
+rec-66-dup-0,Henr6,M,ROGERS,ROGERS,1725-07-06,James,servant,ELDRED,Mary,manager, tile factory,porter
+rec-66-org,Henry,M,ROGERS,ROGERS,1725-07-06,James,servant,ELDRED,Mary,manager, tile factory,porter
+rec-660-dup-0,Robe5t,M,ROBINSON,ROBINSON,1742-06-30,Andrew,coalminer,GATLIFF,Susan,farmer,farmer
+rec-660-dup-1,oRbert,M,ROBINSON,ROBINSON,1742-06-30,Andrew,coalminer,GATLIFF,Susan,farmer,farmer
+rec-660-org,Robert,M,ROBINSON,ROBINSON,1742-06-30,Andrew,coalminer,GATLIFF,Susan,farmer,farmer
+rec-661-org,Emma,F,JONES,JONES,1743-01-21,Thos,basket worker,TAYLOR,Marge,cordwainer,plumber
+rec-662-org,Wm,M,MCDONALD,MCDONALD,1750-07-12,Alexander,warehouseman (grocers),RICHARDSON,Jabella,riding master,lab
+rec-663-org,William,M,MAKEPIECE,MAKEPIECE,1750-02-10,George,dressmaker,HUMBLE,Eliza,bricklayer,builder
+rec-664-org,Alexander,M,STONE,STONE,1741-10-24,Thomas,cloth finisher,MORGANS,Elizabeth,delver,coach painter
+rec-665-org,Jane,F,BAKER,BAKER,1748-06-03,William,cordwainer,HALL,Elizebath,ag lab,baker
+rec-666-org,Elizabeth,F,SERGEANT,SERGEANT,1741-11-14,Charles,ag lab,LLOYD,Jeanie,carpenter,thatcher
+rec-667-org,Margt,F,SERGEANT,SERGEANT,1741-11-14,Charles,ag lab,LLOYD,Jeanie,carpenter,labourer
+rec-668-org,Mary,F,HICKS,HICKS,1742-01-16,George,gardener,COCK,Lousia,servant,butcher
+rec-669-org,Jas,M,BAKER,BAKER,1746-03-05,Robert,army sergeant,BEECH,Jessie,farm bailiff,baker
+rec-67-org,David,M,TAYLOR,TAYLOR,1727-01-27,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),gamekeeper
+rec-670-dup-0,Jaes,M,WILSON,WILSON,1747-07-13,John,coal miner,SPRATT,Mary,shop assistant,ag lab
+rec-670-org,James,M,WILSON,WILSON,1747-07-13,John,coal miner,SPRATT,Mary,shop assistant,ag lab
+rec-671-org,Mary,F,GEAKE,GEAKE,1742-09-10,Patrick,ag lab,ROBSON,Janet,cattle dealer,surgeon
+rec-672-org,Robert,M,GRINDROD,GRINDROD,1765-10-28,John,carrier,BINKS,Isabela,labourer,chiropractor / osteopath
+rec-673-org,Mary,F,WHATTON,WHATTON,1746-06-01,Jas,council gardener,HARRIS,Maggie,farm manager,farm worker
+rec-674-org,Janet,F,SWIFTWELL,SWIFTWELL,1744-02-10,George,farmer,CUTHBERTSON,Catherine,railwayman,mine worker
+rec-675-org,William,M,BUCKLEY,BUCKLEY,1749-07-24,Walter,painter,ARMITAGE,Jane,gentlemans servant,delver
+rec-676-org,James,M,BENHAM,BENHAM,1746-09-07,Duncan,farm lab,ANSCOW,Isabella,bookseller,brassfounder
+rec-677-org,Flora,F,MORRISON,MORRISON,1744-10-06,William,miller,HARRISON,Jessie,painter,ag lab
+rec-678-dup-0,Jo5eph,M,WEST,WEST,1743-05-01,John,brickmaker,MARCH,Mary,farmer,ovenman
+rec-678-org,Joseph,M,WEST,WEST,1743-05-01,John,brickmaker,MARCH,Mary,farmer,ovenman
+rec-679-dup-0,Mattxhew,M,BOLTON,BOLTON,1744-05-20,Daniel,gardener, domestic,GRAHAM,Mary,weaver,file maker
+rec-679-dup-1,Matthevv,M,BOLTON,BOLTON,1744-05-20,Daniel,gardener, domestic,GRAHAM,Mary,weaver,file maker
+rec-679-org,Matthew,M,BOLTON,BOLTON,1744-05-20,Daniel,gardener, domestic,GRAHAM,Mary,weaver,file maker
+rec-68-org,Margaret,F,ENGLISH,ENGLISH,1730-06-11,Robert,tailor,CHALMERS,Margaret,carriage works tinsmith,wheelwright
+rec-680-org,Hugh,M,BLACKLOCK,BLACKLOCK,1745-03-20,Dugald,smith,POTTER,Ellen,framework knitter,barrister
+rec-681-org,Barbera,F,WRIGHT,WRIGHT,1743-07-17,John,iron worker,BARNES,Georgeianie,railway labourer,farmer
+rec-682-org,John,M,COLLINS,COLLINS,1741-08-02,William,curate,SMITH,Margt,railway platelayer,domestic servant
+rec-683-org,Eliza,F,HILL,HILL,1744-07-09,James,superintendant, port of london authority,SPRINGETT,Maggie,labourer,head gardener
+rec-684-org,William,M,HARDY,HARDY,1745-08-04,William,lab,WHEELDON,Isabella,baker,coachman
+rec-685-org,Margaret,F,HARTLEY,HARTLEY,1745-08-13,John,farmer,GORDON,Christina,footman,shoe finisher
+rec-686-org,Robert,M,WOODHOUSE,WOODHOUSE,1744-10-06,James,woollen draper,MORRISON,Margaret,smith,bank accountant
+rec-687-dup-0,zlizabeth,F,HOPGOOD,HOPGOOD,1744-03-28,George,timber dealer,BUCK,Catherine,medical practitioner,boilermaker
+rec-687-dup-1,Elizabetgh,F,HOPGOOD,HOPGOOD,1744-03-28,George,timber dealer,BUCK,Catherine,medical practitioner,boilermaker
+rec-687-org,Elizabeth,F,HOPGOOD,HOPGOOD,1744-03-28,George,timber dealer,BUCK,Catherine,medical practitioner,boilermaker
+rec-688-org,Archibald,M,CHRISTOPHERS,CHRISTOPHERS,1744-01-26,John,sailor,PILGRIM,Betsy,lab,ag lab
+rec-689-org,Helen,F,ROBSON,ROBSON,1746-04-22,John,chimney sweep,HAYS,Alice,laboratory technician,civil servant
+rec-69-org,Jane,F,HALL,HALL,1727-12-16,Daniel,forgeman,LATINDIE,Jane,gentleman,carpenter
+rec-690-org,Will,M,BRIEN,BRIEN,1744-01-23,Andrew,gardener,ENTWISLE,Catherine,coachman,analytical chemist
+rec-691-org,Margaret,F,BOLAND,BOLAND,1746-08-09,James,blacksmith,LEES,Agnes,master mariner,teacher
+rec-692-dup-0,Ceciiia,F,BREWSDER,BREWSDER,1743-09-30,John,plumber,HEATHERMAN,Jane,milliner,shorthand typist
+rec-692-dup-1,ecilia,F,BREWSDER,BREWSDER,1743-09-30,John,plumber,HEATHERMAN,Jane,milliner,shorthand typist
+rec-692-org,Cecilia,F,BREWSDER,BREWSDER,1743-09-30,John,plumber,HEATHERMAN,Jane,milliner,shorthand typist
+rec-693-org,William,M,FREEMAN,FREEMAN,1752-01-25,William,traindriver,FLETCHER,Barbara,shoemaker,mariner (ab)
+rec-694-org,Isabella,F,FREEMAN,FREEMAN,1752-01-25,William,traindriver,FLETCHER,Barbara,shoemaker,farmer
+rec-695-org,Jessie,F,CHAMBERS,CHAMBERS,1744-08-08,Will,carpenter,LIDDLE,Mary,carriage finisher,mason
+rec-696-dup-0,Christinh,F,RUTHERFORD,RUTHERFORD,1744-10-19,Charles,dressmaker,BUSBY,Margt,woolsorter,book keeper
+rec-696-dup-1,Chri5tina,F,RUTHERFORD,RUTHERFORD,1744-10-19,Charles,dressmaker,BUSBY,Margt,woolsorter,book keeper
+rec-696-org,Christina,F,RUTHERFORD,RUTHERFORD,1744-10-19,Charles,dressmaker,BUSBY,Margt,woolsorter,book keeper
+rec-697-org,Margaret,F,WATSON,WATSON,1743-09-03,Alexr,bricklayer,BUNKLE,Jemima,lab,joiner
+rec-698-org,Robert,M,MCVEY,MCVEY,1743-08-08,Thomas,glass cutter,OSBORN,Margaret,teacher,clerk in holy orders, vicar
+rec-699-org,Hugh,M,RAMSDEN,RAMSDEN,1744-06-16,Will,railway guard,WEBESTER,Elen,master butcher,painter
+rec-7-org,James,M,THOMAS,THOMAS,1714-06-09,Matthew,farmer,PHILLIPS,C,domestic servant,farm worker
+rec-70-org,Agnes,F,MCCRAE,MCCRAE,1729-03-02,Henry,servant,WALTERS,Jane,gardener,shoemaker
+rec-700-org,James,M,CHALLACOMBE,CHALLACOMBE,1742-01-11,Charles,labourer,ROUND,Margaret,teacher,ag lab
+rec-701-org,Francis,M,LLOYD,LLOYD,1749-05-26,David,shop assistant,MORRIS,Ann,coal miner,bricklayer
+rec-702-org,Bella,F,BERRY,BERRY,1743-10-24,Alexander,farm labourer,HAHICK,Gorgenia,stone mason,labourer
+rec-703-org,Andrew,M,JEPSON,JEPSON,1742-06-06,Samuel,carter,ADDIS,Janet,miner,gardener
+rec-704-org,Mary,F,ROWAN,ROWAN,1747-09-12,Christopher,reeler,LONG,Maria,clerk,skipper
+rec-705-dup-0,Elizabeh,F,PARR,PARR,1746-02-19,Donald,tailor,ATKINSON,Agnes,farmer,lab
+rec-705-dup-1,Eliza1>eth,F,PARR,PARR,1746-02-19,Donald,tailor,ATKINSON,Agnes,farmer,lab
+rec-705-org,Elizabeth,F,PARR,PARR,1746-02-19,Donald,tailor,ATKINSON,Agnes,farmer,lab
+rec-706-org,Margaret,F,HARRISON,HARRISON,1741-12-20,Delilah,coal miner,GLEAVE,Catharine,farm bailiff,labourer
+rec-707-dup-0,Jessi3,F,QUINE,QUINE,1746-05-15,John,ag lab,PRESTAGE,Jane,monthly nurse,brakesman
+rec-707-dup-1,Jesxie,F,QUINE,QUINE,1746-05-15,John,ag lab,PRESTAGE,Jane,monthly nurse,brakesman
+rec-707-org,Jessie,F,QUINE,QUINE,1746-05-15,John,ag lab,PRESTAGE,Jane,monthly nurse,brakesman
+rec-708-org,John,M,SMITH,SMITH,1745-10-26,James,school master,KINGSTON,Annabella,dressmaker,distillers foreman
+rec-709-org,Norman,M,SWARBRICK,SWARBRICK,1742-01-25,John,music teacher,HURDLE,Isabella,millgirl,town servant
+rec-71-org,Bella,F,SCAUTLEBURG,SCAUTLEBURG,1740-05-26,Alexander,secretary,HAMPDEN,Maggie,ag lab,farmer
+rec-710-org,Agnes,F,MCNAIR,MCNAIR,1741-09-23,Joseph,master bootmaker,RICHMOND,Isabella,cashier,publican
+rec-711-org,Jas,M,DISCOMBE,DISCOMBE,1743-04-23,Colin,water filter manufacturer,HILL,Agnes,truck farmer,woollen spinner
+rec-712-org,Ann,F,MANNING,MANNING,1747-07-12,James,quarryman,TYNE,Mary,farmer,gardener
+rec-713-org,Mary,F,WALKER,WALKER,1744-05-12,Alexr,farm labourer,WRIGHT,Bella,attorneys clerk,soldier
+rec-714-org,Robert,M,CROOKS,CROOKS,1749-12-19,Thomas,farmer,LAXTON,Agnes,gardener,butcher
+rec-715-org,Janet,F,WALTON,WALTON,1742-12-27,Thos,brassfounder,TREDWELL,Elizabeth,farm labourer,saddler and collar maker
+rec-716-dup-0,Michtel,M,ELLIS,ELLIS,1745-05-23,Willm,butcher,WHITEHOUSE,Edith,carter,painter and decorator
+rec-716-dup-1,dMichael,M,ELLIS,ELLIS,1745-05-23,Willm,butcher,WHITEHOUSE,Edith,carter,painter and decorator
+rec-716-dup-2,xichael,M,ELLIS,ELLIS,1745-05-23,Willm,butcher,WHITEHOUSE,Edith,carter,painter and decorator
+rec-716-org,Michael,M,ELLIS,ELLIS,1745-05-23,Willm,butcher,WHITEHOUSE,Edith,carter,painter and decorator
+rec-717-org,Charles,M,JONES,JONES,1748-07-23,Willia,tailor,HOLMES,Annie,gardener,company managing director
+rec-718-org,Robert,M,ASHFORD,ASHFORD,1743-01-22,Allan,refreshment contractor,PIERCE,Maggie,labourer,farmer
+rec-719-org,George,M,YATES,YATES,1746-04-16,William,chairmaker,ENNEFER,Christina,carpenter,school teacher
+rec-72-org,Jean,F,RAND,RAND,1740-09-07,David,shipwright,FREELING,Jane,printer,farmer
+rec-720-org,Jessie,F,KEALY,KEALY,1742-05-25,William,fisherman,GRAY,Florina,baker,ag lab
+rec-721-org,Annie,F,SAUNDERSON,SAUNDERSON,1744-06-09,William,mariner,WETHERELL,Mary,farm labourer,blacksmith
+rec-722-org,James,M,WILLSON,WILLSON,1746-02-12,James,turner,BENNIE,Cathrine,miller,commercial traveller
+rec-723-org,Annie,F,HORSNALL,HORSNALL,1752-01-02,Joseph,shoe shop manageress,BRADDISH,Thos,hotel keeper,domestic servant
+rec-724-org,Hugh,M,GIBB,GIBB,1747-09-07,Francis,tailoress,SINCLAIR,Margaret,bookbinder,tailor
+rec-725-org,Nairn,M,CLARK,CLARK,1744-02-13,Patrick,farmer,SLITH,Elizabeth,clerk, railway works,lab
+rec-726-dup-0,Anri,F,GRANT,GRANT,1743-10-14,John,fisherman,PENNY,Betsy,glassmaker,worsted weaver
+rec-726-org,Ann,F,GRANT,GRANT,1743-10-14,John,fisherman,PENNY,Betsy,glassmaker,worsted weaver
+rec-727-org,Jessie,F,FRASER,FRASER,1742-03-21,Duncan,bootmaker,STANDLEY,Isabella,worsted power loom weaver,motor engine assembler
+rec-728-org,Margaret,F,MUNDELL,MUNDELL,1743-11-13,John,labourer,REAKES,Margaret,farmer,timekeeper
+rec-729-org,Jane,F,CLATON,CLATON,1746-01-17,William,carpenter,BURGESS,Jane,weaver,landed gentleman
+rec-73-org,Mary,F,BENSON,BENSON,1748-03-08,Alexander,coachman/groom,HARRIS,Jessie,foreman (boot making),machinist
+rec-730-org,Ellen,F,HARVEY,HARVEY,1749-04-03,George,soldier,HUGHS,Margaret,gentlemans outfitter,solicitors clerk
+rec-731-org,Eliza,F,MALLABAR,MALLABAR,1752-12-28,John,mariner,HERBERT,Annie,shoemaker,coal miner
+rec-732-dup-0,Arin,F,LIBBEY,LIBBEY,1747-03-03,Wm,woollen fetler,PROBERT,Jane,architect,farmer
+rec-732-org,Ann,F,LIBBEY,LIBBEY,1747-03-03,Wm,woollen fetler,PROBERT,Jane,architect,farmer
+rec-733-org,Christina,F,GREENWOOD,GREENWOOD,1751-04-30,Alexander,sea captain,CARROLL,Emily,tea packer,builder
+rec-734-org,John,M,SULLIVAN,SULLIVAN,1745-09-04,Alexander,stone mason,RAY,Jessie,welder,moulder (ironworks)
+rec-735-org,Mary,F,NICHOLSON,NICHOLSON,1745-10-28,James,ag lab,BRANAGAN,Christina,manager of furnishing house,gun screwer
+rec-736-org,Janet,F,ROBINSON,ROBINSON,1753-12-26,John,clerk,NEWALL,Catherine,servant,miner
+rec-737-dup-0,Jame,F,ROBINSON,ROBINSON,1753-12-26,John,clerk,NEWALL,Catherine,servant,cooper
+rec-737-dup-1,Janw,F,ROBINSON,ROBINSON,1753-12-26,John,clerk,NEWALL,Catherine,servant,cooper
+rec-737-org,Jane,F,ROBINSON,ROBINSON,1753-12-26,John,clerk,NEWALL,Catherine,servant,cooper
+rec-738-org,Marion,F,ENGLISH,ENGLISH,1744-07-15,Robert,tailor,CHALMERS,Margaret,carriage works tinsmith,pianist & private teacher
+rec-739-org,David,M,BROWNE,BROWNE,1744-11-03,Charles,farmer,RILEY,Catherine,bookbinder,clerk (timber trade )
+rec-74-dup-0,Thojas,M,BURT,BURT,1728-10-30,John,currier,HUNTER,Georgina,file cutter,silk mercer
+rec-74-dup-1,hTomas,M,BURT,BURT,1728-10-30,John,currier,HUNTER,Georgina,file cutter,silk mercer
+rec-74-dup-2,Thomax,M,BURT,BURT,1728-10-30,John,currier,HUNTER,Georgina,file cutter,silk mercer
+rec-74-org,Thomas,M,BURT,BURT,1728-10-30,John,currier,HUNTER,Georgina,file cutter,silk mercer
+rec-740-org,James,M,HILL,HILL,1744-04-06,Andrew,framework knitter,DICKSON,Marion,chief boatswain (coastguard),hotel manager
+rec-741-org,Robert,M,WALLEY,WALLEY,1752-03-14,Alexander,university lecturer,SUETT,Eliza,basket and wicker furniture makers,bonnet blocker
+rec-742-org,John,M,BROWN,BROWN,1742-12-01,James,bricklayer,TILLE,Matilda,labourer,labourer
+rec-743-org,John,M,HOOKHAM,HOOKHAM,1742-02-26,James,fisherman,DEARDEN,Georgina,chemist,labourer
+rec-744-org,Jessie,F,RICH,RICH,1746-07-18,William,plumber,NEWBY,Catherine,surgical instrument maker,water colour colourist
+rec-745-org,Elizabeth,F,GRAY,GRAY,1746-01-18,William,colliery checkweighman,SHANKS,Jane,servant,dairyman
+rec-746-org,John,M,CHANNAR,CHANNAR,1745-05-03,Duncan,carpenter,SMITH,Helen,smith,farmer
+rec-747-org,John,M,WINTERBOTTOM,WINTERBOTTOM,1749-07-12,John,chairmaker,GRIFFIN,Jean,coach proprietor,farm labourer
+rec-748-org,Charles,M,LIFTON,LIFTON,1742-07-06,James,gilder,HOLLIWELL,Margaret,carpenter,boot & shoe maker
+rec-749-org,Margaret,F,EDGE,EDGE,1753-05-27,Donald,domestic servant,GODWIN,Agnes,currier,gas maker
+rec-75-org,Mary,F,MCALLISTER,MCALLISTER,1735-11-28,Adam,stonemason,ATKIN,Mary,cook and housekeeper,compositor
+rec-750-org,Mary,F,ANDREWS,ANDREWS,1742-05-14,David,railway inspector,FORMAN,Agnes,pattern maker,dressmaker
+rec-751-org,Margaret,F,TOMS,TOMS,1749-04-30,Andrew,hingemaker,CHALKER,Catherine,farmer,engineer
+rec-752-dup-0,Jessis,F,FERRENY,FERRENY,1745-06-23,John,paper mill labourer,LAMONT,Christina,carman,domestic servant
+rec-752-dup-1,Jebsie,F,FERRENY,FERRENY,1745-06-23,John,paper mill labourer,LAMONT,Christina,carman,domestic servant
+rec-752-dup-2,essie,F,FERRENY,FERRENY,1745-06-23,John,paper mill labourer,LAMONT,Christina,carman,domestic servant
+rec-752-org,Jessie,F,FERRENY,FERRENY,1745-06-23,John,paper mill labourer,LAMONT,Christina,carman,domestic servant
+rec-753-org,George,M,SCHOFIELD,SCHOFIELD,1749-03-09,John,bank clerk/cashier, comptometer operator,PRITCHARD,Ann,mines foreman,railway station clerk
+rec-754-dup-0,Anges,M,FLETCHER,FLETCHER,1742-09-24,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,shipwright foreman
+rec-754-dup-1,Ang7s,M,FLETCHER,FLETCHER,1742-09-24,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,shipwright foreman
+rec-754-org,Angus,M,FLETCHER,FLETCHER,1742-09-24,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,shipwright foreman
+rec-755-dup-0,Jamex,M,WILSON,WILSON,1744-03-17,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,farmer
+rec-755-org,James,M,WILSON,WILSON,1744-03-17,Alexander,silk winder,STEWART,Cecilia,pharmaceutical chemist,farmer
+rec-756-org,James,M,NELSON,NELSON,1746-04-20,Hugh,confection cook,GREENAWAY,Christina,nurseryman,secretary to the rajah
+rec-757-org,Mary,F,MCGREGOR,MCGREGOR,1744-12-30,John,labourer,WATERS,Sarah,clog maker,cigar maker
+rec-758-org,Elizabeth,F,SMITH,SMITH,1748-05-28,Hugh,rural postman,GROAT,Mary,clerk,straw bonnet maker
+rec-759-org,Mary,F,HERNE,HERNE,1744-08-07,John,farmer,JONES,Elizabeth,tanner,teacher
+rec-76-org,James,M,BECK,BECK,1740-03-25,Malcolm,builder,FELL,Kate,farmer,horseshoer
+rec-760-org,Helen,F,BEWSHER,BEWSHER,1746-03-03,Robert,lab,BARRY,Mary,gardener,butcher
+rec-761-org,Elizabeth,F,BROWN,BROWN,1746-01-31,Murdo,trinity house pilot,YORKE,Isabella,musician,puddler
+rec-762-org,Janet,F,DAWSON,DAWSON,1746-07-26,Lewis,bricklayer,FIALON,Marion,mineral paint manufacturer,harness maker
+rec-763-dup-0,Anddew,M,COULSON,COULSON,1754-12-15,David,labourer,KNOWLES,Jane,farmer,barrister
+rec-763-org,Andrew,M,COULSON,COULSON,1754-12-15,David,labourer,KNOWLES,Jane,farmer,barrister
+rec-764-org,John,M,STEWART,STEWART,1750-02-24,Thomas,ag lab,BLACKBURN,Janet,shepherd,servant
+rec-765-org,John,M,MINTO,MINTO,1750-12-13,John,ag lab,HOBERTON,Elizabeth,straw plaiter,news agent
+rec-766-org,John,M,MILWERT,MILWERT,1744-05-18,James,labourer,WATT,Jane,hatter,garage proprietor
+rec-767-org,John,M,WOOLLARD,WOOLLARD,1753-02-26,Henry,shoemaker,BATEMAN,Catherine,blacksmith,stocktaker (brewers)
+rec-768-org,James,M,WILLIAMS,WILLIAMS,1749-10-27,David,cab proprietor,EDGE,Isabella,dressmaker,ag lab
+rec-769-org,Grace,F,QUICK,QUICK,1743-02-18,William,teacher,ORTON,Helen,farmer,weaver
+rec-77-org,James,M,STEDMAN,STEDMAN,1732-01-27,David,coal miner,HART,Helen,cutter,ratefixer at electrical engineers
+rec-770-org,Elizabeth,F,KAYE,KAYE,1748-05-15,Robert,labourer,CALLIMORE,Isabella,boot maker,framework knitter
+rec-771-org,Ann,F,BRADFORD,BRADFORD,1745-09-13,John,sub post master,REEVE,Ann,dock foreman,straw plaiter
+rec-772-org,Jno,M,GRETTON,GRETTON,1747-03-24,Andrew,shepherd,FERDINAND,Helen,blacksmith,blacksmith
+rec-773-org,James,M,COURTENAY,COURTENAY,1745-02-28,William,drayman,HOLLOWAY,Ellen,farmer,electrician
+rec-774-org,Jacob,M,PERKINS,PERKINS,1748-02-20,Peter,cooper,EGAN,Catherine,farmer,farm labourer
+rec-775-org,William,M,BURTON,BURTON,1746-12-06,John,farmer,TROTT,Margaret,schoolmaster,carman (contractors)
+rec-776-org,Donald,M,LADD,LADD,1745-05-18,John,ships carpenter,FRESHWATER,Bethia,farm worker,carpenter
+rec-777-org,Margaret,F,BROWN,BROWN,1759-04-10,Willia,bookbinder,BARBOUR,Jane,painter & decorator,labourer
+rec-778-org,Fanny,F,CALLOWAY,CALLOWAY,1746-01-23,Walter,outfitter,LEWIS,Eliza,farmer,labourer
+rec-779-dup-0,Roert,M,WALKER,WALKER,1750-01-21,John,army sergeant,FILBY,Mary,labourer,coal miner
+rec-779-org,Robert,M,WALKER,WALKER,1750-01-21,John,army sergeant,FILBY,Mary,labourer,coal miner
+rec-78-org,Grace,F,GREEN,GREEN,1729-12-30,James,smith,WILLIAMS,Jane,brickmaker,machinist, uniforms
+rec-780-org,Flora,F,GOUNDRY,GOUNDRY,1744-09-09,Willia,fireman,RUSBY,Margaret,needlemaker,surgeons apprentice
+rec-781-org,Agnes,F,BURNLEY,BURNLEY,1744-12-17,Robert,secretary,OLDERSHAW,Mary,tenant farmer,smith
+rec-782-dup-0,Raobert,M,WATSON,WATSON,1743-04-20,Alexander,farmer,ENGLISH,Nellie,coal merchant,coal miner
+rec-782-dup-1,Robrrt,M,WATSON,WATSON,1743-04-20,Alexander,farmer,ENGLISH,Nellie,coal merchant,coal miner
+rec-782-org,Robert,M,WATSON,WATSON,1743-04-20,Alexander,farmer,ENGLISH,Nellie,coal merchant,coal miner
+rec-783-org,Kate,F,SCARLETT,SCARLETT,1742-03-05,Alexander,farmer,SMITH,Bella,ag lab,ladies maid
+rec-784-org,Mary,F,THOMPSON,THOMPSON,1749-02-05,Hendry,carpenter,SQUIRE,Elizabeth,nailer,dyer
+rec-785-org,John,M,ADAMSON,ADAMSON,1743-06-01,Andrew,weaver,GIBSON,Isabella,fitter and turner,labourer
+rec-786-org,Barbara,F,ROBERTS,ROBERTS,1747-12-15,Samuel,domestic cleaner,FORRESTER,Christiana,jeweller,wool comber
+rec-787-org,Mary,F,TAYLOR,TAYLOR,1743-12-27,William,officer of customs & excise (docks),EVANS,Isabella,mechanical engineering worker (skilled),labourer
+rec-788-org,Maria,F,SUMMERS,SUMMERS,1749-09-01,Dugald,labourer,DUFF,Mary,lab,shoe pressman
+rec-789-dup-0,Jame,M,SALT,SALT,1750-08-28,David,fireman,TURNER,Ann,coal miner,works chemist
+rec-789-dup-1,Jamges,M,SALT,SALT,1750-08-28,David,fireman,TURNER,Ann,coal miner,works chemist
+rec-789-dup-2,Jamea,M,SALT,SALT,1750-08-28,David,fireman,TURNER,Ann,coal miner,works chemist
+rec-789-org,James,M,SALT,SALT,1750-08-28,David,fireman,TURNER,Ann,coal miner,works chemist
+rec-79-org,Margaret,F,ADAMSON,ADAMSON,1729-03-20,Andrew,weaver,GIBSON,Isabella,fitter and turner,labourer
+rec-790-dup-0,Janrt,F,HUGHES,HUGHES,1747-09-02,James,cottager,SAMBROOK,Agnes,boot and shoe maker,gardener
+rec-790-org,Janet,F,HUGHES,HUGHES,1747-09-02,James,cottager,SAMBROOK,Agnes,boot and shoe maker,gardener
+rec-791-org,Margaret,F,JOHNSON,JOHNSON,1748-04-14,John,wool broker,FURRELL,Margaret,electrical engineer in the royal signals,cotton weaver
+rec-792-org,Sarah,F,VAIL,VAIL,1746-05-27,Andrew,dockyard worker,JONES,Mary,shoe binder,shoemaker
+rec-793-org,Elizabeth,F,ONEIL,ONEIL,1747-12-08,James,domestic service,FARRENT,Jane,carpenter,lab
+rec-794-org,Annie,F,COMPSON,COMPSON,1746-07-15,William,company secretary,MIDDLETON,Janet,engineer,builder
+rec-795-dup-0,Johri,M,CURTIS,CURTIS,1749-02-20,Peter,carter,FORBES,Mary,mechanic,private in army - stretcher bearer
+rec-795-dup-1,Johk,M,CURTIS,CURTIS,1749-02-20,Peter,carter,FORBES,Mary,mechanic,private in army - stretcher bearer
+rec-795-org,John,M,CURTIS,CURTIS,1749-02-20,Peter,carter,FORBES,Mary,mechanic,private in army - stretcher bearer
+rec-796-org,Robert,M,CROSSGROVE,CROSSGROVE,1745-06-03,Robert,general store keeper,WATSON,Margaret,farm lab,teamster
+rec-797-org,Margaret,F,LLOYD,LLOYD,1745-06-28,David,designer,HARLE,Susina,fisherman,farm labourer
+rec-798-dup-0,Agnrs,F,LONDON,LONDON,1748-03-12,John,farmer,PASSMORE,Ann,map and print colourer,printer
+rec-798-org,Agnes,F,LONDON,LONDON,1748-03-12,John,farmer,PASSMORE,Ann,map and print colourer,printer
+rec-799-dup-0,Tmhomas,M,READ,READ,1743-07-28,George,washerwoman,AYERS,Janet,musician,quarryman
+rec-799-org,Thomas,M,READ,READ,1743-07-28,George,washerwoman,AYERS,Janet,musician,quarryman
+rec-8-dup-0,pngus,M,ADAMSON,ADAMSON,1723-10-29,George,lady's maid,HARRISS,Jane,plasterer,farmer
+rec-8-org,Angus,M,ADAMSON,ADAMSON,1723-10-29,George,lady's maid,HARRISS,Jane,plasterer,farmer
+rec-80-org,John,M,HUNTLEY,HUNTLEY,1735-09-12,Samuel,shepherd,BAKER,Jane,coal miner,army lieutenant
+rec-800-org,Ann,F,WATSON,WATSON,1744-02-19,Alfred,farmer,LAYCOCK,Elizabeth,gardener,sadler
+rec-801-dup-0,Elizabteh,F,DARMER,DARMER,1744-01-30,John,coal miner,MOORE,Catherine,bricklayer,labourer
+rec-801-dup-1,Elbzabeth,F,DARMER,DARMER,1744-01-30,John,coal miner,MOORE,Catherine,bricklayer,labourer
+rec-801-org,Elizabeth,F,DARMER,DARMER,1744-01-30,John,coal miner,MOORE,Catherine,bricklayer,labourer
+rec-802-org,Jessie,F,MCCORMACK,MCCORMACK,1750-01-08,Andrew,farmer,GOODALL,Jane,labourer,boilermaker
+rec-803-org,John,M,RIMINGTON,RIMINGTON,1748-05-10,Francis,bank manager,JENKINS,Rebecca,solicitor,farmer
+rec-804-org,James,M,CROCKET,CROCKET,1748-08-22,John,ag lab,KINGSBURY,Mary,ag lab,electrical engineer
+rec-805-org,Euphemia,F,TURNBULL,TURNBULL,1751-03-21,Ritchie,clerk & typist,WEBSTER,Christina,farmer,shale miner
+rec-806-org,Agness,F,GRANT,GRANT,1750-01-25,James,mariner,MORSE,Margaret,labourer,book folder
+rec-807-org,George,M,STURGESS,STURGESS,1750-08-30,Patrick,shoe finisher,FORRESTER,Annie,steel erector,mason
+rec-808-org,Ann,F,GEORGE,GEORGE,1748-01-01,Charles,tenant farmer,CLOUGH,Eliza,shirt factory worker,weaver
+rec-809-org,David,M,BARR,BARR,1749-02-14,Francis,ag lab,JONES,Jane,factory worker,groom
+rec-81-org,David,M,ROGERS,ROGERS,1730-08-08,Kenneth,iron moulder,SMITH,Margaret,licensed victualler,watchmaker
+rec-810-org,James,M,WALKER,WALKER,1747-06-25,William,constructional engineer,ZEBEDEE,Martha,farmer,upholsterer and warehouseman
+rec-811-org,Elizabeth,F,WALKER,WALKER,1747-06-25,William,constructional engineer,ZEBEDEE,Martha,farmer,brick maker
+rec-812-org,Ann,F,CLEMO,CLEMO,1747-02-05,Charles,ag lab,BROWN,Sarah,grocer,labourer
+rec-813-org,Jeanie,F,MURRAY,MURRAY,1758-10-30,Angus,stockingmaker,TUMILTY,Elsie,warehouseman,platelayer
+rec-814-dup-0,Thomss,M,RICHARDSON,RICHARDSON,1743-12-09,John,private soldier,NOBLE,Catherine,bootmaker,clerk
+rec-814-org,Thomas,M,RICHARDSON,RICHARDSON,1743-12-09,John,private soldier,NOBLE,Catherine,bootmaker,clerk
+rec-815-org,George,M,LINNELL,LINNELL,1750-06-19,Angus,navel officer,ROBERTS,Margaret,fish curer,labourer
+rec-816-dup-0,Ages,F,TUMIGAN,TUMIGAN,1748-02-06,James,land agent,CHESHIRE,Alice,lab,teacher in elementary school
+rec-816-org,Agnes,F,TUMIGAN,TUMIGAN,1748-02-06,James,land agent,CHESHIRE,Alice,lab,teacher in elementary school
+rec-817-dup-0,Jamws,M,DRYAL,DRYAL,1748-04-19,Peter,draper,MCKENZIE,Jessie,locksmith,labourer
+rec-817-org,James,M,DRYAL,DRYAL,1748-04-19,Peter,draper,MCKENZIE,Jessie,locksmith,labourer
+rec-818-dup-0,Geogre,M,GILMOUR,GILMOUR,1746-07-08,William,scrap labourer,ALLEN,Isabella,railway clerk,storekeeper
+rec-818-org,George,M,GILMOUR,GILMOUR,1746-07-08,William,scrap labourer,ALLEN,Isabella,railway clerk,storekeeper
+rec-819-org,Peter,M,HONES,HONES,1744-09-27,Alexander,butcher,CONNELL,Therese,shop assistant,teacher
+rec-82-org,Margaret,F,DYER,DYER,1727-09-13,David,painter,ANDERSON,Alice,vinegar merchant,pharmacist
+rec-820-org,Janet,F,BROAD,BROAD,1748-12-29,Charles,miner,WAKS,Mary,gardener (private),salver polisher
+rec-821-org,Nellie,F,COOKSON,COOKSON,1747-01-04,Alexander,mariner,ROBINSON,Jemima,fancy manufacturer,cabinet maker
+rec-822-org,Arthur,M,COOKSON,COOKSON,1747-01-04,Alexander,mariner,ROBINSON,Jemima,fancy manufacturer,bonnet maker
+rec-823-dup-0,Jojn,M,MORRIS,MORRIS,1745-01-30,John,farmer,MILLER,Margaret,school attendance officer,joiner
+rec-823-dup-1,Jonh,M,MORRIS,MORRIS,1745-01-30,John,farmer,MILLER,Margaret,school attendance officer,joiner
+rec-823-org,John,M,MORRIS,MORRIS,1745-01-30,John,farmer,MILLER,Margaret,school attendance officer,joiner
+rec-824-org,Isabella,F,SOUTHWORTH,SOUTHWORTH,1745-04-18,John,mill manager,PAYNE,Jane,farm servant,farmer
+rec-825-org,James,M,BURROWS,BURROWS,1748-05-10,William,clerk in holy orders,DWERRYHOUSE,Helen,yeoman,clay tobacco pipe maker
+rec-826-dup-0,Roderixk,M,MAWSON,MAWSON,1745-08-17,James,cotton operative,CAMERON,Janet,lab,groom
+rec-826-org,Roderick,M,MAWSON,MAWSON,1745-08-17,James,cotton operative,CAMERON,Janet,lab,groom
+rec-827-org,Ellen,F,BIRD,BIRD,1745-12-04,William,ag lab,BATH,Julia,poultry man,blacksmith
+rec-828-org,John,M,STOUT,STOUT,1748-08-13,Robert,labourer,JONES,Ellen,gardener,fishmonger
+rec-829-org,Annie,F,JARVIS,JARVIS,1746-03-21,George,spool winder cotton mill,KNOWLES,Jane,sailor,weaver
+rec-83-org,Jeannie,F,FAIR,FAIR,1726-03-30,James,thatcher,NORSK,Mary,crane driver,woollen spinner
+rec-830-dup-0,High,M,CHILDS,CHILDS,1757-11-30,David,repairing fishing nets,ROBSON,Elizabeth,painter,clerk
+rec-830-org,Hugh,M,CHILDS,CHILDS,1757-11-30,David,repairing fishing nets,ROBSON,Elizabeth,painter,clerk
+rec-831-org,Thomas,M,MCNEILL,MCNEILL,1749-10-08,Robert,farmer,DOWLING,Catherine,carpenter,farmer
+rec-832-org,Christina,F,GREIG,GREIG,1750-06-13,Thomas,whitefisher,SMITH,Sohia,lab,schoolmistress
+rec-833-org,Peter,M,SNOOK,SNOOK,1748-06-08,Alexr,mercantile clerk,THOMAS,Margaret,bootcloser,engineers fitter
+rec-834-org,Alex,M,PARRY,PARRY,1755-07-08,Andrew,lab,SNELLING,Annie,sheep farmer,lab
+rec-835-org,Jane,F,POWNAL,POWNAL,1748-09-21,John,ag lab,PEECH,Margt,textile manufacturer,ploughman
+rec-836-org,Catherine,F,JENNINGS,JENNINGS,1744-10-04,James,engineer,BOND,Catherine,ships officer,farmer's wife
+rec-837-org,Johanna,F,SMITH,SMITH,1752-05-18,John,woolcomber,JOHNSON,Jean,shoe laster,railway clerk
+rec-838-org,Margaret,F,BOWLES,BOWLES,1745-11-20,William,milliner,CRAMPTON,Alice,labourer,lead worker
+rec-839-org,Margaret,F,HARTLEY,HARTLEY,1746-03-31,Ro,photographer,MUSTY,Marjory,stonemason,blacksmith
+rec-84-org,William,M,RACKHAM,RACKHAM,1734-01-13,Alexander,shoemaker,WALLACE,Janet,plasterer,farmer
+rec-840-org,J,F,CHORLEY,CHORLEY,1746-01-11,John,housekeeper,SMITH,Mary,labourer,horse keeper
+rec-841-org,James,M,PALMER,PALMER,1755-04-16,Charles,gardener,OVERALL,Betsy,clock case maker,farmer
+rec-842-org,Janet,F,LENNON,LENNON,1746-06-06,James,blacksmith,GREENHALGH,Isabella,fisherman,traveller horseman
+rec-843-org,Robert,M,STIVEY,STIVEY,1747-04-13,Edmund,butcher,LAWSON,Jane,gas works labourer,farmer
+rec-844-org,Bernard,M,BROWN,BROWN,1747-05-14,James,clerk  (biscuit works ),GOODMAN,Mary,school master,ag lab
+rec-845-dup-0,Alexbnder,M,OATES,OATES,1747-11-30,William,dressmaker,LEYARD ,Christina,silk weaver,sailmaker
+rec-845-dup-1,Alexandr,M,OATES,OATES,1747-11-30,William,dressmaker,LEYARD ,Christina,silk weaver,sailmaker
+rec-845-org,Alexander,M,OATES,OATES,1747-11-30,William,dressmaker,LEYARD ,Christina,silk weaver,sailmaker
+rec-846-org,Archibald,M,YEATES,YEATES,1746-04-02,James,labourer,FOOT,Catherine,straw bonnet maker,valet
+rec-847-org,Elizabeth,F,GAGE,GAGE,1744-11-13,Arthur,builder,MOXLEY,Margt,labourer,pilot
+rec-848-dup-0,Catehrine,F,TARRANT,TARRANT,1744-11-12,Thomas,cabinet maker,LEE,Isabella,labourer,housepainter
+rec-848-dup-1,Cathlerine,F,TARRANT,TARRANT,1744-11-12,Thomas,cabinet maker,LEE,Isabella,labourer,housepainter
+rec-848-org,Catherine,F,TARRANT,TARRANT,1744-11-12,Thomas,cabinet maker,LEE,Isabella,labourer,housepainter
+rec-849-org,John,M,THOMAS,THOMAS,1744-03-24,John,nailer,CLARK,Jane,labourer,auctioneer
+rec-85-org,Jessie,F,GRETTON,GRETTON,1730-03-06,Andrew,shepherd,FERDINAND,Helen,blacksmith,labourer
+rec-850-org,Henry,M,ORRDEL,ORRDEL,1744-05-19,William,housekeeper,BROOK,Emily,blacksmith,baker
+rec-851-dup-0,Cathetine,F,COLLINS,COLLINS,1746-10-22,William,curate,SMITH,Margt,railway platelayer,stoker on railway engine
+rec-851-dup-1,Caterine,F,COLLINS,COLLINS,1746-10-22,William,curate,SMITH,Margt,railway platelayer,stoker on railway engine
+rec-851-org,Catherine,F,COLLINS,COLLINS,1746-10-22,William,curate,SMITH,Margt,railway platelayer,stoker on railway engine
+rec-852-org,Willia,M,BAMSEY,BAMSEY,1744-09-03,John,labourer,LARKIN,Catherine,carpenter,labourer
+rec-853-org,Charles,M,HILL,HILL,1752-05-08,James,g.p.o. telephonist,STOTT,Helen,chemist,gent
+rec-854-org,Rachell,F,WILLCOX,WILLCOX,1749-01-22,William,farmer,MASTERS,Semena,papermill worker,labourer
+rec-855-org,Euphemia,F,THOMPSON,THOMPSON,1744-12-30,Jas,butcher,HISCOCKS,Elizabeth,shear striker,engine driver
+rec-856-org,David,M,HILL,HILL,1745-10-05,Thomas,ag lab,DEWSON,Janet,domestic servant,blacksmith
+rec-857-org,Jas,M,MCLEAN,MCLEAN,1745-03-11,John,electric metering factory,MILLER,Margret,flax dresser,tenant farmer
+rec-858-org,Lewis,M,JONES,JONES,1744-06-03,John,labourer,MACHRAY,Jane,printer,soldier
+rec-859-org,Elizabeth,F,BOWMAN,BOWMAN,1745-10-22,Hugh,draper,TREDWIN,Jane,clerk,shepherd
+rec-86-org,Robert,M,SPENCE,SPENCE,1731-02-22,David,provision dealer,MANNING,Margaret,bootmaker,gentlemans club porter
+rec-860-org,Jane,F,MCNAIR,MCNAIR,1745-07-17,Joseph,master bootmaker,RICHMOND,Isabella,cashier,servant
+rec-861-org,Louis,M,HOLDEN,HOLDEN,1748-04-05,Edward,sawyer,JONES,Maggie,spirit dealer,joiner
+rec-862-org,Ellen,F,SHEARER,SHEARER,1746-06-22,William,dressmaker,TRESIDDER,Margaret,machine operator,shopkeeper
+rec-863-org,John,M,LUMSDEN,LUMSDEN,1747-06-23,Patrick,stonemason,BOUCHER,Elizabeth,farm servant / domestic,experimental design department, sewing machine com
+rec-864-org,Margaret,F,LUMSDEN,LUMSDEN,1747-06-23,Patrick,stonemason,BOUCHER,Elizabeth,farm servant / domestic,schoolmaster
+rec-865-dup-0,Mar9aret,F,LUMSDEN,LUMSDEN,1747-06-23,Patrick,stonemason,BOUCHER,Elizabeth,farm servant / domestic,farmer
+rec-865-dup-1,Margafet,F,LUMSDEN,LUMSDEN,1747-06-23,Patrick,stonemason,BOUCHER,Elizabeth,farm servant / domestic,farmer
+rec-865-org,Margaret,F,LUMSDEN,LUMSDEN,1747-06-23,Patrick,stonemason,BOUCHER,Elizabeth,farm servant / domestic,farmer
+rec-866-org,Willimina,F,NATT,NATT,1752-05-28,Edmund,clay tobacco pipe maker,MEAD,Eliza,plasterer,book keeper
+rec-867-org,Mary,F,HODGKINSON,HODGKINSON,1747-04-22,James,lab,COOK,Mary,tailor,blacksmith
+rec-868-org,James,M,SIMPSON,SIMPSON,1745-03-25,James,musician,GRIFFIN,Marion,boatman,carpenter
+rec-869-org,James,M,TUULLET,TUULLET,1753-01-16,Alfred,motor lorry driver,GARSON,Grace,servant,lab
+rec-87-dup-0,Dzvid,M,SKEAD,SKEAD,1731-02-11,Alexander,tailor,PEPPERELL,Helen,broker,ladies maid
+rec-87-dup-1,Davud,M,SKEAD,SKEAD,1731-02-11,Alexander,tailor,PEPPERELL,Helen,broker,ladies maid
+rec-87-org,David,M,SKEAD,SKEAD,1731-02-11,Alexander,tailor,PEPPERELL,Helen,broker,ladies maid
+rec-870-org,David,M,HEARKNES,HEARKNES,1748-07-07,David,wholesale grocer,BONDAY,Margaret,sawyer,master tailor
+rec-871-org,Isabella,F,HUTCHINS,HUTCHINS,1753-09-23,Charles,mariner,WALKER,Mary,joiner,tailor
+rec-872-dup-0,Marv,F,STONE,STONE,1744-11-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,shoemaker
+rec-872-dup-1,iary,F,STONE,STONE,1744-11-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,shoemaker
+rec-872-dup-2,Maty,F,STONE,STONE,1744-11-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,shoemaker
+rec-872-org,Mary,F,STONE,STONE,1744-11-16,Thomas,cloth finisher,MORGANS,Elizabeth,delver,shoemaker
+rec-873-dup-0,Agne5,F,MORLEY,MORLEY,1746-08-31,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,teacher
+rec-873-dup-1,Agne,F,MORLEY,MORLEY,1746-08-31,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,teacher
+rec-873-dup-2,A9nes,F,MORLEY,MORLEY,1746-08-31,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,teacher
+rec-873-org,Agnes,F,MORLEY,MORLEY,1746-08-31,James,cook and housekeeper,MCMURTRIE,Barbara,tax collector,teacher
+rec-874-org,James,M,KIDNEY,KIDNEY,1752-09-01,Peter,builder,ADAMS,Marion,labourer,labourer
+rec-875-org,Adam,M,ROWE,ROWE,1750-08-05,Charles,gardener,ANNISON,Jane,farmer,collier
+rec-876-org,Janet,F,RICHARD,RICHARD,1752-01-29,John,draper,KELLY,Jane,actor,farmer
+rec-877-org,John,M,MOOR,MOOR,1750-01-09,Donald,musician,BIRD,Charlot,shoe shop assistant,dressmaker
+rec-878-org,Thomas,M,DOWN,DOWN,1752-10-12,George,printer,SHOOTER,Mary,tanner,engineer
+rec-879-org,Alexander,M,HONEYWELL,HONEYWELL,1746-01-21,William,miller (postmill),STREMBELS,Jessie,engineer,doctor at hospital
+rec-88-org,Robt,M,HARTLEY,HARTLEY,1735-04-28,William,labourer,YARLEY,Jane,labourer,clerk in holy orders
+rec-880-org,James,M,BOLLANY,BOLLANY,1752-02-21,Arthur,lamplighter,CARESWELL,Sarah,potter,farmer
+rec-881-org,Kenneth,M,SERGEANT,SERGEANT,1745-12-04,Charles,ag lab,LLOYD,Jeanie,carpenter,mariner
+rec-882-org,Jean,F,NICHOLAS,NICHOLAS,1745-12-15,John,cabinet maker,LEVINAY,Elizabeth,teacher,carpenter
+rec-883-org,John,M,HUDGELL,HUDGELL,1753-04-27,Robert,wesleyan methodist minister,GOOD,Sarah,bricklayer,gardener
+rec-884-dup-0,Baioey,M,HUDGELL,HUDGELL,1753-04-27,Robert,wesleyan methodist minister,GOOD,Sarah,bricklayer,chemist
+rec-884-org,Bailey,M,HUDGELL,HUDGELL,1753-04-27,Robert,wesleyan methodist minister,GOOD,Sarah,bricklayer,chemist
+rec-885-dup-0,Chirdty,F,WRIGHT,WRIGHT,1753-12-31,Andrew,blacksmith,MARLES,Janet,engineer,coachman
+rec-885-org,Chirsty,F,WRIGHT,WRIGHT,1753-12-31,Andrew,blacksmith,MARLES,Janet,engineer,coachman
+rec-886-dup-0,Jarie,F,LANGLEY,LANGLEY,1745-08-02,James,stonecutter,CRACKRICH,Jemima,customs officer,labourer
+rec-886-org,Jane,F,LANGLEY,LANGLEY,1745-08-02,James,stonecutter,CRACKRICH,Jemima,customs officer,labourer
+rec-887-org,May,F,CHURCH,CHURCH,1751-08-12,John,teacher,SCARR,Mary,oil miller,silverplater
+rec-888-org,Margaret,F,HARRISON,HARRISON,1744-09-13,Delilah,coal miner,GLEAVE,Catharine,farm bailiff,carrier
+rec-889-org,Margaret,F,PRUDEN,PRUDEN,1749-02-22,John,shipping clerk,ADAMS,Maggie,engine driver,bookbinder
+rec-89-org,Mary,F,KEARSLEY,KEARSLEY,1732-02-16,Archibald,grocer,DOW,Ann,labourer,postman
+rec-890-org,Mary,F,CLOUGH,CLOUGH,1746-01-25,Angus,agent,ADY,Elizabeth,iron moulder,engine driver
+rec-891-org,Jane,F,ROGERS,ROGERS,1744-12-16,Henry,porter,ROBERTSHAW,Isabella,domestic servant,farmer
+rec-892-org,Isabella,F,SCOTT,SCOTT,1750-02-01,Alex,lab,RAYNER,Isabella,lab,cordwainer
+rec-893-dup-0,Duga|d,M,BRIDDON,BRIDDON,1747-09-29,William,tailor,BARKER,Elizabeth,civil engineer,labourer
+rec-893-dup-1,Dgald,M,BRIDDON,BRIDDON,1747-09-29,William,tailor,BARKER,Elizabeth,civil engineer,labourer
+rec-893-org,Dugald,M,BRIDDON,BRIDDON,1747-09-29,William,tailor,BARKER,Elizabeth,civil engineer,labourer
+rec-894-org,Wm,M,BRIDDON,BRIDDON,1747-09-29,William,tailor,BARKER,Elizabeth,civil engineer,blacksmith
+rec-895-org,Charles,M,WATSON,WATSON,1746-03-13,Alexander,farmer,HAYES,Janet,grocer's assist.,mariner
+rec-896-org,Margaret,F,CARTWRIGHT,CARTWRIGHT,1744-06-03,William,carpet weaver,RAE,Elizabeth,cheesemonger,blacksmith
+rec-897-org,George,M,JONES,JONES,1744-09-27,John,fisherman,PENTLAND BROWN,Annie,baker,master mariner
+rec-898-org,Alexander,M,CHALLACOMBE,CHALLACOMBE,1745-03-01,Charles,labourer,ROUND,Margaret,teacher,banker mason
+rec-899-org,Agnes,F,EVANS,EVANS,1748-10-02,Peter,road labourer,LEATT,Angelina,engine fitter,farmer
+rec-9-dup-0,Jphn,M,HILL,HILL,1719-03-16,John,chainmaker,HOWEL,Mary,boilermaker,servant
+rec-9-org,John,M,HILL,HILL,1719-03-16,John,chainmaker,HOWEL,Mary,boilermaker,servant
+rec-90-org,Matthew,M,MCDONALD,MCDONALD,1729-09-21,Andrew,labourer,HAYES,Janet,grocer's assist.,carpenter
+rec-900-org,Anne,F,HICKS,HICKS,1750-10-06,George,gardener,COCK,Lousia,servant,warehouseman
+rec-901-org,Alexander,M,LYNN,LYNN,1746-09-13,Hugh,cabinet maker,LISLE,Isabella,pork butcher,shipyard blacksmith
+rec-902-org,Margaret,F,SWARBRICK,SWARBRICK,1747-07-01,John,music teacher,HURDLE,Isabella,millgirl,railway guard
+rec-903-org,Susan,F,EMMERSON,EMMERSON,1753-04-23,George,bricklayer,WATSON,Mary,gamekeeper,cotton manufacturer
+rec-904-org,Margaret,F,STONES,STONES,1746-07-14,James,draper,COCKFIELD,Mary,mechanic,brushmaker
+rec-905-dup-0,Robett,M,CALVERT,CALVERT,1745-12-25,Alexr,shoemaker,HENDELL,Janet,waterman,labourer
+rec-905-org,Robert,M,CALVERT,CALVERT,1745-12-25,Alexr,shoemaker,HENDELL,Janet,waterman,labourer
+rec-906-dup-0,Huhh,M,CALVERT,CALVERT,1745-12-25,Alexr,shoemaker,HENDELL,Janet,waterman,engine fitter
+rec-906-org,Hugh,M,CALVERT,CALVERT,1745-12-25,Alexr,shoemaker,HENDELL,Janet,waterman,engine fitter
+rec-907-org,John,M,ROBERTS,ROBERTS,1746-09-17,James,porter master,SKEELS,Mary,bookseller,tin plate worker
+rec-908-org,John,M,EDWARD,EDWARD,1745-03-14,Samuel,farmer,DAWSON,Helen,builder, master (dockyards),painter
+rec-909-org,James,M,KELLY,KELLY,1747-10-01,Martin,labourer,DAWES,Jessie,merchant clerk (oil and colour manufacturer),ironfounder
+rec-91-org,Barbara,F,WRIGHT,WRIGHT,1732-09-11,Andrew,blacksmith,MARLES,Janet,engineer,labourer in hm dockyard
+rec-910-org,Alexander,M,KELLY,KELLY,1747-10-01,Martin,labourer,DAWES,Jessie,merchant clerk (oil and colour manufacturer),farm labourer
+rec-911-org,Daniel,M,BROSTEN,BROSTEN,1750-11-03,John,farmer,MCCALLUM,Catherine,labourer,pianist
+rec-912-org,Charlotte,F,HOOKHAM,HOOKHAM,1745-02-04,James,fisherman,DEARDEN,Georgina,chemist,labourer
+rec-913-org,Catherine,F,SCARLETT,SCARLETT,1744-11-28,Alexander,farmer,SMITH,Bella,ag lab,merchant
+rec-914-dup-0,Jessue,F,FOSTER,FOSTER,1746-07-26,Magnus,company manager,LEE,Mary,cabinet maker,weaver
+rec-914-dup-1,Jes5ie,F,FOSTER,FOSTER,1746-07-26,Magnus,company manager,LEE,Mary,cabinet maker,weaver
+rec-914-org,Jessie,F,FOSTER,FOSTER,1746-07-26,Magnus,company manager,LEE,Mary,cabinet maker,weaver
+rec-915-org,Jessie,F,CADDY,CADDY,1751-12-13,Alexander,grocer,ANKERS,Janet,sack manufacturer,coal miner
+rec-916-org,John,M,BRADLY,BRADLY,1751-11-03,John,tailor,FERGUSON,Elizabeth,secretary,gardener
+rec-917-org,Peter,M,LAW,LAW,1748-02-24,Andrew,machinist in saw mill,WHEELER,Mary,farmer,coal miner
+rec-918-org,Thomas,M,FRASER,FRASER,1746-06-15,Duncan,bootmaker,STANDLEY,Isabella,worsted power loom weaver,coal miner
+rec-919-org,James,M,LORD,LORD,1749-03-10,Arch,plumber,FEILDWICK,Annie,hotel keeper,bootmaker
+rec-92-org,George,M,CALVERT,CALVERT,1726-05-31,Alexr,shoemaker,HENDELL,Janet,waterman,cotton spinner
+rec-920-org,David,M,BIRKETT,BIRKETT,1746-10-22,Donald,blacksmith,ROLFE,Mary,miller,marine engineer
+rec-921-dup-0,Cathenne,F,MORTIMER,MORTIMER,1746-11-07,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,labourer
+rec-921-dup-1,aCtherine,F,MORTIMER,MORTIMER,1746-11-07,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,labourer
+rec-921-org,Catherine,F,MORTIMER,MORTIMER,1746-11-07,John,telephone engineer - g.p.o.,LYNALL,Elizth,dressmaker,labourer
+rec-922-dup-0,vnn,F,PHILIPS,PHILIPS,1746-03-01,Andrew,farmer,HAWGOOD,Mary,smith,servant
+rec-922-org,Ann,F,PHILIPS,PHILIPS,1746-03-01,Andrew,farmer,HAWGOOD,Mary,smith,servant
+rec-923-org,Patrick,M,LOWNDS,LOWNDS,1753-02-07,John,sawyer,COTTOM,Elizabeth,labourer,farmer
+rec-924-dup-0,Robrrt,M,BELL,BELL,1745-09-19,William,stonemason,BELCHER,Euphemia,merchant seaman,farmer
+rec-924-org,Robert,M,BELL,BELL,1745-09-19,William,stonemason,BELCHER,Euphemia,merchant seaman,farmer
+rec-925-org,John,M,MCDERMID,MCDERMID,1749-06-23,James,dentists assistant,SMITH,Janet,husbandman,labourer
+rec-926-org,Annie,F,ANDREWS,ANDREWS,1745-12-19,David,railway inspector,FORMAN,Agnes,pattern maker,farmer
+rec-927-org,Margaret,F,HOLLIDAY,HOLLIDAY,1751-09-19,Willia,weaver,JENKINS,Elizabeth,gasfitters storekeeper,labourer
+rec-928-org,Georgina,F,KEALY,KEALY,1748-04-18,William,fisherman,GRAY,Florina,baker,smith
+rec-929-org,Cath,F,KING,KING,1747-10-03,William,leather dresser,BARKER,Isabella,farmer,machine minder
+rec-93-org,John,M,ADAMSON,ADAMSON,1736-03-14,George,lady's maid,HARRISS,Jane,plasterer,master butcher
+rec-930-org,John,M,HUSGROVE,HUSGROVE,1748-09-21,James,general labourer,LEE,Agness,general surgeon,lab
+rec-931-org,Grace,F,PUGH,PUGH,1755-12-21,William,gardener,FARLEY,Christina,chartered accountant,domestic servant
+rec-932-org,Christina,F,MCINTYRE,MCINTYRE,1750-12-23,James,baker,ROBINSON,Jessie,house painter,moulder (ironworks)
+rec-933-dup-0,Roberkt,M,CROOKER,CROOKER,1746-01-26,Thomas,general servant,NEWMAN,Christina,gardener,army
+rec-933-dup-1,Robertb,M,CROOKER,CROOKER,1746-01-26,Thomas,general servant,NEWMAN,Christina,gardener,army
+rec-933-org,Robert,M,CROOKER,CROOKER,1746-01-26,Thomas,general servant,NEWMAN,Christina,gardener,army
+rec-934-org,Robert,M,HARTLEY,HARTLEY,1745-10-16,Alexander,wine porter,HALE,Jane,gold prospector,cotton weaver
+rec-935-dup-0,Jobn,M,JEPSON,JEPSON,1751-09-02,Samuel,carter,ADDIS,Janet,miner,turnkey
+rec-935-dup-1,Jonh,M,JEPSON,JEPSON,1751-09-02,Samuel,carter,ADDIS,Janet,miner,turnkey
+rec-935-org,John,M,JEPSON,JEPSON,1751-09-02,Samuel,carter,ADDIS,Janet,miner,turnkey
+rec-936-dup-0,Anb,F,MACDONALD,MACDONALD,1746-02-19,Frederick,undertaker,CHILD,Bessie,post office worker,miner
+rec-936-dup-1,Anm,F,MACDONALD,MACDONALD,1746-02-19,Frederick,undertaker,CHILD,Bessie,post office worker,miner
+rec-936-org,Ann,F,MACDONALD,MACDONALD,1746-02-19,Frederick,undertaker,CHILD,Bessie,post office worker,miner
+rec-937-org,Elizabeth,F,GOODFELLOW,GOODFELLOW,1746-05-12,Simon,hurdlemaker,PAYNE,Margaret,farmer,pew opener and church caretaker
+rec-938-org,Sarah,F,ENGLISH,ENGLISH,1753-03-31,Joseph,french polisher,GEORGE,Mary,thatcher,mechanic
+rec-939-org,Jessie,F,ORMISTON,ORMISTON,1751-05-26,Jas,seaman,EATCOAL,Jane,lorry driver,block and mast maker
+rec-94-org,Archibald,M,BOLAND,BOLAND,1728-11-05,James,blacksmith,LEES,Agnes,master mariner,leather goods maker
+rec-940-org,Lawrence,M,ROBINSON,ROBINSON,1746-11-07,Andrew,coalminer,GATLIFF,Susan,farmer,bootcloser
+rec-941-org,Mary,F,FLINT,FLINT,1746-04-28,Robert,farmer,COLLIER,Annie,sadler and horse collar maker,ag lab
+rec-942-org,Robert,M,TAYLOR,TAYLOR,1748-11-23,George,servant,JONES,Margaret,farmer,farmer
+rec-943-org,Jeannie,F,KILLICK,KILLICK,1747-06-12,Alexander,insurance broker,LEACH,Agnes,iron & steel merchant,master carpenter
+rec-944-org,Alice,F,LIFTON,LIFTON,1746-07-22,James,gilder,HOLLIWELL,Margaret,carpenter,publican
+rec-945-org,George,M,STEWART,STEWART,1746-11-22,David,coal miner,DAVIES,Jessie,farmer,annealer at nail works
+rec-946-org,Hugh,M,NEWMAN,NEWMAN,1746-11-03,James,chainmaker,NORSK,Mary,crane driver,coal merchant
+rec-947-org,Thomas,M,PHILLIPPE,PHILLIPPE,1749-01-08,Robert,servant,KING,Isabel,reeler,woollen manufacturer
+rec-948-org,John,M,MACKAY,MACKAY,1747-05-02,Willia,victualler,HOOPER,Lilian,currier,corn miller
+rec-949-org,Felix,M,GARDNER,GARDNER,1749-04-27,William,house carpenter,HANOLD,Elizabeth,house agent,foreman
+rec-95-dup-0,Hu9h,M,CARTER,CARTER,1737-01-06,Robert,servant,SELKIRK,Emma,fisherman,miller
+rec-95-dup-1,Hugj,M,CARTER,CARTER,1737-01-06,Robert,servant,SELKIRK,Emma,fisherman,miller
+rec-95-org,Hugh,M,CARTER,CARTER,1737-01-06,Robert,servant,SELKIRK,Emma,fisherman,miller
+rec-950-dup-0,Wi|liam,M,HULBERT,HULBERT,1747-12-28,Gavin,bootmaker,MASKEL,Mary,ag lab,engineer
+rec-950-dup-1,Williav,M,HULBERT,HULBERT,1747-12-28,Gavin,bootmaker,MASKEL,Mary,ag lab,engineer
+rec-950-org,William,M,HULBERT,HULBERT,1747-12-28,Gavin,bootmaker,MASKEL,Mary,ag lab,engineer
+rec-951-org,Maggie,F,MORRIS JNR,MORRIS JNR,1762-01-31,Donald,grocer,SOWDEN,Mary,brushmaker,metal merchant
+rec-952-org,David,M,HOCKLEY,HOCKLEY,1757-01-20,William,labourer,THOMAS,Isabella,managing director (department store),regular soldier
+rec-953-org,Catherine,F,WOOD,WOOD,1745-06-01,John,collier,WARD,Edith,nailor,cement works labourer
+rec-954-dup-0,Mragaret,F,HARRIS,HARRIS,1749-03-06,Daniel,chimney cleaner,BAKER,Lydia,weaver,stonecutter
+rec-954-dup-1,Margcret,F,HARRIS,HARRIS,1749-03-06,Daniel,chimney cleaner,BAKER,Lydia,weaver,stonecutter
+rec-954-org,Margaret,F,HARRIS,HARRIS,1749-03-06,Daniel,chimney cleaner,BAKER,Lydia,weaver,stonecutter
+rec-955-org,John,M,SHAW,SHAW,1751-06-05,Henry,engineer,MCKITTON,Margaret,medical practitioner,cycle and electrical retailer
+rec-956-org,Adam,M,BALLY,BALLY,1748-03-31,Wm,clerk,DOUR,Elizabeth,boatman,labourer
+rec-957-org,David,M,JOHNSTON,JOHNSTON,1746-10-04,Alexander,civil engineer,WOOD,Mary,mariner,road labourer
+rec-958-org,James,M,GEAKE,GEAKE,1746-10-03,Patrick,ag lab,ROBSON,Janet,cattle dealer,private in army - stretcher bearer
+rec-959-org,Abigail,F,HAYWOOD,HAYWOOD,1746-04-20,John,labourer,ROUSE,Janet,draper,ag lab
+rec-96-org,Agnes,F,OXLEE,OXLEE,1735-02-24,Robert,farmer and land owner,DYSON,Rebecca,lab,baptist minister
+rec-960-org,Jane,F,EARL OF DESART,EARL OF DESART,1746-06-12,Joseph,wine & spirit merchant,BIRNIE,Barbara,gardener,boot and shoemaker
+rec-961-org,John,M,HOWARD,HOWARD,1757-05-12,Donald,constable,BURNETT,Mary,cooper,tailor
+rec-962-org,Julia,F,KNOWLES,KNOWLES,1754-10-11,Robert,dressmaker,TROTTER,Agnes,blacksmith,servant
+rec-963-org,Roderick,M,HARRISON,HARRISON,1749-05-10,Joseph,domestic servant,KENT,Agnes,carpenter,clerk to electric supply company
+rec-964-org,John,M,BENN,BENN,1755-06-23,John,farmer,BLACK,Jane,labourer,shipmaster
+rec-965-org,Jane,F,WHITE,WHITE,1747-11-04,John,iron works lab,WOOD,Smith,printer and stationer,shipwright (hm dockyard)
+rec-966-org,Norman,M,JORDAN,JORDAN,1748-03-19,Thomas,saddler,GRUNDY,Mary,servant,military armament maker
+rec-967-org,Mary,F,FULLERTON,FULLERTON,1760-01-16,Richard,railway mechanic,HART,Mary,tailor,tailor
+rec-968-org,Susan,F,FLETCHER,FLETCHER,1746-07-17,Andrew,bleacher,COOK,Ann,shop assistant in greengrocer's,cargo superintendant
+rec-969-dup-0,Marjlry,F,KENNETT,KENNETT,1751-05-20,Robert,foreman fire service,SHAW,Janet,lab,tailor
+rec-969-dup-1,Marjoyr,F,KENNETT,KENNETT,1751-05-20,Robert,foreman fire service,SHAW,Janet,lab,tailor
+rec-969-dup-2,varjory,F,KENNETT,KENNETT,1751-05-20,Robert,foreman fire service,SHAW,Janet,lab,tailor
+rec-969-org,Marjory,F,KENNETT,KENNETT,1751-05-20,Robert,foreman fire service,SHAW,Janet,lab,tailor
+rec-97-org,Mary,F,TUSTIN,TUSTIN,1732-08-05,Robert,ag lab,DUPLOCK,Martha,farrier,clerk  football pools company
+rec-970-org,George,M,JANE,JANE,1745-05-23,Thomas,gas fitter,PEPPER,Janet,farmer,labourer
+rec-971-org,Johanna,F,POTTER,POTTER,1749-01-28,Robert,paper maker,WALLS,Mary,spinner,housekeeper
+rec-972-org,Helen,F,MILLETT,MILLETT,1745-11-10,George,saddler,YELLARD,Margret,lab,tailoress
+rec-973-org,Mary,F,JONE,JONE,1746-04-15,William,bricklayer,HARROD,Christina,moulder,farm lab
+rec-974-dup-0,Agjes,F,GIBBS,GIBBS,1750-09-18,James,miner,GRUNDY,Agnes,salvation army officer,printer and bookbinder
+rec-974-org,Agnes,F,GIBBS,GIBBS,1750-09-18,James,miner,GRUNDY,Agnes,salvation army officer,printer and bookbinder
+rec-975-org,Samuel,M,MCCOOMBS,MCCOOMBS,1748-09-09,Alexander,carpenter,FRY,Janet,sailor,clergyman
+rec-976-org,Ellen,F,POWELL,POWELL,1748-07-30,William,farmer,OWEN,Agnes,lab,carpenter
+rec-977-org,Mary,F,HARRIS,HARRIS,1748-05-01,John,accountant,MUDD,Elisabeth,printer,stevedore
+rec-978-org,Euphemia,F,PLATT,PLATT,1747-05-15,Alexander,house servant,RANSON,Ann,stitcher,boot maker
+rec-979-org,John,M,PARKER,PARKER,1746-10-11,John,plumber,WILLIAM,Isabella,inspector of munitions,blacksmith
+rec-98-org,Daniel,M,SPIRES,SPIRES,1728-08-05,John,tailor,GRINDROD,Joann,labourer,currier
+rec-980-org,Jeanie,F,OLDERSHAW,OLDERSHAW,1752-03-05,Andrew,labourer,WILLIAMS,Mary,tailor,clerk in oil co.
+rec-981-org,Thomas,M,ONSLOW,ONSLOW,1747-06-30,Robert,lab,STEDMAN,Elizabeth,narrow ribbon handloom weaver,case maker
+rec-982-org,William,M,MCQUEEN,MCQUEEN,1759-03-31,Matthew,telegraph asst,PHIGHTON,Agnes,fish & game dealer,currier apprentice
+rec-983-org,Jane,F,TROUP,TROUP,1744-04-03,David,corn factor and seedsman,LENNARD,Jessie,coal miner,shoe hand
+rec-984-org,Willi,M,TONGE,TONGE,1747-04-05,Mark,army officer,BASKETFIELD,Margaret,servant,school teacher
+rec-985-org,Mary,F,TEMPLER,TEMPLER,1746-05-27,James,master saddler,WINSOR,Barbara,hat-maker,builder
+rec-986-org,Cath,F,WALTON,WALTON,1746-07-09,Thos,brassfounder,TREDWELL,Elizabeth,farm labourer,gardener
+rec-987-dup-0,Daid,M,SHEA,SHEA,1756-06-15,Nathanieal,marine engineer, fitter,POTTER,Anne,farmer,waggoner
+rec-987-org,David,M,SHEA,SHEA,1756-06-15,Nathanieal,marine engineer, fitter,POTTER,Anne,farmer,waggoner
+rec-988-org,Thomas,M,SUNDERLAND,SUNDERLAND,1748-03-02,Alexander,farm lab,FRESHWATER,Margaret,brass moulder,leather merchant
+rec-989-dup-0,Willam,M,JONES,JONES,1748-02-09,Thos,basket worker,TAYLOR,Marge,cordwainer,farmer
+rec-989-org,William,M,JONES,JONES,1748-02-09,Thos,basket worker,TAYLOR,Marge,cordwainer,farmer
+rec-99-org,James,M,ODEY,ODEY,1729-08-13,Peter,cafe proprietor,FARBROTHER,Matilda,servant,miner
+rec-990-org,Mary,F,ASHFORD,ASHFORD,1747-11-03,Allan,refreshment contractor,PIERCE,Maggie,labourer,building contractor
+rec-991-dup-0,Thmoas,M,HOLLAND,HOLLAND,1748-06-12,Robt,resident maid,ATKINS,Margaret,ironmonger,master cutler
+rec-991-org,Thomas,M,HOLLAND,HOLLAND,1748-06-12,Robt,resident maid,ATKINS,Margaret,ironmonger,master cutler
+rec-992-org,Isabella,F,PARKINSON,PARKINSON,1746-07-26,John,butcher,IRVINE,Ellen,blacksmith,framework knitter
+rec-993-org,John,M,BROWN,BROWN,1745-03-31,Alexander,weaver,MURRAY,Mary,agent for kenmare estates,gardener
+rec-994-org,Helen,F,BRAILSFORD,BRAILSFORD,1747-11-23,Robert,brass finisher,RODGERS,Margaret,labourer,secretary
+rec-995-org,William,M,SAUNDERS,SAUNDERS,1755-11-05,Patrick,shepherd,SMITH,Helen,publican & innkeeper,builder
+rec-996-dup-0,ames,M,FAULCONER,FAULCONER,1746-07-12,Hugh,blacksmith,WOOD,Agnes,rsm soldier,priest
+rec-996-org,James,M,FAULCONER,FAULCONER,1746-07-12,Hugh,blacksmith,WOOD,Agnes,rsm soldier,priest
+rec-997-org,Elizabeth,F,QUICK,QUICK,1745-12-06,William,teacher,ORTON,Helen,farmer,nurseryman
+rec-998-org,Peter,M,GUNTON,GUNTON,1746-09-11,John,tailoress,SNELLING,Margaret,farmer,shoemaker
+rec-999-org,Charles,M,LARCOMBE,LARCOMBE,1750-04-10,Alex,master merchant mariner,ROSS,Margaret,farm bailiff,farmer
