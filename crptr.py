@@ -470,43 +470,79 @@ class CorruptDataSet:
               i += 1
               p_sum += attr_mod_data_list[i][0]
             corruptor_method = attr_mod_data_list[i][1]
+            #record level handling =============start================
+            if mod_attr_name == 'crptr-record':
+              mod_rec_list = dup_rec_list[:]
+              new_rec_val = corruptor_method.corrupt_value(mod_rec_list)
+              org_rec_val = rec_to_mod_list[:]
+              if (new_rec_val != org_rec_val):
+                print '  Selected attribute for modification:', mod_attr_name
+                print '    Selected corruptor:', corruptor_method.name
 
-            # Modify the value from the selected attribute
-            #
-            new_attr_val = corruptor_method.corrupt_value(mod_attr_val)
+                # The following weird string printing construct is to overcome
+                # problems with printing non-ASCII characters
+                #
+                print '      Original record value:', str(org_rec_val)[1:-1]
+                print '      Modified record value:', str(new_rec_val)[1:-1]
 
-            org_attr_val = rec_to_mod_list[mod_attr_name_index]
+                dup_rec_list = new_rec_val
 
-            # If the modified value is different insert it back into modified
-            # record
-            #
-            if (new_attr_val != org_attr_val):
-              print '  Selected attribute for modification:', mod_attr_name
-              print '    Selected corruptor:', corruptor_method.name
+                # One more modification for this attribute
+                #
+                attr_mod_count_dict[mod_attr_name] += 1
 
-              # The following weird string printing construct is to overcome
-              # problems with printing non-ASCII characters
+                # The number of modifications in a record corresponds to the
+                # number of modified attributes
+                #
+                num_mod_in_record = 0
+
+                for num_attr_mods in attr_mod_count_dict.values():
+                  if (num_attr_mods > 0):
+                    num_mod_in_record += 1  # One more modification
+                  assert num_mod_in_record <= self.num_mod_per_rec
+
+              num_tries += 1  # One more try to modify record
+            
+            #record level handling =============end===============
+            else:
+
+              # Modify the value from the selected attribute
               #
-              print '      Original attribute value:', str([org_attr_val])[1:-1]
-              print '      Modified attribute value:', str([new_attr_val])[1:-1]
+              new_attr_val = corruptor_method.corrupt_value(mod_attr_val)
 
-              dup_rec_list[mod_attr_name_index] = new_attr_val
+              org_attr_val = rec_to_mod_list[mod_attr_name_index]
 
-              # One more modification for this attribute
+              # If the modified value is different insert it back into modified
+              # record
               #
-              attr_mod_count_dict[mod_attr_name] += 1
+              if (new_attr_val != org_attr_val):
+                print '  Selected attribute for modification:', mod_attr_name
+                print '    Selected corruptor:', corruptor_method.name
 
-              # The number of modifications in a record corresponds to the
-              # number of modified attributes
-              #
-              num_mod_in_record = 0
+                # The following weird string printing construct is to overcome
+                # problems with printing non-ASCII characters
+                #
+                print '      Original attribute value:', str([org_attr_val])[1:-1]
+                print '      Modified attribute value:', str([new_attr_val])[1:-1]
 
-              for num_attr_mods in attr_mod_count_dict.values():
-                if (num_attr_mods > 0):
-                  num_mod_in_record += 1  # One more modification
-              assert num_mod_in_record <= self.num_mod_per_rec
+                dup_rec_list[mod_attr_name_index] = new_attr_val
 
-            num_tries += 1  # One more try to modify record
+                # One more modification for this attribute
+                #
+                attr_mod_count_dict[mod_attr_name] += 1
+
+                # The number of modifications in a record corresponds to the
+                # number of modified attributes
+                #
+                num_mod_in_record = 0
+
+                for num_attr_mods in attr_mod_count_dict.values():
+                  if (num_attr_mods > 0):
+                    num_mod_in_record += 1  # One more modification
+                assert num_mod_in_record <= self.num_mod_per_rec
+
+              num_tries += 1  # One more try to modify record
+
 
         # Check if this duplicate is different from all others for this original
         # record

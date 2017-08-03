@@ -659,3 +659,20 @@ def check_date_modification_methods(variable, value):
                        (variable, str(value))
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+#===================
+#Record Level Checks
+#===================
+def check_start_position_of_overflow(variable, value):
+  """Check if the value given is valid date components to be modified (corrupted).
+     valid components to modify are: ('day', 'month', 'year')
+     Component/s should be handled in a list 
+     The argument 'variable' needs to be set to the name (as a string) of the
+     value which is checked.
+  """
+  check_is_non_empty_string('variable', variable)
+  if (value not in ['beginning', 'ending']):
+    raise Exception, 'Value of "%s" is not a valid start position . Valid start positions are beginning and ending: %s' % \
+                     (variable, str(value))
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

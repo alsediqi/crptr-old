@@ -1,0 +1,124 @@
+rec-id,crptr-record,FirstName,LastName,MotherFirstName,FatherLastName,DateofBirth,FatherFirstName,FatherOccupation,MotherLastName,Gender,MotherOccupation
+rec-0-d-0,duplicate,George,ALCORN,Mary,ALCORN,1712-08-21,Hugh,carpenter,ELLIOT,M,weaver
+rec-0-org,original,George,ALCORN,Mary,ALCORN,1712-08-21,Hugh,carpenter,ELLIOT,M,weaver
+rec-1-org,original,Peter,RICH,Isabella,RICH,1713-10-22,James,time keeper (civil engineering),FAGAN,M,teacher
+rec-10-org,original,Anne,ALCORN,Mary,ALCORN,1728-03-13,Hugh,carpenter,ELLIOT,F,weaver
+rec-11-org,original,Jas,WHATTON,Elisabeth,WHATTON,1721-10-22,John,carpenter,STEPHENSON,M,mariner
+rec-12-org,original,Mark,TONGE,Sophia,TONGE,1721-05-30,John,parish clerk,ROBINSON,M,locksmith
+rec-13-org,original,John,HUNTLEY,Jane,HUNTLEY,1723-01-10,Samuel,shepherd,BAKER,M,coal miner
+rec-14-org,original,William,RICH,Isabella,RICH,1724-02-27,James,time keeper (civil engineering),FAGAN,M,teacher
+rec-15-org,original,Catherine,FOSTER,Eliz,FOSTER,1725-11-13,Hugh,labourer,TROOP,F,oriform machinist
+rec-16-org,original,Mary,CARTER,Emma,CARTER,1724-01-10,Robert,servant,SELKIRK,F,fisherman
+rec-17-org,original,Isabella,THOMAS,C,THOMAS,1718-10-31,Matthew,farmer,PHILLIPS,F,domestic servant
+rec-18-org,original,John,THOMAS,C,THOMAS,1718-10-31,Matthew,farmer,PHILLIPS,M,domestic servant
+rec-19-d-0,duplicate,Jane,BELL,Helen,BELL,1727-01-13,John,lab,HARDCASTLE,F,carpenter
+rec-19-org,original,Jane,BELL,Helen,BELL,1727-01-13,John,lab,HARDCASTLE,F,carpenter
+rec-2-org,original,George,MARCH,Margaret,MARCH,1719-06-06,Andrew,bricklayer,MITCHELL,M,domestic servant
+rec-20-org,original,William,JONE,Jane,JONE,1726-05-14,Duncan,saddler,PARDOE,M,gardener
+rec-21-d-0,duplicate,Isabella,DANNILS,Marion,DANNILS,1724-03-14,Robert,warehouseman,LOCK,F,foreman mechanic
+rec-21-org,original,Isabella,DANNILS,Marion,DANNILS,1724-03-14,Robert,warehouseman,LOCK,F,foreman mechanic
+rec-22-org,original,Willia,MAHAFFEY,Matilda,MAHAFFEY,1720-01-11,Hugh,curate,FARBROTHER,M,servant
+rec-23-org,original,Margaret,WILKIE,Isabella,WILKIE,1731-01-20,Henry,bricklayer,BOTT,F,orchestra attendant
+rec-24-d-0,duplicate,Ernest,TAYLOR,Elizabeth,TAYLOR,1720-04-08,John,mason,PICKTON,M,farmer
+rec-24-org,original,Ernest,TAYLOR,Elizabeth,TAYLOR,1720-04-08,John,mason,PICKTON,M,farmer
+rec-25-org,original,Eliza,HARD,Annie,HARD,1725-11-27,George,mason,HUTTON,F,blacksmith
+rec-26-org,original,Thomas,WHARTON,Mary,WHARTON,1733-08-28,Ronald,merchant,OLIVER,M,royal marines- private
+rec-27-org,original,Mary,LAWSLEY,Margaret,LAWSLEY,1729-12-20,James,poulterer,MCNAB,F,bus conductor
+rec-28-org,original,Donald,GREEN,Jane,GREEN,1722-11-07,James,smith,WILLIAMS,M,brickmaker
+rec-29-d-0,duplicate,Charlotte,TUCKER,Margret,TUCKER,1721-06-29,James,blacksmith,MOUNTFORD,F,master mariner
+rec-29-org,original,Charlotte,TUCKER,Margret,TUCKER,1721-06-29,James,blacksmith,MOUNTFORD,F,master mariner
+rec-3-org,original,James,MAHAFFEY,Matilda,MAHAFFEY,1714-09-21,Hugh,curate,FARBROTHER,M,servant
+rec-30-org,original,Joseph,FOX,Jane,FOX,1729-09-17,William,mariner,REYNOLDS,M,jailor
+rec-31-org,original,Jessie,DERBY,Isabella,DERBY,1726-01-31,Hugh,stonemason,CURD,F,silk dyer
+rec-32-org,original,Nellie,ENGLISH,Margaret,ENGLISH,1722-06-19,Robert,tailor,CHALMERS,F,carriage works tinsmith
+rec-33-org,original,Elizabeth,BOLAND,Agnes,BOLAND,1723-11-12,James,blacksmith,LEES,F,master mariner
+rec-34-org,original,William,LYONS,Susanah,LYONS,1724-08-01,Edward,chemist and druggist,NOTT,M,builder
+rec-35-org,original,James,BOND,Margt,BOND,1736-01-14,James,delver,CRAUFORD,M,joiner
+rec-36-org,original,Catherine,ROGERS,Mary,ROGERS,1722-01-09,James,servant,ELDRED,F,manager- tile factory
+rec-37-org,original,Isabella,HILL,Mary,HILL,1731-07-15,John,chainmaker,HOWEL,F,boilermaker
+rec-38-org,original,Betsy,MARCH,Margaret,MARCH,1729-12-18,Andrew,bricklayer,MITCHELL,F,domestic servant
+rec-39-d-0,duplicate,Alexr,BURNETT,Amelia,BURNETT,1728-05-09,John,collier,JACKSON,M,fireman-
+rec-39-org,original,Alexr,BURNETT,Amelia,BURNETT,1728-05-09,John,collier,JACKSON,M,fireman-
+rec-4-org,original,Thos,CAMPBELL,Janet,CAMPBELL,1727-02-17,Robt,bookseller,CONWAY,M,domestic servant
+rec-40-org,original,Agnes,TAYLOR,Isabella,TAYLOR,1722-05-15,William,officer of customs & excise (docks),EVANS,F,mechanical engineering worker (skilled)
+rec-41-d-0,duplicate,James,DAVIES,Elizabeth,DAVIES,1727-09-01,Mark,transport rider,SPRINGETT,M,cabinet maker
+rec-41-org,original,James,DAVIES,Elizabeth,DAVIES,1727-09-01,Mark,transport rider,SPRINGETT,M,cabinet maker
+rec-42-org,original,Sarah,BACKHOUSE,Jane,BACKHOUSE,1725-10-14,Thomas,ag lab,DAVIDSON,F,assistant secretary- museum
+rec-43-org,original,Alice,SMITH,Isabella,SMITH,1724-04-23,Hugh,potter,SPRAGG,F,engine driver (british rail)
+rec-44-org,original,Helen,SMITH,Isabella,SMITH,1724-04-23,Hugh,potter,SPRAGG,F,engine driver (british rail)
+rec-45-org,original,Jessie,PERRY,Jane,PERRY,1727-11-16,John,coal miner,BINGHAM,F,house parlour maid
+rec-46-org,original,Elizabeth,TAYLOR,Elizabeth,TAYLOR,1725-06-11,John,mason,PICKTON,F,farmer
+rec-47-org,original,Annie,CALVERT,Janet,CALVERT,1723-10-26,Alexr,shoemaker,HENDELL,F,waterman
+rec-48-d-0,duplicate,Ann,BENN,Jane,BENN,1724-02-25,Charles,domestic servant,HOWARTH,F,farm labourer
+rec-48-org,original,Ann,BENN,Jane,BENN,1724-02-25,Charles,domestic servant,HOWARTH,F,farm labourer
+rec-49-org,original,James,WILLIAMS,Elizabeth,WILLIAMS,1726-11-08,David,cab proprietor,RAE,M,cheesemonger
+rec-5-org,original,Luis,REAKES,Elizabeth,REAKES,1724-03-31,Willi,labourer,SCHULEN,F,fitter at steelplant
+rec-50-org,original,Jessie,MORRISON,Jessie,MORRISON,1727-11-27,William,miller,HARRISON,F,painter
+rec-51-d-0,duplicate,Andrew,DAUKES,Anne,DAUKES,1727-10-30,James,carter,REDFORDS,M,gardener
+rec-51-org,original,Andrew,DAUKES,Anne,DAUKES,1727-10-30,James,carter,REDFORDS,M,gardener
+rec-52-org,original,Annie,THOMAS,Christina,THOMAS,1726-08-06,Samuel,landowner,GREENAWAY,F,nurseryman
+rec-53-org,original,Jane,STEPHENS,Janet,STEPHENS,1725-09-05,Wm,riding master,KNOW,F,secretary
+rec-54-org,original,Rachael,STEPHENS,Janet,STEPHENS,1725-09-05,Wm,riding master,KNOW,F,secretary
+rec-55-d-0,duplicate,Ann,TONGE,Sophia,TONGE,1728-01-09,John,parish clerk,ROBINSON,F,locksmith
+rec-55-org,original,Ann,TONGE,Sophia,TONGE,1728-01-09,John,parish clerk,ROBINSON,F,locksmith
+rec-56-org,original,Ella,TUCKER,Margret,TUCKER,1724-11-15,James,blacksmith,MOUNTFORD,F,master mariner
+rec-57-d-0,duplicate,David,FLINT,Jane,FLINT,1728-07-22,Robert,farmer,MORISON,M,grocer
+rec-57-org,original,David,FLINT,Jane,FLINT,1728-07-22,Robert,farmer,MORISON,M,grocer
+rec-58-d-0,duplicate,Betsy,BOWMAN,Jane,BOWMAN,1724-12-14,Hugh,draper,TREDWIN,F,clerk
+rec-58-org,original,Betsy,BOWMAN,Jane,BOWMAN,1724-12-14,Hugh,draper,TREDWIN,F,clerk
+rec-59-org,original,Mary,CORNER,Marion,CORNER,1731-05-30,Donald,chargehand/foreman,SCHOLES,F,bootmaker
+rec-6-org,original,Martha,GRIFFITHS,Euphemia,GRIFFITHS,1735-06-28,Leslie,indian army engineer,HARDY,F,brewery labourer
+rec-60-org,original,Sarah,WALLER,Caloline,WALLER,1726-06-06,Robert,hawker,SMITH,F,farmer
+rec-61-org,original,Louisa,ROBINSON,Annie,ROBINSON,1731-10-21,James,shoemaker,STONE,F,coal miner
+rec-62-org,original,David,PHILLIPS,Ellen,PHILLIPS,1726-11-01,John,textile worker,SHINN,M,mariner
+rec-63-org,original,John,WHATTON,Elisabeth,WHATTON,1729-10-02,John,carpenter,STEPHENSON,M,mariner
+rec-64-org,original,Thomas,BAKER,Elizebath,BAKER,1731-06-24,William,cordwainer,HALL,M,ag lab
+rec-65-org,original,George,HOLLAND,Agnes,HOLLAND,1728-03-05,Willia,lt rn,MAGRATH,M,stone cutter
+rec-66-org,original,Henry,ROGERS,Mary,ROGERS,1725-07-06,James,servant,ELDRED,M,manager- tile factory
+rec-67-org,original,David,TAYLOR,Isabella,TAYLOR,1727-01-27,William,officer of customs & excise (docks),EVANS,M,mechanical engineering worker (skilled)
+rec-68-org,original,Margaret,ENGLISH,Margaret,ENGLISH,1730-06-11,Robert,tailor,CHALMERS,F,carriage works tinsmith
+rec-69-org,original,Jane,HALL,Jane,HALL,1727-12-16,Daniel,forgeman,LATINDIE,F,gentleman
+rec-7-d-0,duplicate,James,THOMAS,C,THOMAS,1714-06-09,Matthew,farmer,PHILLIPS,M,domestic servant
+rec-7-org,original,James,THOMAS,C,THOMAS,1714-06-09,Matthew,farmer,PHILLIPS,M,domestic servant
+rec-70-org,original,Agnes,MCCRAE,Jane,MCCRAE,1729-03-02,Henry,servant,WALTERS,F,gardener
+rec-71-org,original,Bella,SCAUTLEBURG,Maggie,SCAUTLEBURG,1740-05-26,Alexander,secretary,HAMPDEN,F,ag lab
+rec-72-d-0,duplicate,Jean,RAND,Jane,RAND,1740-09-07,David,shipwright,FREELING,F,printer
+rec-72-org,original,Jean,RAND,Jane,RAND,1740-09-07,David,shipwright,FREELING,F,printer
+rec-73-d-0,duplicate,Mary,BENSON,Jessie,BENSON,1748-03-08,Alexander,coachman/groom,HARRIS,F,foreman (boot making)
+rec-73-org,original,Mary,BENSON,Jessie,BENSON,1748-03-08,Alexander,coachman/groom,HARRIS,F,foreman (boot making)
+rec-74-org,original,Thomas,BURT,Georgina,BURT,1728-10-30,John,currier,HUNTER,M,file cutter
+rec-75-org,original,Mary,MCALLISTER,Mary,MCALLISTER,1735-11-28,Adam,stonemason,ATKIN,F,cook and housekeeper
+rec-76-d-0,duplicate,James,BECK,Kate,BECK,1740-03-25,Malcolm,builder,FELL,M,farmer
+rec-76-org,original,James,BECK,Kate,BECK,1740-03-25,Malcolm,builder,FELL,M,farmer
+rec-77-org,original,James,STEDMAN,Helen,STEDMAN,1732-01-27,David,coal miner,HART,M,cutter
+rec-78-d-0,duplicate,Grace,GREEN,Jane,GREEN,1729-12-30,James,smith,WILLIAMS,F,brickmaker
+rec-78-org,original,Grace,GREEN,Jane,GREEN,1729-12-30,James,smith,WILLIAMS,F,brickmaker
+rec-79-org,original,Margaret,ADAMSON,Isabella,ADAMSON,1729-03-20,Andrew,weaver,GIBSON,F,fitter and turner
+rec-8-org,original,Angus,ADAMSON,Jane,ADAMSON,1723-10-29,George,lady's maid,HARRISS,M,plasterer
+rec-80-org,original,John,HUNTLEY,Jane,HUNTLEY,1735-09-12,Samuel,shepherd,BAKER,M,coal miner
+rec-81-d-0,duplicate,David,ROGERS,Margaret,ROGERS,1730-08-08,Kenneth,iron moulder,SMITH,M,licensed victualler
+rec-81-org,original,David,ROGERS,Margaret,ROGERS,1730-08-08,Kenneth,iron moulder,SMITH,M,licensed victualler
+rec-82-d-0,duplicate,Margaret,DYER,Alice,DYER,1727-09-13,David,painter,ANDERSON,F,vinegar merchant
+rec-82-org,original,Margaret,DYER,Alice,DYER,1727-09-13,David,painter,ANDERSON,F,vinegar merchant
+rec-83-d-0,duplicate,Jeannie,FAIR,Mary,FAIR,1726-03-30,James,thatcher,NORSK,F,crane driver
+rec-83-org,original,Jeannie,FAIR,Mary,FAIR,1726-03-30,James,thatcher,NORSK,F,crane driver
+rec-84-d-0,duplicate,William,RACKHAM,Janet,RACKHAM,1734-01-13,Alexander,shoemaker,WALLACE,M,plasterer
+rec-84-org,original,William,RACKHAM,Janet,RACKHAM,1734-01-13,Alexander,shoemaker,WALLACE,M,plasterer
+rec-85-org,original,Jessie,GRETTON,Helen,GRETTON,1730-03-06,Andrew,shepherd,FERDINAND,F,blacksmith
+rec-86-org,original,Robert,SPENCE,Margaret,SPENCE,1731-02-22,David,provision dealer,MANNING,M,bootmaker
+rec-87-org,original,David,SKEAD,Helen,SKEAD,1731-02-11,Alexander,tailor,PEPPERELL,M,broker
+rec-88-org,original,Robt,HARTLEY,Jane,HARTLEY,1735-04-28,William,labourer,YARLEY,M,labourer
+rec-89-org,original,Mary,KEARSLEY,Ann,KEARSLEY,1732-02-16,Archibald,grocer,DOW,F,labourer
+rec-9-org,original,John,HILL,Mary,HILL,1719-03-16,John,chainmaker,HOWEL,M,boilermaker
+rec-90-org,original,Matthew,MCDONALD,Janet,MCDONALD,1729-09-21,Andrew,labourer,HAYES,M,grocer's assist.
+rec-91-org,original,Barbara,WRIGHT,Janet,WRIGHT,1732-09-11,Andrew,blacksmith,MARLES,F,engineer
+rec-92-org,original,George,CALVERT,Janet,CALVERT,1726-05-31,Alexr,shoemaker,HENDELL,M,waterman
+rec-93-d-0,duplicate,John,ADAMSON,Jane,ADAMSON,1736-03-14,George,lady's maid,HARRISS,M,plasterer
+rec-93-org,original,John,ADAMSON,Jane,ADAMSON,1736-03-14,George,lady's maid,HARRISS,M,plasterer
+rec-94-org,original,Archibald,BOLAND,Agnes,BOLAND,1728-11-05,James,blacksmith,LEES,M,master mariner
+rec-95-org,original,Hugh,CARTER,Emma,CARTER,1737-01-06,Robert,servant,SELKIRK,M,fisherman
+rec-96-org,original,Agnes,OXLEE,Rebecca,OXLEE,1735-02-24,Robert,farmer and land owner,DYSON,F,lab
+rec-97-org,original,Mary,TUSTIN,Martha,TUSTIN,1732-08-05,Robert,ag lab,DUPLOCK,F,farrier
+rec-98-org,original,Daniel,SPIRES,Joann,SPIRES,1728-08-05,John,tailor,GRINDROD,M,labourer
+rec-99-d-0,duplicate,James,ODEY,Matilda,ODEY,1729-08-13,Peter,cafe proprietor,FARBROTHER,M,servant
+rec-99-org,original,James,ODEY,Matilda,ODEY,1729-08-13,Peter,cafe proprietor,FARBROTHER,M,servant
